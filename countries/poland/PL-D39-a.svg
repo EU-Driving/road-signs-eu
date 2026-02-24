@@ -1,0 +1,3725 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="602.98212"
+   height="548.02679"
+   id="svg6341">
+  <title
+     id="title8944">Znak D-39a</title>
+  <defs
+     id="defs6343">
+    <pattern
+       id="pattern4002-0"
+       patternTransform="translate(18.50938,18)"
+       height="476"
+       width="370"
+       patternUnits="userSpaceOnUse">
+      <rect
+         style="fill:#00e5ff;fill-opacity:1"
+         id="rect2240-9"
+         width="370"
+         height="476"
+         x="0"
+         y="0"
+         rx="20"
+         ry="20" />
+    </pattern>
+    <pattern
+       id="pattern4002"
+       patternTransform="translate(18.50938,18)"
+       height="476"
+       width="370"
+       patternUnits="userSpaceOnUse">
+      <rect
+         style="fill:#00e5ff;fill-opacity:1"
+         id="rect2240"
+         width="370"
+         height="476"
+         x="0"
+         y="0"
+         rx="20"
+         ry="20" />
+    </pattern>
+    <symbol
+       id="*Paper_Space0" />
+    <symbol
+       id="*Paper_Space" />
+    <symbol
+       id="*Model_Space" />
+    <pattern
+       height="8"
+       width="8"
+       patternUnits="userSpaceOnUse"
+       y="0"
+       x="0"
+       id="Hatch">
+      <path
+         linecap="square"
+         stroke="#000000"
+         stroke-width="0.25"
+         d="M8 4 l-4,4"
+         id="path3346" />
+      <path
+         linecap="square"
+         stroke="#000000"
+         stroke-width="0.25"
+         d="M6 2 l-4,4"
+         id="path3348" />
+      <path
+         linecap="square"
+         stroke="#000000"
+         stroke-width="0.25"
+         d="M4 0 l-4,4"
+         id="path3350" />
+    </pattern>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="DistanceX"
+       style="overflow:visible">
+      <path
+         d="M 3,-3 -3,3 M 0,-5 0,5"
+         id="path3343"
+         style="stroke:#000000;stroke-width:0.5" />
+    </marker>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="370"
+       height="476"
+       patternTransform="translate(18.50938,18)"
+       id="pattern5932">
+      <rect
+         ry="20"
+         rx="20"
+         y="0"
+         x="0"
+         height="476"
+         width="370"
+         id="rect5934"
+         style="fill:#00e5ff;fill-opacity:1" />
+    </pattern>
+    <pattern
+       id="pattern4002-15"
+       patternTransform="translate(18.50938,18)"
+       height="476"
+       width="370"
+       patternUnits="userSpaceOnUse">
+      <rect
+         style="fill:#00e5ff;fill-opacity:1"
+         id="rect2240-27"
+         width="370"
+         height="476"
+         x="0"
+         y="0"
+         rx="20"
+         ry="20" />
+    </pattern>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="Arrow2Lstart"
+       style="overflow:visible">
+      <path
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         id="path5785"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </marker>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="Arrow2Lstart-3"
+       style="overflow:visible">
+      <path
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         id="path5785-2"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </marker>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="370"
+       height="476"
+       patternTransform="translate(18.50938,18)"
+       id="pattern4002-4">
+      <rect
+         ry="20"
+         rx="20"
+         y="0"
+         x="0"
+         height="476"
+         width="370"
+         id="rect2240-2"
+         style="fill:#00e5ff;fill-opacity:1" />
+    </pattern>
+    <pattern
+       id="pattern5932-6"
+       patternTransform="translate(18.50938,18)"
+       height="476"
+       width="370"
+       patternUnits="userSpaceOnUse">
+      <rect
+         style="fill:#00e5ff;fill-opacity:1"
+         id="rect5934-1"
+         width="370"
+         height="476"
+         x="0"
+         y="0"
+         rx="20"
+         ry="20" />
+    </pattern>
+    <pattern
+       id="pattern2944"
+       patternTransform="translate(18.50938,18)"
+       height="476"
+       width="370"
+       patternUnits="userSpaceOnUse">
+      <rect
+         style="fill:#00e5ff;fill-opacity:1"
+         id="rect2946"
+         width="370"
+         height="476"
+         x="0"
+         y="0"
+         rx="20"
+         ry="20" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="370"
+       height="476"
+       patternTransform="translate(18.50938,18)"
+       id="pattern2940">
+      <rect
+         ry="20"
+         rx="20"
+         y="0"
+         x="0"
+         height="476"
+         width="370"
+         id="rect2942"
+         style="fill:#00e5ff;fill-opacity:1" />
+    </pattern>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="marker2936"
+       style="overflow:visible">
+      <path
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         id="path2938"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </marker>
+    <pattern
+       id="pattern5613"
+       patternTransform="translate(18.50938,18)"
+       height="476"
+       width="370"
+       patternUnits="userSpaceOnUse">
+      <rect
+         style="fill:#00e5ff;fill-opacity:1"
+         id="rect5615"
+         width="370"
+         height="476"
+         x="0"
+         y="0"
+         rx="20"
+         ry="20" />
+    </pattern>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="marker2313"
+       style="overflow:visible">
+      <path
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         id="path2315"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </marker>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="370"
+       height="476"
+       patternTransform="translate(18.50938,18)"
+       id="pattern2317">
+      <rect
+         ry="20"
+         rx="20"
+         y="0"
+         x="0"
+         height="476"
+         width="370"
+         id="rect2319"
+         style="fill:#00e5ff;fill-opacity:1" />
+    </pattern>
+    <pattern
+       id="pattern2321"
+       patternTransform="translate(18.50938,18)"
+       height="476"
+       width="370"
+       patternUnits="userSpaceOnUse">
+      <rect
+         style="fill:#00e5ff;fill-opacity:1"
+         id="rect2323"
+         width="370"
+         height="476"
+         x="0"
+         y="0"
+         rx="20"
+         ry="20" />
+    </pattern>
+    <pattern
+       id="pattern3936"
+       patternTransform="translate(18.50938,18)"
+       height="476"
+       width="370"
+       patternUnits="userSpaceOnUse">
+      <rect
+         style="fill:#00e5ff;fill-opacity:1"
+         id="rect3938"
+         width="370"
+         height="476"
+         x="0"
+         y="0"
+         rx="20"
+         ry="20" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="370"
+       height="476"
+       patternTransform="translate(18.50938,18)"
+       id="pattern3932">
+      <rect
+         ry="20"
+         rx="20"
+         y="0"
+         x="0"
+         height="476"
+         width="370"
+         id="rect3934"
+         style="fill:#00e5ff;fill-opacity:1" />
+    </pattern>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="marker3928"
+       style="overflow:visible">
+      <path
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         id="path3930"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </marker>
+    <pattern
+       id="pattern4296"
+       patternTransform="translate(18.50938,18)"
+       height="476"
+       width="370"
+       patternUnits="userSpaceOnUse">
+      <rect
+         style="fill:#00e5ff;fill-opacity:1"
+         id="rect4298"
+         width="370"
+         height="476"
+         x="0"
+         y="0"
+         rx="20"
+         ry="20" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="370"
+       height="476"
+       patternTransform="translate(18.50938,18)"
+       id="pattern4292">
+      <rect
+         ry="20"
+         rx="20"
+         y="0"
+         x="0"
+         height="476"
+         width="370"
+         id="rect4294"
+         style="fill:#00e5ff;fill-opacity:1" />
+    </pattern>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="marker4288"
+       style="overflow:visible">
+      <path
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         id="path4290"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </marker>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="marker3341"
+       style="overflow:visible">
+      <path
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         id="path3343-6"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </marker>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="370"
+       height="476"
+       patternTransform="translate(18.50938,18)"
+       id="pattern3337">
+      <rect
+         ry="20"
+         rx="20"
+         y="0"
+         x="0"
+         height="476"
+         width="370"
+         id="rect3339"
+         style="fill:#00e5ff;fill-opacity:1" />
+    </pattern>
+    <pattern
+       id="pattern3333"
+       patternTransform="translate(18.50938,18)"
+       height="476"
+       width="370"
+       patternUnits="userSpaceOnUse">
+      <rect
+         style="fill:#00e5ff;fill-opacity:1"
+         id="rect3335"
+         width="370"
+         height="476"
+         x="0"
+         y="0"
+         rx="20"
+         ry="20" />
+    </pattern>
+    <pattern
+       id="pattern3329"
+       patternTransform="translate(18.50938,18)"
+       height="476"
+       width="370"
+       patternUnits="userSpaceOnUse">
+      <rect
+         style="fill:#00e5ff;fill-opacity:1"
+         id="rect3331"
+         width="370"
+         height="476"
+         x="0"
+         y="0"
+         rx="20"
+         ry="20" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="370"
+       height="476"
+       patternTransform="translate(18.50938,18)"
+       id="pattern3325">
+      <rect
+         ry="20"
+         rx="20"
+         y="0"
+         x="0"
+         height="476"
+         width="370"
+         id="rect3327"
+         style="fill:#00e5ff;fill-opacity:1" />
+    </pattern>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="marker3321"
+       style="overflow:visible">
+      <path
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         id="path3323"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </marker>
+    <pattern
+       id="pattern3317"
+       patternTransform="translate(18.50938,18)"
+       height="476"
+       width="370"
+       patternUnits="userSpaceOnUse">
+      <rect
+         style="fill:#00e5ff;fill-opacity:1"
+         id="rect3319"
+         width="370"
+         height="476"
+         x="0"
+         y="0"
+         rx="20"
+         ry="20" />
+    </pattern>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="marker3313"
+       style="overflow:visible">
+      <path
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         id="path3315"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </marker>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="370"
+       height="476"
+       patternTransform="translate(18.50938,18)"
+       id="pattern3309">
+      <rect
+         ry="20"
+         rx="20"
+         y="0"
+         x="0"
+         height="476"
+         width="370"
+         id="rect3311"
+         style="fill:#00e5ff;fill-opacity:1" />
+    </pattern>
+    <pattern
+       id="pattern3305"
+       patternTransform="translate(18.50938,18)"
+       height="476"
+       width="370"
+       patternUnits="userSpaceOnUse">
+      <rect
+         style="fill:#00e5ff;fill-opacity:1"
+         id="rect3307"
+         width="370"
+         height="476"
+         x="0"
+         y="0"
+         rx="20"
+         ry="20" />
+    </pattern>
+    <pattern
+       id="pattern3301"
+       patternTransform="translate(18.50938,18)"
+       height="476"
+       width="370"
+       patternUnits="userSpaceOnUse">
+      <rect
+         style="fill:#00e5ff;fill-opacity:1"
+         id="rect3303"
+         width="370"
+         height="476"
+         x="0"
+         y="0"
+         rx="20"
+         ry="20" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="370"
+       height="476"
+       patternTransform="translate(18.50938,18)"
+       id="pattern3297">
+      <rect
+         ry="20"
+         rx="20"
+         y="0"
+         x="0"
+         height="476"
+         width="370"
+         id="rect3299"
+         style="fill:#00e5ff;fill-opacity:1" />
+    </pattern>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="marker3293"
+       style="overflow:visible">
+      <path
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         id="path3295"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </marker>
+    <pattern
+       id="pattern3289"
+       patternTransform="translate(18.50938,18)"
+       height="476"
+       width="370"
+       patternUnits="userSpaceOnUse">
+      <rect
+         style="fill:#00e5ff;fill-opacity:1"
+         id="rect3291"
+         width="370"
+         height="476"
+         x="0"
+         y="0"
+         rx="20"
+         ry="20" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="370"
+       height="476"
+       patternTransform="translate(18.50938,18)"
+       id="pattern3285">
+      <rect
+         ry="20"
+         rx="20"
+         y="0"
+         x="0"
+         height="476"
+         width="370"
+         id="rect3287"
+         style="fill:#00e5ff;fill-opacity:1" />
+    </pattern>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="marker3281"
+       style="overflow:visible">
+      <path
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         id="path3283"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </marker>
+    <pattern
+       id="pattern4002-9"
+       patternTransform="translate(18.50938,18)"
+       height="476"
+       width="370"
+       patternUnits="userSpaceOnUse">
+      <rect
+         style="fill:#00e5ff;fill-opacity:1"
+         id="rect2240-4"
+         width="370"
+         height="476"
+         x="0"
+         y="0"
+         rx="20"
+         ry="20" />
+    </pattern>
+    <pattern
+       id="pattern4002-1-8"
+       patternTransform="translate(18.50938,18)"
+       height="476"
+       width="370"
+       patternUnits="userSpaceOnUse">
+      <rect
+         style="fill:#00e5ff;fill-opacity:1"
+         id="rect2240-7-8"
+         width="370"
+         height="476"
+         x="0"
+         y="0"
+         rx="20"
+         ry="20" />
+    </pattern>
+    <pattern
+       id="pattern4002-2"
+       patternTransform="translate(18.50938,18)"
+       height="476"
+       width="370"
+       patternUnits="userSpaceOnUse">
+      <rect
+         style="fill:#00e5ff;fill-opacity:1"
+         id="rect2240-45"
+         width="370"
+         height="476"
+         x="0"
+         y="0"
+         rx="20"
+         ry="20" />
+    </pattern>
+    <pattern
+       id="pattern4002-8"
+       patternTransform="translate(18.50938,18)"
+       height="476"
+       width="370"
+       patternUnits="userSpaceOnUse">
+      <rect
+         style="fill:#00e5ff;fill-opacity:1"
+         id="rect2240-6"
+         width="370"
+         height="476"
+         x="0"
+         y="0"
+         rx="20"
+         ry="20" />
+    </pattern>
+    <pattern
+       id="pattern4002-1"
+       patternTransform="translate(18.50938,18)"
+       height="476"
+       width="370"
+       patternUnits="userSpaceOnUse">
+      <rect
+         style="fill:#00e5ff;fill-opacity:1"
+         id="rect2240-7"
+         width="370"
+         height="476"
+         x="0"
+         y="0"
+         rx="20"
+         ry="20" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="370"
+       height="476"
+       patternTransform="translate(18.50938,18)"
+       id="pattern5932-8">
+      <rect
+         ry="20"
+         rx="20"
+         y="0"
+         x="0"
+         height="476"
+         width="370"
+         id="rect5934-8"
+         style="fill:#00e5ff;fill-opacity:1" />
+    </pattern>
+    <pattern
+       id="pattern4002-15-7"
+       patternTransform="translate(18.50938,18)"
+       height="476"
+       width="370"
+       patternUnits="userSpaceOnUse">
+      <rect
+         style="fill:#00e5ff;fill-opacity:1"
+         id="rect2240-27-5"
+         width="370"
+         height="476"
+         x="0"
+         y="0"
+         rx="20"
+         ry="20" />
+    </pattern>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="Arrow2Lstart-2"
+       style="overflow:visible">
+      <path
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         id="path5785-7"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </marker>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="Arrow2Lstart-3-1"
+       style="overflow:visible">
+      <path
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         id="path5785-2-7"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </marker>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="370"
+       height="476"
+       patternTransform="translate(18.50938,18)"
+       id="pattern4002-4-5">
+      <rect
+         ry="20"
+         rx="20"
+         y="0"
+         x="0"
+         height="476"
+         width="370"
+         id="rect2240-2-9"
+         style="fill:#00e5ff;fill-opacity:1" />
+    </pattern>
+    <pattern
+       id="pattern5932-6-2"
+       patternTransform="translate(18.50938,18)"
+       height="476"
+       width="370"
+       patternUnits="userSpaceOnUse">
+      <rect
+         style="fill:#00e5ff;fill-opacity:1"
+         id="rect5934-1-8"
+         width="370"
+         height="476"
+         x="0"
+         y="0"
+         rx="20"
+         ry="20" />
+    </pattern>
+    <pattern
+       id="pattern2944-7"
+       patternTransform="translate(18.50938,18)"
+       height="476"
+       width="370"
+       patternUnits="userSpaceOnUse">
+      <rect
+         style="fill:#00e5ff;fill-opacity:1"
+         id="rect2946-8"
+         width="370"
+         height="476"
+         x="0"
+         y="0"
+         rx="20"
+         ry="20" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="370"
+       height="476"
+       patternTransform="translate(18.50938,18)"
+       id="pattern2940-6">
+      <rect
+         ry="20"
+         rx="20"
+         y="0"
+         x="0"
+         height="476"
+         width="370"
+         id="rect2942-9"
+         style="fill:#00e5ff;fill-opacity:1" />
+    </pattern>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="marker2936-9"
+       style="overflow:visible">
+      <path
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         id="path2938-4"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </marker>
+    <pattern
+       id="pattern5613-2"
+       patternTransform="translate(18.50938,18)"
+       height="476"
+       width="370"
+       patternUnits="userSpaceOnUse">
+      <rect
+         style="fill:#00e5ff;fill-opacity:1"
+         id="rect5615-8"
+         width="370"
+         height="476"
+         x="0"
+         y="0"
+         rx="20"
+         ry="20" />
+    </pattern>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="marker2313-6"
+       style="overflow:visible">
+      <path
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         id="path2315-4"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </marker>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="370"
+       height="476"
+       patternTransform="translate(18.50938,18)"
+       id="pattern2317-6">
+      <rect
+         ry="20"
+         rx="20"
+         y="0"
+         x="0"
+         height="476"
+         width="370"
+         id="rect2319-6"
+         style="fill:#00e5ff;fill-opacity:1" />
+    </pattern>
+    <pattern
+       id="pattern2321-0"
+       patternTransform="translate(18.50938,18)"
+       height="476"
+       width="370"
+       patternUnits="userSpaceOnUse">
+      <rect
+         style="fill:#00e5ff;fill-opacity:1"
+         id="rect2323-7"
+         width="370"
+         height="476"
+         x="0"
+         y="0"
+         rx="20"
+         ry="20" />
+    </pattern>
+    <pattern
+       id="pattern3936-2"
+       patternTransform="translate(18.50938,18)"
+       height="476"
+       width="370"
+       patternUnits="userSpaceOnUse">
+      <rect
+         style="fill:#00e5ff;fill-opacity:1"
+         id="rect3938-2"
+         width="370"
+         height="476"
+         x="0"
+         y="0"
+         rx="20"
+         ry="20" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="370"
+       height="476"
+       patternTransform="translate(18.50938,18)"
+       id="pattern3932-3">
+      <rect
+         ry="20"
+         rx="20"
+         y="0"
+         x="0"
+         height="476"
+         width="370"
+         id="rect3934-5"
+         style="fill:#00e5ff;fill-opacity:1" />
+    </pattern>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="marker3928-3"
+       style="overflow:visible">
+      <path
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         id="path3930-9"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </marker>
+    <pattern
+       id="pattern4296-0"
+       patternTransform="translate(18.50938,18)"
+       height="476"
+       width="370"
+       patternUnits="userSpaceOnUse">
+      <rect
+         style="fill:#00e5ff;fill-opacity:1"
+         id="rect4298-9"
+         width="370"
+         height="476"
+         x="0"
+         y="0"
+         rx="20"
+         ry="20" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="370"
+       height="476"
+       patternTransform="translate(18.50938,18)"
+       id="pattern4292-6">
+      <rect
+         ry="20"
+         rx="20"
+         y="0"
+         x="0"
+         height="476"
+         width="370"
+         id="rect4294-1"
+         style="fill:#00e5ff;fill-opacity:1" />
+    </pattern>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="marker4288-7"
+       style="overflow:visible">
+      <path
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         id="path4290-2"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </marker>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="marker3341-6"
+       style="overflow:visible">
+      <path
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         id="path3343-3"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </marker>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="370"
+       height="476"
+       patternTransform="translate(18.50938,18)"
+       id="pattern3337-3">
+      <rect
+         ry="20"
+         rx="20"
+         y="0"
+         x="0"
+         height="476"
+         width="370"
+         id="rect3339-2"
+         style="fill:#00e5ff;fill-opacity:1" />
+    </pattern>
+    <pattern
+       id="pattern3333-2"
+       patternTransform="translate(18.50938,18)"
+       height="476"
+       width="370"
+       patternUnits="userSpaceOnUse">
+      <rect
+         style="fill:#00e5ff;fill-opacity:1"
+         id="rect3335-3"
+         width="370"
+         height="476"
+         x="0"
+         y="0"
+         rx="20"
+         ry="20" />
+    </pattern>
+    <pattern
+       id="pattern3329-2"
+       patternTransform="translate(18.50938,18)"
+       height="476"
+       width="370"
+       patternUnits="userSpaceOnUse">
+      <rect
+         style="fill:#00e5ff;fill-opacity:1"
+         id="rect3331-9"
+         width="370"
+         height="476"
+         x="0"
+         y="0"
+         rx="20"
+         ry="20" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="370"
+       height="476"
+       patternTransform="translate(18.50938,18)"
+       id="pattern3325-9">
+      <rect
+         ry="20"
+         rx="20"
+         y="0"
+         x="0"
+         height="476"
+         width="370"
+         id="rect3327-4"
+         style="fill:#00e5ff;fill-opacity:1" />
+    </pattern>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="marker3321-2"
+       style="overflow:visible">
+      <path
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         id="path3323-8"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </marker>
+    <pattern
+       id="pattern3317-7"
+       patternTransform="translate(18.50938,18)"
+       height="476"
+       width="370"
+       patternUnits="userSpaceOnUse">
+      <rect
+         style="fill:#00e5ff;fill-opacity:1"
+         id="rect3319-9"
+         width="370"
+         height="476"
+         x="0"
+         y="0"
+         rx="20"
+         ry="20" />
+    </pattern>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="marker3313-0"
+       style="overflow:visible">
+      <path
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         id="path3315-2"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </marker>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="370"
+       height="476"
+       patternTransform="translate(18.50938,18)"
+       id="pattern3309-5">
+      <rect
+         ry="20"
+         rx="20"
+         y="0"
+         x="0"
+         height="476"
+         width="370"
+         id="rect3311-8"
+         style="fill:#00e5ff;fill-opacity:1" />
+    </pattern>
+    <pattern
+       id="pattern3305-8"
+       patternTransform="translate(18.50938,18)"
+       height="476"
+       width="370"
+       patternUnits="userSpaceOnUse">
+      <rect
+         style="fill:#00e5ff;fill-opacity:1"
+         id="rect3307-5"
+         width="370"
+         height="476"
+         x="0"
+         y="0"
+         rx="20"
+         ry="20" />
+    </pattern>
+    <pattern
+       id="pattern3301-3"
+       patternTransform="translate(18.50938,18)"
+       height="476"
+       width="370"
+       patternUnits="userSpaceOnUse">
+      <rect
+         style="fill:#00e5ff;fill-opacity:1"
+         id="rect3303-0"
+         width="370"
+         height="476"
+         x="0"
+         y="0"
+         rx="20"
+         ry="20" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="370"
+       height="476"
+       patternTransform="translate(18.50938,18)"
+       id="pattern3297-7">
+      <rect
+         ry="20"
+         rx="20"
+         y="0"
+         x="0"
+         height="476"
+         width="370"
+         id="rect3299-9"
+         style="fill:#00e5ff;fill-opacity:1" />
+    </pattern>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="marker3293-6"
+       style="overflow:visible">
+      <path
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         id="path3295-8"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </marker>
+    <pattern
+       id="pattern3289-8"
+       patternTransform="translate(18.50938,18)"
+       height="476"
+       width="370"
+       patternUnits="userSpaceOnUse">
+      <rect
+         style="fill:#00e5ff;fill-opacity:1"
+         id="rect3291-1"
+         width="370"
+         height="476"
+         x="0"
+         y="0"
+         rx="20"
+         ry="20" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="370"
+       height="476"
+       patternTransform="translate(18.50938,18)"
+       id="pattern3285-9">
+      <rect
+         ry="20"
+         rx="20"
+         y="0"
+         x="0"
+         height="476"
+         width="370"
+         id="rect3287-8"
+         style="fill:#00e5ff;fill-opacity:1" />
+    </pattern>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="marker3281-4"
+       style="overflow:visible">
+      <path
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         id="path3283-3"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </marker>
+    <pattern
+       id="pattern4002-9-6"
+       patternTransform="translate(18.50938,18)"
+       height="476"
+       width="370"
+       patternUnits="userSpaceOnUse">
+      <rect
+         style="fill:#00e5ff;fill-opacity:1"
+         id="rect2240-4-4"
+         width="370"
+         height="476"
+         x="0"
+         y="0"
+         rx="20"
+         ry="20" />
+    </pattern>
+    <pattern
+       id="pattern4002-1-8-4"
+       patternTransform="translate(18.50938,18)"
+       height="476"
+       width="370"
+       patternUnits="userSpaceOnUse">
+      <rect
+         style="fill:#00e5ff;fill-opacity:1"
+         id="rect2240-7-8-7"
+         width="370"
+         height="476"
+         x="0"
+         y="0"
+         rx="20"
+         ry="20" />
+    </pattern>
+    <pattern
+       id="pattern4002-2-6"
+       patternTransform="translate(18.50938,18)"
+       height="476"
+       width="370"
+       patternUnits="userSpaceOnUse">
+      <rect
+         style="fill:#00e5ff;fill-opacity:1"
+         id="rect2240-45-5"
+         width="370"
+         height="476"
+         x="0"
+         y="0"
+         rx="20"
+         ry="20" />
+    </pattern>
+    <pattern
+       id="pattern4002-6"
+       patternTransform="translate(18.50938,18)"
+       height="476"
+       width="370"
+       patternUnits="userSpaceOnUse">
+      <rect
+         style="fill:#00e5ff;fill-opacity:1"
+         id="rect2240-68"
+         width="370"
+         height="476"
+         x="0"
+         y="0"
+         rx="20"
+         ry="20" />
+    </pattern>
+    <pattern
+       id="pattern4002-1-3"
+       patternTransform="translate(18.50938,18)"
+       height="476"
+       width="370"
+       patternUnits="userSpaceOnUse">
+      <rect
+         style="fill:#00e5ff;fill-opacity:1"
+         id="rect2240-7-2"
+         width="370"
+         height="476"
+         x="0"
+         y="0"
+         rx="20"
+         ry="20" />
+    </pattern>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="Arrow2Lstart-4"
+       style="overflow:visible">
+      <path
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         id="path5785-1"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </marker>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="370"
+       height="476"
+       patternTransform="translate(18.50938,18)"
+       id="pattern4002-7">
+      <rect
+         ry="20"
+         rx="20"
+         y="0"
+         x="0"
+         height="476"
+         width="370"
+         id="rect2240-61"
+         style="fill:#00e5ff;fill-opacity:1" />
+    </pattern>
+    <pattern
+       id="pattern5932-3"
+       patternTransform="translate(18.50938,18)"
+       height="476"
+       width="370"
+       patternUnits="userSpaceOnUse">
+      <rect
+         style="fill:#00e5ff;fill-opacity:1"
+         id="rect5934-5"
+         width="370"
+         height="476"
+         x="0"
+         y="0"
+         rx="20"
+         ry="20" />
+    </pattern>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="marker7728"
+       style="overflow:visible">
+      <path
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         id="path7730-7"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </marker>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="370"
+       height="476"
+       patternTransform="translate(18.50938,18)"
+       id="pattern7732">
+      <rect
+         ry="20"
+         rx="20"
+         y="0"
+         x="0"
+         height="476"
+         width="370"
+         id="rect7734"
+         style="fill:#00e5ff;fill-opacity:1" />
+    </pattern>
+    <pattern
+       id="pattern7736"
+       patternTransform="translate(18.50938,18)"
+       height="476"
+       width="370"
+       patternUnits="userSpaceOnUse">
+      <rect
+         style="fill:#00e5ff;fill-opacity:1"
+         id="rect7738"
+         width="370"
+         height="476"
+         x="0"
+         y="0"
+         rx="20"
+         ry="20" />
+    </pattern>
+    <pattern
+       id="pattern7740"
+       patternTransform="translate(18.50938,18)"
+       height="476"
+       width="370"
+       patternUnits="userSpaceOnUse">
+      <rect
+         style="fill:#00e5ff;fill-opacity:1"
+         id="rect7742"
+         width="370"
+         height="476"
+         x="0"
+         y="0"
+         rx="20"
+         ry="20" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="370"
+       height="476"
+       patternTransform="translate(18.50938,18)"
+       id="pattern7744">
+      <rect
+         ry="20"
+         rx="20"
+         y="0"
+         x="0"
+         height="476"
+         width="370"
+         id="rect7746"
+         style="fill:#00e5ff;fill-opacity:1" />
+    </pattern>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="marker7748"
+       style="overflow:visible">
+      <path
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         id="path7750"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </marker>
+    <pattern
+       id="pattern7752"
+       patternTransform="translate(18.50938,18)"
+       height="476"
+       width="370"
+       patternUnits="userSpaceOnUse">
+      <rect
+         style="fill:#00e5ff;fill-opacity:1"
+         id="rect7754"
+         width="370"
+         height="476"
+         x="0"
+         y="0"
+         rx="20"
+         ry="20" />
+    </pattern>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="marker7756"
+       style="overflow:visible">
+      <path
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         id="path7758"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </marker>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="370"
+       height="476"
+       patternTransform="translate(18.50938,18)"
+       id="pattern7760">
+      <rect
+         ry="20"
+         rx="20"
+         y="0"
+         x="0"
+         height="476"
+         width="370"
+         id="rect7762"
+         style="fill:#00e5ff;fill-opacity:1" />
+    </pattern>
+    <pattern
+       id="pattern7764"
+       patternTransform="translate(18.50938,18)"
+       height="476"
+       width="370"
+       patternUnits="userSpaceOnUse">
+      <rect
+         style="fill:#00e5ff;fill-opacity:1"
+         id="rect7766"
+         width="370"
+         height="476"
+         x="0"
+         y="0"
+         rx="20"
+         ry="20" />
+    </pattern>
+    <pattern
+       id="pattern7768"
+       patternTransform="translate(18.50938,18)"
+       height="476"
+       width="370"
+       patternUnits="userSpaceOnUse">
+      <rect
+         style="fill:#00e5ff;fill-opacity:1"
+         id="rect7770"
+         width="370"
+         height="476"
+         x="0"
+         y="0"
+         rx="20"
+         ry="20" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="370"
+       height="476"
+       patternTransform="translate(18.50938,18)"
+       id="pattern7772">
+      <rect
+         ry="20"
+         rx="20"
+         y="0"
+         x="0"
+         height="476"
+         width="370"
+         id="rect7774"
+         style="fill:#00e5ff;fill-opacity:1" />
+    </pattern>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="marker7776"
+       style="overflow:visible">
+      <path
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         id="path7778"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </marker>
+    <pattern
+       id="pattern7780"
+       patternTransform="translate(18.50938,18)"
+       height="476"
+       width="370"
+       patternUnits="userSpaceOnUse">
+      <rect
+         style="fill:#00e5ff;fill-opacity:1"
+         id="rect7782"
+         width="370"
+         height="476"
+         x="0"
+         y="0"
+         rx="20"
+         ry="20" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="370"
+       height="476"
+       patternTransform="translate(18.50938,18)"
+       id="pattern7784">
+      <rect
+         ry="20"
+         rx="20"
+         y="0"
+         x="0"
+         height="476"
+         width="370"
+         id="rect7786"
+         style="fill:#00e5ff;fill-opacity:1" />
+    </pattern>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="marker7788"
+       style="overflow:visible">
+      <path
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         id="path7790"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </marker>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="marker7794"
+       style="overflow:visible">
+      <path
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         id="path7796"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </marker>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="370"
+       height="476"
+       patternTransform="translate(18.50938,18)"
+       id="pattern7798">
+      <rect
+         ry="20"
+         rx="20"
+         y="0"
+         x="0"
+         height="476"
+         width="370"
+         id="rect7800"
+         style="fill:#00e5ff;fill-opacity:1" />
+    </pattern>
+    <pattern
+       id="pattern7802"
+       patternTransform="translate(18.50938,18)"
+       height="476"
+       width="370"
+       patternUnits="userSpaceOnUse">
+      <rect
+         style="fill:#00e5ff;fill-opacity:1"
+         id="rect7804"
+         width="370"
+         height="476"
+         x="0"
+         y="0"
+         rx="20"
+         ry="20" />
+    </pattern>
+    <pattern
+       id="pattern7806"
+       patternTransform="translate(18.50938,18)"
+       height="476"
+       width="370"
+       patternUnits="userSpaceOnUse">
+      <rect
+         style="fill:#00e5ff;fill-opacity:1"
+         id="rect7808"
+         width="370"
+         height="476"
+         x="0"
+         y="0"
+         rx="20"
+         ry="20" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="370"
+       height="476"
+       patternTransform="translate(18.50938,18)"
+       id="pattern7810">
+      <rect
+         ry="20"
+         rx="20"
+         y="0"
+         x="0"
+         height="476"
+         width="370"
+         id="rect7812"
+         style="fill:#00e5ff;fill-opacity:1" />
+    </pattern>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="marker7814"
+       style="overflow:visible">
+      <path
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         id="path7816"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </marker>
+    <pattern
+       id="pattern7818"
+       patternTransform="translate(18.50938,18)"
+       height="476"
+       width="370"
+       patternUnits="userSpaceOnUse">
+      <rect
+         style="fill:#00e5ff;fill-opacity:1"
+         id="rect7820"
+         width="370"
+         height="476"
+         x="0"
+         y="0"
+         rx="20"
+         ry="20" />
+    </pattern>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="marker7822"
+       style="overflow:visible">
+      <path
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         id="path7824"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </marker>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="370"
+       height="476"
+       patternTransform="translate(18.50938,18)"
+       id="pattern7826">
+      <rect
+         ry="20"
+         rx="20"
+         y="0"
+         x="0"
+         height="476"
+         width="370"
+         id="rect7828"
+         style="fill:#00e5ff;fill-opacity:1" />
+    </pattern>
+    <pattern
+       id="pattern7830"
+       patternTransform="translate(18.50938,18)"
+       height="476"
+       width="370"
+       patternUnits="userSpaceOnUse">
+      <rect
+         style="fill:#00e5ff;fill-opacity:1"
+         id="rect7832"
+         width="370"
+         height="476"
+         x="0"
+         y="0"
+         rx="20"
+         ry="20" />
+    </pattern>
+    <pattern
+       id="pattern7834"
+       patternTransform="translate(18.50938,18)"
+       height="476"
+       width="370"
+       patternUnits="userSpaceOnUse">
+      <rect
+         style="fill:#00e5ff;fill-opacity:1"
+         id="rect7836"
+         width="370"
+         height="476"
+         x="0"
+         y="0"
+         rx="20"
+         ry="20" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="370"
+       height="476"
+       patternTransform="translate(18.50938,18)"
+       id="pattern7838">
+      <rect
+         ry="20"
+         rx="20"
+         y="0"
+         x="0"
+         height="476"
+         width="370"
+         id="rect7840"
+         style="fill:#00e5ff;fill-opacity:1" />
+    </pattern>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="marker7842"
+       style="overflow:visible">
+      <path
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         id="path7844"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </marker>
+    <pattern
+       id="pattern7846"
+       patternTransform="translate(18.50938,18)"
+       height="476"
+       width="370"
+       patternUnits="userSpaceOnUse">
+      <rect
+         style="fill:#00e5ff;fill-opacity:1"
+         id="rect7848"
+         width="370"
+         height="476"
+         x="0"
+         y="0"
+         rx="20"
+         ry="20" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="370"
+       height="476"
+       patternTransform="translate(18.50938,18)"
+       id="pattern7850">
+      <rect
+         ry="20"
+         rx="20"
+         y="0"
+         x="0"
+         height="476"
+         width="370"
+         id="rect7852"
+         style="fill:#00e5ff;fill-opacity:1" />
+    </pattern>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="marker7854"
+       style="overflow:visible">
+      <path
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         id="path7856"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </marker>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="marker7876"
+       style="overflow:visible">
+      <path
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         id="path7878"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </marker>
+    <pattern
+       id="pattern7880"
+       patternTransform="translate(18.50938,18)"
+       height="476"
+       width="370"
+       patternUnits="userSpaceOnUse">
+      <rect
+         style="fill:#00e5ff;fill-opacity:1"
+         id="rect7882"
+         width="370"
+         height="476"
+         x="0"
+         y="0"
+         rx="20"
+         ry="20" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="370"
+       height="476"
+       patternTransform="translate(18.50938,18)"
+       id="pattern7884">
+      <rect
+         ry="20"
+         rx="20"
+         y="0"
+         x="0"
+         height="476"
+         width="370"
+         id="rect7886"
+         style="fill:#00e5ff;fill-opacity:1" />
+    </pattern>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="marker7888"
+       style="overflow:visible">
+      <path
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         id="path7890-7"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </marker>
+    <pattern
+       id="pattern7892"
+       patternTransform="translate(18.50938,18)"
+       height="476"
+       width="370"
+       patternUnits="userSpaceOnUse">
+      <rect
+         style="fill:#00e5ff;fill-opacity:1"
+         id="rect7894"
+         width="370"
+         height="476"
+         x="0"
+         y="0"
+         rx="20"
+         ry="20" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="370"
+       height="476"
+       patternTransform="translate(18.50938,18)"
+       id="pattern7896">
+      <rect
+         ry="20"
+         rx="20"
+         y="0"
+         x="0"
+         height="476"
+         width="370"
+         id="rect7898"
+         style="fill:#00e5ff;fill-opacity:1" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="370"
+       height="476"
+       patternTransform="translate(18.50938,18)"
+       id="pattern7900">
+      <rect
+         ry="20"
+         rx="20"
+         y="0"
+         x="0"
+         height="476"
+         width="370"
+         id="rect7902"
+         style="fill:#00e5ff;fill-opacity:1" />
+    </pattern>
+    <pattern
+       id="pattern7904"
+       patternTransform="translate(18.50938,18)"
+       height="476"
+       width="370"
+       patternUnits="userSpaceOnUse">
+      <rect
+         style="fill:#00e5ff;fill-opacity:1"
+         id="rect7906"
+         width="370"
+         height="476"
+         x="0"
+         y="0"
+         rx="20"
+         ry="20" />
+    </pattern>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="marker7908"
+       style="overflow:visible">
+      <path
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         id="path7910"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </marker>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="370"
+       height="476"
+       patternTransform="translate(18.50938,18)"
+       id="pattern7912">
+      <rect
+         ry="20"
+         rx="20"
+         y="0"
+         x="0"
+         height="476"
+         width="370"
+         id="rect7914"
+         style="fill:#00e5ff;fill-opacity:1" />
+    </pattern>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="marker7916"
+       style="overflow:visible">
+      <path
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         id="path7918"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </marker>
+    <pattern
+       id="pattern7920"
+       patternTransform="translate(18.50938,18)"
+       height="476"
+       width="370"
+       patternUnits="userSpaceOnUse">
+      <rect
+         style="fill:#00e5ff;fill-opacity:1"
+         id="rect7922"
+         width="370"
+         height="476"
+         x="0"
+         y="0"
+         rx="20"
+         ry="20" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="370"
+       height="476"
+       patternTransform="translate(18.50938,18)"
+       id="pattern7924">
+      <rect
+         ry="20"
+         rx="20"
+         y="0"
+         x="0"
+         height="476"
+         width="370"
+         id="rect7926"
+         style="fill:#00e5ff;fill-opacity:1" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="370"
+       height="476"
+       patternTransform="translate(18.50938,18)"
+       id="pattern7928">
+      <rect
+         ry="20"
+         rx="20"
+         y="0"
+         x="0"
+         height="476"
+         width="370"
+         id="rect7930"
+         style="fill:#00e5ff;fill-opacity:1" />
+    </pattern>
+    <pattern
+       id="pattern7932"
+       patternTransform="translate(18.50938,18)"
+       height="476"
+       width="370"
+       patternUnits="userSpaceOnUse">
+      <rect
+         style="fill:#00e5ff;fill-opacity:1"
+         id="rect7934"
+         width="370"
+         height="476"
+         x="0"
+         y="0"
+         rx="20"
+         ry="20" />
+    </pattern>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="marker7936"
+       style="overflow:visible">
+      <path
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         id="path7938"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </marker>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="marker7942"
+       style="overflow:visible">
+      <path
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         id="path7944"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </marker>
+    <pattern
+       id="pattern7946"
+       patternTransform="translate(18.50938,18)"
+       height="476"
+       width="370"
+       patternUnits="userSpaceOnUse">
+      <rect
+         style="fill:#00e5ff;fill-opacity:1"
+         id="rect7948"
+         width="370"
+         height="476"
+         x="0"
+         y="0"
+         rx="20"
+         ry="20" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="370"
+       height="476"
+       patternTransform="translate(18.50938,18)"
+       id="pattern7950">
+      <rect
+         ry="20"
+         rx="20"
+         y="0"
+         x="0"
+         height="476"
+         width="370"
+         id="rect7952"
+         style="fill:#00e5ff;fill-opacity:1" />
+    </pattern>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="marker7954"
+       style="overflow:visible">
+      <path
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         id="path7956"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </marker>
+    <pattern
+       id="pattern7958"
+       patternTransform="translate(18.50938,18)"
+       height="476"
+       width="370"
+       patternUnits="userSpaceOnUse">
+      <rect
+         style="fill:#00e5ff;fill-opacity:1"
+         id="rect7960"
+         width="370"
+         height="476"
+         x="0"
+         y="0"
+         rx="20"
+         ry="20" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="370"
+       height="476"
+       patternTransform="translate(18.50938,18)"
+       id="pattern7962">
+      <rect
+         ry="20"
+         rx="20"
+         y="0"
+         x="0"
+         height="476"
+         width="370"
+         id="rect7964"
+         style="fill:#00e5ff;fill-opacity:1" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="370"
+       height="476"
+       patternTransform="translate(18.50938,18)"
+       id="pattern7966">
+      <rect
+         ry="20"
+         rx="20"
+         y="0"
+         x="0"
+         height="476"
+         width="370"
+         id="rect7968"
+         style="fill:#00e5ff;fill-opacity:1" />
+    </pattern>
+    <pattern
+       id="pattern7970"
+       patternTransform="translate(18.50938,18)"
+       height="476"
+       width="370"
+       patternUnits="userSpaceOnUse">
+      <rect
+         style="fill:#00e5ff;fill-opacity:1"
+         id="rect7972"
+         width="370"
+         height="476"
+         x="0"
+         y="0"
+         rx="20"
+         ry="20" />
+    </pattern>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="marker7974"
+       style="overflow:visible">
+      <path
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         id="path7976"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </marker>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="370"
+       height="476"
+       patternTransform="translate(18.50938,18)"
+       id="pattern7978">
+      <rect
+         ry="20"
+         rx="20"
+         y="0"
+         x="0"
+         height="476"
+         width="370"
+         id="rect7980"
+         style="fill:#00e5ff;fill-opacity:1" />
+    </pattern>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="marker7982"
+       style="overflow:visible">
+      <path
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         id="path7984"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </marker>
+    <pattern
+       id="pattern7986"
+       patternTransform="translate(18.50938,18)"
+       height="476"
+       width="370"
+       patternUnits="userSpaceOnUse">
+      <rect
+         style="fill:#00e5ff;fill-opacity:1"
+         id="rect7988"
+         width="370"
+         height="476"
+         x="0"
+         y="0"
+         rx="20"
+         ry="20" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="370"
+       height="476"
+       patternTransform="translate(18.50938,18)"
+       id="pattern7990">
+      <rect
+         ry="20"
+         rx="20"
+         y="0"
+         x="0"
+         height="476"
+         width="370"
+         id="rect7992"
+         style="fill:#00e5ff;fill-opacity:1" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="370"
+       height="476"
+       patternTransform="translate(18.50938,18)"
+       id="pattern7994">
+      <rect
+         ry="20"
+         rx="20"
+         y="0"
+         x="0"
+         height="476"
+         width="370"
+         id="rect7996"
+         style="fill:#00e5ff;fill-opacity:1" />
+    </pattern>
+    <pattern
+       id="pattern7998"
+       patternTransform="translate(18.50938,18)"
+       height="476"
+       width="370"
+       patternUnits="userSpaceOnUse">
+      <rect
+         style="fill:#00e5ff;fill-opacity:1"
+         id="rect8000"
+         width="370"
+         height="476"
+         x="0"
+         y="0"
+         rx="20"
+         ry="20" />
+    </pattern>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="marker8002"
+       style="overflow:visible">
+      <path
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         id="path8004"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </marker>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="marker5536"
+       style="overflow:visible">
+      <path
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         id="path5538"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </marker>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="370"
+       height="476"
+       patternTransform="translate(18.50938,18)"
+       id="pattern5540">
+      <rect
+         ry="20"
+         rx="20"
+         y="0"
+         x="0"
+         height="476"
+         width="370"
+         id="rect5542"
+         style="fill:#00e5ff;fill-opacity:1" />
+    </pattern>
+    <pattern
+       id="pattern5544"
+       patternTransform="translate(18.50938,18)"
+       height="476"
+       width="370"
+       patternUnits="userSpaceOnUse">
+      <rect
+         style="fill:#00e5ff;fill-opacity:1"
+         id="rect5546"
+         width="370"
+         height="476"
+         x="0"
+         y="0"
+         rx="20"
+         ry="20" />
+    </pattern>
+    <pattern
+       id="pattern5548"
+       patternTransform="translate(18.50938,18)"
+       height="476"
+       width="370"
+       patternUnits="userSpaceOnUse">
+      <rect
+         style="fill:#00e5ff;fill-opacity:1"
+         id="rect5550"
+         width="370"
+         height="476"
+         x="0"
+         y="0"
+         rx="20"
+         ry="20" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="370"
+       height="476"
+       patternTransform="translate(18.50938,18)"
+       id="pattern5552">
+      <rect
+         ry="20"
+         rx="20"
+         y="0"
+         x="0"
+         height="476"
+         width="370"
+         id="rect5554"
+         style="fill:#00e5ff;fill-opacity:1" />
+    </pattern>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="marker5556"
+       style="overflow:visible">
+      <path
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         id="path5558"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </marker>
+    <pattern
+       id="pattern5560"
+       patternTransform="translate(18.50938,18)"
+       height="476"
+       width="370"
+       patternUnits="userSpaceOnUse">
+      <rect
+         style="fill:#00e5ff;fill-opacity:1"
+         id="rect5562"
+         width="370"
+         height="476"
+         x="0"
+         y="0"
+         rx="20"
+         ry="20" />
+    </pattern>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="marker5564"
+       style="overflow:visible">
+      <path
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         id="path5566"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </marker>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="370"
+       height="476"
+       patternTransform="translate(18.50938,18)"
+       id="pattern5568">
+      <rect
+         ry="20"
+         rx="20"
+         y="0"
+         x="0"
+         height="476"
+         width="370"
+         id="rect5570"
+         style="fill:#00e5ff;fill-opacity:1" />
+    </pattern>
+    <pattern
+       id="pattern5572"
+       patternTransform="translate(18.50938,18)"
+       height="476"
+       width="370"
+       patternUnits="userSpaceOnUse">
+      <rect
+         style="fill:#00e5ff;fill-opacity:1"
+         id="rect5574"
+         width="370"
+         height="476"
+         x="0"
+         y="0"
+         rx="20"
+         ry="20" />
+    </pattern>
+    <pattern
+       id="pattern5576"
+       patternTransform="translate(18.50938,18)"
+       height="476"
+       width="370"
+       patternUnits="userSpaceOnUse">
+      <rect
+         style="fill:#00e5ff;fill-opacity:1"
+         id="rect5578"
+         width="370"
+         height="476"
+         x="0"
+         y="0"
+         rx="20"
+         ry="20" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="370"
+       height="476"
+       patternTransform="translate(18.50938,18)"
+       id="pattern5580">
+      <rect
+         ry="20"
+         rx="20"
+         y="0"
+         x="0"
+         height="476"
+         width="370"
+         id="rect5582"
+         style="fill:#00e5ff;fill-opacity:1" />
+    </pattern>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="marker5584"
+       style="overflow:visible">
+      <path
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         id="path5586"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </marker>
+    <pattern
+       id="pattern5588"
+       patternTransform="translate(18.50938,18)"
+       height="476"
+       width="370"
+       patternUnits="userSpaceOnUse">
+      <rect
+         style="fill:#00e5ff;fill-opacity:1"
+         id="rect5590"
+         width="370"
+         height="476"
+         x="0"
+         y="0"
+         rx="20"
+         ry="20" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="370"
+       height="476"
+       patternTransform="translate(18.50938,18)"
+       id="pattern5592">
+      <rect
+         ry="20"
+         rx="20"
+         y="0"
+         x="0"
+         height="476"
+         width="370"
+         id="rect5594"
+         style="fill:#00e5ff;fill-opacity:1" />
+    </pattern>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="marker5596"
+       style="overflow:visible">
+      <path
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         id="path5598"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </marker>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="marker5602"
+       style="overflow:visible">
+      <path
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         id="path5604"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </marker>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="370"
+       height="476"
+       patternTransform="translate(18.50938,18)"
+       id="pattern5606">
+      <rect
+         ry="20"
+         rx="20"
+         y="0"
+         x="0"
+         height="476"
+         width="370"
+         id="rect5608"
+         style="fill:#00e5ff;fill-opacity:1" />
+    </pattern>
+    <pattern
+       id="pattern5610"
+       patternTransform="translate(18.50938,18)"
+       height="476"
+       width="370"
+       patternUnits="userSpaceOnUse">
+      <rect
+         style="fill:#00e5ff;fill-opacity:1"
+         id="rect5612"
+         width="370"
+         height="476"
+         x="0"
+         y="0"
+         rx="20"
+         ry="20" />
+    </pattern>
+    <pattern
+       id="pattern5614"
+       patternTransform="translate(18.50938,18)"
+       height="476"
+       width="370"
+       patternUnits="userSpaceOnUse">
+      <rect
+         style="fill:#00e5ff;fill-opacity:1"
+         id="rect5616"
+         width="370"
+         height="476"
+         x="0"
+         y="0"
+         rx="20"
+         ry="20" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="370"
+       height="476"
+       patternTransform="translate(18.50938,18)"
+       id="pattern5618">
+      <rect
+         ry="20"
+         rx="20"
+         y="0"
+         x="0"
+         height="476"
+         width="370"
+         id="rect5620"
+         style="fill:#00e5ff;fill-opacity:1" />
+    </pattern>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="marker5622"
+       style="overflow:visible">
+      <path
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         id="path5624"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </marker>
+    <pattern
+       id="pattern5626"
+       patternTransform="translate(18.50938,18)"
+       height="476"
+       width="370"
+       patternUnits="userSpaceOnUse">
+      <rect
+         style="fill:#00e5ff;fill-opacity:1"
+         id="rect5628"
+         width="370"
+         height="476"
+         x="0"
+         y="0"
+         rx="20"
+         ry="20" />
+    </pattern>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="marker5630"
+       style="overflow:visible">
+      <path
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         id="path5632"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </marker>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="370"
+       height="476"
+       patternTransform="translate(18.50938,18)"
+       id="pattern5634">
+      <rect
+         ry="20"
+         rx="20"
+         y="0"
+         x="0"
+         height="476"
+         width="370"
+         id="rect5636"
+         style="fill:#00e5ff;fill-opacity:1" />
+    </pattern>
+    <pattern
+       id="pattern5638"
+       patternTransform="translate(18.50938,18)"
+       height="476"
+       width="370"
+       patternUnits="userSpaceOnUse">
+      <rect
+         style="fill:#00e5ff;fill-opacity:1"
+         id="rect5640"
+         width="370"
+         height="476"
+         x="0"
+         y="0"
+         rx="20"
+         ry="20" />
+    </pattern>
+    <pattern
+       id="pattern5642"
+       patternTransform="translate(18.50938,18)"
+       height="476"
+       width="370"
+       patternUnits="userSpaceOnUse">
+      <rect
+         style="fill:#00e5ff;fill-opacity:1"
+         id="rect5644"
+         width="370"
+         height="476"
+         x="0"
+         y="0"
+         rx="20"
+         ry="20" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="370"
+       height="476"
+       patternTransform="translate(18.50938,18)"
+       id="pattern5646">
+      <rect
+         ry="20"
+         rx="20"
+         y="0"
+         x="0"
+         height="476"
+         width="370"
+         id="rect5648"
+         style="fill:#00e5ff;fill-opacity:1" />
+    </pattern>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="marker5650"
+       style="overflow:visible">
+      <path
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         id="path5652"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </marker>
+    <pattern
+       id="pattern5654"
+       patternTransform="translate(18.50938,18)"
+       height="476"
+       width="370"
+       patternUnits="userSpaceOnUse">
+      <rect
+         style="fill:#00e5ff;fill-opacity:1"
+         id="rect5656"
+         width="370"
+         height="476"
+         x="0"
+         y="0"
+         rx="20"
+         ry="20" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="370"
+       height="476"
+       patternTransform="translate(18.50938,18)"
+       id="pattern5658">
+      <rect
+         ry="20"
+         rx="20"
+         y="0"
+         x="0"
+         height="476"
+         width="370"
+         id="rect5660"
+         style="fill:#00e5ff;fill-opacity:1" />
+    </pattern>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="marker5662"
+       style="overflow:visible">
+      <path
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         id="path5664"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </marker>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="marker3281-42"
+       style="overflow:visible">
+      <path
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         id="path3283-0"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </marker>
+    <pattern
+       id="pattern3285-3"
+       patternTransform="translate(18.50938,18)"
+       height="476"
+       width="370"
+       patternUnits="userSpaceOnUse">
+      <rect
+         style="fill:#00e5ff;fill-opacity:1"
+         id="rect3287-3"
+         width="370"
+         height="476"
+         x="0"
+         y="0"
+         rx="20"
+         ry="20" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="370"
+       height="476"
+       patternTransform="translate(18.50938,18)"
+       id="pattern3289-0">
+      <rect
+         ry="20"
+         rx="20"
+         y="0"
+         x="0"
+         height="476"
+         width="370"
+         id="rect3291-15"
+         style="fill:#00e5ff;fill-opacity:1" />
+    </pattern>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="marker3293-8"
+       style="overflow:visible">
+      <path
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         id="path3295-7"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </marker>
+    <pattern
+       id="pattern3297-8"
+       patternTransform="translate(18.50938,18)"
+       height="476"
+       width="370"
+       patternUnits="userSpaceOnUse">
+      <rect
+         style="fill:#00e5ff;fill-opacity:1"
+         id="rect3299-2"
+         width="370"
+         height="476"
+         x="0"
+         y="0"
+         rx="20"
+         ry="20" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="370"
+       height="476"
+       patternTransform="translate(18.50938,18)"
+       id="pattern3301-7">
+      <rect
+         ry="20"
+         rx="20"
+         y="0"
+         x="0"
+         height="476"
+         width="370"
+         id="rect3303-1"
+         style="fill:#00e5ff;fill-opacity:1" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="370"
+       height="476"
+       patternTransform="translate(18.50938,18)"
+       id="pattern3305-9">
+      <rect
+         ry="20"
+         rx="20"
+         y="0"
+         x="0"
+         height="476"
+         width="370"
+         id="rect3307-1"
+         style="fill:#00e5ff;fill-opacity:1" />
+    </pattern>
+    <pattern
+       id="pattern3309-8"
+       patternTransform="translate(18.50938,18)"
+       height="476"
+       width="370"
+       patternUnits="userSpaceOnUse">
+      <rect
+         style="fill:#00e5ff;fill-opacity:1"
+         id="rect3311-7"
+         width="370"
+         height="476"
+         x="0"
+         y="0"
+         rx="20"
+         ry="20" />
+    </pattern>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="marker3313-6"
+       style="overflow:visible">
+      <path
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         id="path3315-0"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </marker>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="370"
+       height="476"
+       patternTransform="translate(18.50938,18)"
+       id="pattern3317-8">
+      <rect
+         ry="20"
+         rx="20"
+         y="0"
+         x="0"
+         height="476"
+         width="370"
+         id="rect3319-5"
+         style="fill:#00e5ff;fill-opacity:1" />
+    </pattern>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="marker3321-5"
+       style="overflow:visible">
+      <path
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         id="path3323-7"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </marker>
+    <pattern
+       id="pattern3325-5"
+       patternTransform="translate(18.50938,18)"
+       height="476"
+       width="370"
+       patternUnits="userSpaceOnUse">
+      <rect
+         style="fill:#00e5ff;fill-opacity:1"
+         id="rect3327-47"
+         width="370"
+         height="476"
+         x="0"
+         y="0"
+         rx="20"
+         ry="20" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="370"
+       height="476"
+       patternTransform="translate(18.50938,18)"
+       id="pattern3329-3">
+      <rect
+         ry="20"
+         rx="20"
+         y="0"
+         x="0"
+         height="476"
+         width="370"
+         id="rect3331-7"
+         style="fill:#00e5ff;fill-opacity:1" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="370"
+       height="476"
+       patternTransform="translate(18.50938,18)"
+       id="pattern3333-4">
+      <rect
+         ry="20"
+         rx="20"
+         y="0"
+         x="0"
+         height="476"
+         width="370"
+         id="rect3335-2"
+         style="fill:#00e5ff;fill-opacity:1" />
+    </pattern>
+    <pattern
+       id="pattern3337-0"
+       patternTransform="translate(18.50938,18)"
+       height="476"
+       width="370"
+       patternUnits="userSpaceOnUse">
+      <rect
+         style="fill:#00e5ff;fill-opacity:1"
+         id="rect3339-23"
+         width="370"
+         height="476"
+         x="0"
+         y="0"
+         rx="20"
+         ry="20" />
+    </pattern>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="marker3341-7"
+       style="overflow:visible">
+      <path
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         id="path3343-30"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </marker>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="marker4288-1"
+       style="overflow:visible">
+      <path
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         id="path4290-3"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </marker>
+    <pattern
+       id="pattern4292-7"
+       patternTransform="translate(18.50938,18)"
+       height="476"
+       width="370"
+       patternUnits="userSpaceOnUse">
+      <rect
+         style="fill:#00e5ff;fill-opacity:1"
+         id="rect4294-6"
+         width="370"
+         height="476"
+         x="0"
+         y="0"
+         rx="20"
+         ry="20" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="370"
+       height="476"
+       patternTransform="translate(18.50938,18)"
+       id="pattern4296-3">
+      <rect
+         ry="20"
+         rx="20"
+         y="0"
+         x="0"
+         height="476"
+         width="370"
+         id="rect4298-4"
+         style="fill:#00e5ff;fill-opacity:1" />
+    </pattern>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="marker3928-31"
+       style="overflow:visible">
+      <path
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         id="path3930-3"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </marker>
+    <pattern
+       id="pattern3932-39"
+       patternTransform="translate(18.50938,18)"
+       height="476"
+       width="370"
+       patternUnits="userSpaceOnUse">
+      <rect
+         style="fill:#00e5ff;fill-opacity:1"
+         id="rect3934-1"
+         width="370"
+         height="476"
+         x="0"
+         y="0"
+         rx="20"
+         ry="20" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="370"
+       height="476"
+       patternTransform="translate(18.50938,18)"
+       id="pattern3936-5">
+      <rect
+         ry="20"
+         rx="20"
+         y="0"
+         x="0"
+         height="476"
+         width="370"
+         id="rect3938-5"
+         style="fill:#00e5ff;fill-opacity:1" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="370"
+       height="476"
+       patternTransform="translate(18.50938,18)"
+       id="pattern2321-7">
+      <rect
+         ry="20"
+         rx="20"
+         y="0"
+         x="0"
+         height="476"
+         width="370"
+         id="rect2323-5"
+         style="fill:#00e5ff;fill-opacity:1" />
+    </pattern>
+    <pattern
+       id="pattern2317-5"
+       patternTransform="translate(18.50938,18)"
+       height="476"
+       width="370"
+       patternUnits="userSpaceOnUse">
+      <rect
+         style="fill:#00e5ff;fill-opacity:1"
+         id="rect2319-68"
+         width="370"
+         height="476"
+         x="0"
+         y="0"
+         rx="20"
+         ry="20" />
+    </pattern>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="marker2313-0"
+       style="overflow:visible">
+      <path
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         id="path2315-44"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </marker>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="370"
+       height="476"
+       patternTransform="translate(18.50938,18)"
+       id="pattern5613-8">
+      <rect
+         ry="20"
+         rx="20"
+         y="0"
+         x="0"
+         height="476"
+         width="370"
+         id="rect5615-9"
+         style="fill:#00e5ff;fill-opacity:1" />
+    </pattern>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="marker2936-3"
+       style="overflow:visible">
+      <path
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         id="path2938-3"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </marker>
+    <pattern
+       id="pattern2940-0"
+       patternTransform="translate(18.50938,18)"
+       height="476"
+       width="370"
+       patternUnits="userSpaceOnUse">
+      <rect
+         style="fill:#00e5ff;fill-opacity:1"
+         id="rect2942-0"
+         width="370"
+         height="476"
+         x="0"
+         y="0"
+         rx="20"
+         ry="20" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="370"
+       height="476"
+       patternTransform="translate(18.50938,18)"
+       id="pattern2944-6">
+      <rect
+         ry="20"
+         rx="20"
+         y="0"
+         x="0"
+         height="476"
+         width="370"
+         id="rect2946-1"
+         style="fill:#00e5ff;fill-opacity:1" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="370"
+       height="476"
+       patternTransform="translate(18.50938,18)"
+       id="pattern5932-84">
+      <rect
+         ry="20"
+         rx="20"
+         y="0"
+         x="0"
+         height="476"
+         width="370"
+         id="rect5934-9"
+         style="fill:#00e5ff;fill-opacity:1" />
+    </pattern>
+    <pattern
+       id="pattern4002-87"
+       patternTransform="translate(18.50938,18)"
+       height="476"
+       width="370"
+       patternUnits="userSpaceOnUse">
+      <rect
+         style="fill:#00e5ff;fill-opacity:1"
+         id="rect2240-8"
+         width="370"
+         height="476"
+         x="0"
+         y="0"
+         rx="20"
+         ry="20" />
+    </pattern>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="Arrow2Lstart-6"
+       style="overflow:visible">
+      <path
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         id="path5785-0"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </marker>
+    <pattern
+       id="pattern7014"
+       patternTransform="translate(18.5094, 18)"
+       height="476"
+       width="370"
+       patternUnits="userSpaceOnUse">
+      <rect
+         style="fill: rgb(0, 229, 255); fill-opacity: 1;"
+         id="rect7016"
+         width="370"
+         height="476"
+         x="0"
+         y="0"
+         rx="20"
+         ry="20" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="370"
+       height="476"
+       patternTransform="translate(18.5094, 18)"
+       id="pattern7010">
+      <rect
+         ry="20"
+         rx="20"
+         y="0"
+         x="0"
+         height="476"
+         width="370"
+         id="rect7012"
+         style="fill: rgb(0, 229, 255); fill-opacity: 1;" />
+    </pattern>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="marker7006"
+       style="overflow:visible">
+      <path
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         id="path7008"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </marker>
+  </defs>
+  <g
+     transform="translate(-44.464233,-92.058609)"
+     id="layer1">
+    <rect
+       width="600.98212"
+       height="546.02679"
+       rx="22.883606"
+       ry="22.883606"
+       x="45.464233"
+       y="93.058609"
+       id="rect6696"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <rect
+       width="585.9375"
+       height="531.02679"
+       rx="19.044321"
+       ry="19.044321"
+       x="53.008877"
+       y="100.55861"
+       id="rect7208"
+       style="fill:#003399;fill-opacity:1;stroke:none" />
+    <g
+       id="text7210"
+       style="font-size:41.13423157px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Drogowskaz;-inkscape-font-specification:Drogowskaz Bold">
+      <path
+         d="m 295.166,123.44588 c 0.11516,4.54997 1.68448,8.33668 4.70796,11.36016 3.02348,3.02349 6.8102,4.59281 11.36016,4.70796 4.54994,-0.11515 8.33665,-1.68447 11.36017,-4.70796 3.02345,-3.02348 4.59277,-6.81019 4.70795,-11.36016 -0.11518,-4.54993 -1.6845,-8.33665 -4.70796,-11.36016 -3.02351,-3.02346 -6.81022,-4.59277 -11.36016,-4.70796 -4.54996,0.11519 -8.33668,1.68451 -11.36016,4.70796 -3.02349,3.02351 -4.5928,6.81023 -4.70796,11.36016 z m 5.1418,0 c 0.0783,-3.09395 1.14544,-5.66892 3.20141,-7.72491 2.05596,-2.05594 4.63093,-3.12308 7.72491,-3.20141 3.09395,0.0783 5.66892,1.14547 7.72491,3.20141 2.05595,2.05599 3.12308,4.63096 3.20142,7.72491 -0.0783,3.09398 -1.14547,5.66895 -3.20142,7.72491 -2.05599,2.05597 -4.63096,3.12311 -7.72491,3.20141 -3.09398,-0.0783 -5.66895,-1.14543 -7.72491,-3.20141 -2.05597,-2.05596 -3.12311,-4.63093 -3.20141,-7.72491 z"
+         id="path8889" />
+      <path
+         d="m 337.58571,128.58768 c 0.0375,-1.48227 0.54095,-2.71148 1.5104,-3.68763 0.96944,-0.97613 2.1799,-1.48227 3.6314,-1.51844 1.45147,0.0362 2.66193,0.54231 3.63139,1.51844 0.96943,0.97615 1.4729,2.20536 1.51041,3.68763 -0.0375,1.48229 -0.54098,2.7115 -1.51041,3.68763 -0.96946,0.97615 -2.17992,1.48229 -3.63139,1.51844 -1.4515,-0.0361 -2.66197,-0.54229 -3.6314,-1.51844 -0.96945,-0.97613 -1.47292,-2.20534 -1.5104,-3.68763 z m -5.1418,-10.2836 0,30.85079 5.1418,0 0,-11.67054 c 0.76015,0.44336 1.57278,0.78468 2.43788,1.02396 0.86508,0.23928 1.76639,0.36028 2.70392,0.36299 2.90296,-0.075 5.32388,-1.08192 7.26279,-3.02081 1.93886,-1.93888 2.9458,-4.35981 3.02081,-7.26279 -0.075,-2.90296 -1.08195,-5.32389 -3.02081,-7.26279 -1.93891,-1.93887 -4.35984,-2.9458 -7.26279,-3.02081 -0.93753,0.003 -1.83884,0.12372 -2.70392,0.36298 -0.8651,0.2393 -1.67773,0.58062 -2.43788,1.02396 l 0,-1.38694 -5.1418,0 z"
+         id="path8891" />
+      <path
+         d="m 361.84847,108.02049 0,10.28359 -5.1418,2.5709 0,5.1418 5.1418,-2.5709 0,15.4254 5.1418,0 0,-17.9963 5.14179,-2.5709 0,-5.1418 -5.14179,2.5709 0,-7.71269 -5.1418,0 z"
+         id="path8893" />
+      <path
+         d="m 374.57436,128.58768 c 0.075,2.90298 1.08191,5.32391 3.0208,7.26279 1.93888,1.93889 4.35981,2.94582 7.2628,3.02081 1.11073,-0.004 2.16867,-0.17255 3.17383,-0.50417 1.00512,-0.33163 1.93052,-0.79989 2.77619,-1.4048 l 0.47722,1.90897 5.1418,0 -1.28545,-5.1418 0,-15.4254 -5.1418,0 0,1.38694 c -0.76017,-0.44334 -1.5728,-0.78466 -2.43788,-1.02396 -0.8651,-0.23926 -1.76641,-0.36025 -2.70391,-0.36298 -2.90299,0.075 -5.32392,1.08194 -7.2628,3.02081 -1.93889,1.9389 -2.94582,4.35983 -3.0208,7.26279 z m 5.1418,0 c 0.0375,-1.48227 0.54095,-2.71148 1.5104,-3.68763 0.96943,-0.97613 2.1799,-1.48227 3.6314,-1.51844 1.45147,0.0362 2.66193,0.54231 3.63139,1.51844 0.96943,0.97615 1.47289,2.20536 1.5104,3.68763 -0.0375,1.48229 -0.54097,2.7115 -1.5104,3.68763 -0.96946,0.97615 -2.17992,1.48229 -3.63139,1.51844 -1.4515,-0.0361 -2.66197,-0.54229 -3.6314,-1.51844 -0.96945,-0.97613 -1.47292,-2.20534 -1.5104,-3.68763 z"
+         id="path8895" />
+      <path
+         d="m 404.10746,113.16228 0,5.1418 -3.85635,0 0,5.1418 3.85635,0 0,7.7127 c 0.0553,2.18399 0.80854,4.00161 2.25982,5.45288 1.45126,1.45127 3.26889,2.20454 5.45288,2.25982 l 2.66731,-5.1418 -2.66731,0 c -0.72801,-0.0184 -1.33388,-0.26951 -1.81763,-0.75327 -0.48377,-0.48375 -0.73486,-1.08963 -0.75327,-1.81763 l 0,-7.7127 3.85635,0 0,-5.1418 -3.85635,0 0,-10.28359 -5.1418,5.14179 z"
+         id="path8897" />
+      <path
+         d="m 417.04223,118.30408 6.42725,20.5672 -3.21362,10.28359 5.14179,0 9.64088,-30.85079 -5.1418,0 -3.85635,12.34032 -3.85635,-12.34032 -5.1418,0 z"
+         id="path8899" />
+      <path
+         d="m 454.19159,128.58768 c 0.075,2.90298 1.08192,5.32391 3.02081,7.26279 1.93888,1.93889 4.3598,2.94582 7.26279,3.02081 0.9375,-0.003 1.83881,-0.12371 2.70392,-0.36299 0.86507,-0.23928 1.6777,-0.5806 2.43788,-1.02396 l 0,1.38695 5.1418,0 0,-30.85079 -5.1418,0 0,11.67053 c -0.76018,-0.44334 -1.57281,-0.78466 -2.43788,-1.02396 -0.86511,-0.23926 -1.76642,-0.36025 -2.70392,-0.36298 -2.90299,0.075 -5.32391,1.08194 -7.26279,3.02081 -1.93889,1.9389 -2.94583,4.35983 -3.02081,7.26279 z m 5.1418,0 c 0.0375,-1.48227 0.54095,-2.71148 1.5104,-3.68763 0.96944,-0.97613 2.1799,-1.48227 3.6314,-1.51844 1.45147,0.0362 2.66193,0.54231 3.63139,1.51844 0.96943,0.97615 1.4729,2.20536 1.51041,3.68763 -0.0375,1.48229 -0.54098,2.7115 -1.51041,3.68763 -0.96946,0.97615 -2.17992,1.48229 -3.63139,1.51844 -1.4515,-0.0361 -2.66196,-0.54229 -3.6314,-1.51844 -0.96945,-0.97613 -1.47292,-2.20534 -1.5104,-3.68763 z"
+         id="path8901" />
+      <path
+         d="m 482.43923,118.30408 0,20.5672 5.1418,0 0,-13.45995 c 0.68792,-0.61653 1.46865,-1.09687 2.34217,-1.441 0.87351,-0.3441 1.80672,-0.51892 2.79963,-0.52445 l 0,-5.1418 c -1.84236,0.013 -3.55629,0.37759 -5.1418,1.09366 l 0,-1.09366 -5.1418,0 z"
+         id="path8903" />
+      <path
+         d="m 496.57912,128.58768 c 0.0783,3.09397 1.14544,5.66894 3.20142,7.7249 2.05596,2.05598 4.63093,3.12311 7.72491,3.20142 3.09395,-0.0783 5.66892,-1.14544 7.7249,-3.20142 2.05595,-2.05596 3.12309,-4.63093 3.20142,-7.7249 -0.0783,-3.09396 -1.14547,-5.66892 -3.20142,-7.72491 -2.05598,-2.05595 -4.63095,-3.12309 -7.7249,-3.20141 -3.09398,0.0783 -5.66895,1.14546 -7.72491,3.20141 -2.05598,2.05599 -3.12311,4.63095 -3.20142,7.72491 z m 5.1418,0 c 0.0414,-1.63797 0.6064,-3.00119 1.69487,-4.08966 1.08844,-1.08844 2.45166,-1.65339 4.08966,-1.69486 1.63796,0.0415 3.00118,0.60642 4.08965,1.69486 1.08844,1.08847 1.65339,2.45169 1.69487,4.08966 -0.0415,1.63799 -0.60643,3.00121 -1.69487,4.08966 -1.08847,1.08846 -2.45169,1.65341 -4.08965,1.69486 -1.638,-0.0414 -3.00122,-0.6064 -4.08966,-1.69486 -1.08847,-1.08845 -1.65342,-2.45167 -1.69487,-4.08966 z"
+         id="path8905" />
+      <path
+         d="m 530.61753,143.01792 -3.05358,4.07066 c 0.86546,0.65311 1.81955,1.1595 2.86225,1.51917 1.04269,0.35965 2.14346,0.54202 3.30231,0.54712 2.90296,-0.075 5.32389,-1.08193 7.26279,-3.0208 1.93887,-1.9389 2.9458,-4.35982 3.02081,-7.26279 l 0,-20.5672 -5.1418,0 0,1.38694 c -0.76017,-0.44334 -1.5728,-0.78466 -2.43788,-1.02396 -0.8651,-0.23926 -1.76641,-0.36025 -2.70392,-0.36298 -2.90298,0.075 -5.32391,1.08194 -7.26279,3.02081 -1.93889,1.9389 -2.94582,4.35983 -3.0208,7.26279 0.075,2.90298 1.08191,5.32391 3.0208,7.26279 1.93888,1.93889 4.35981,2.94582 7.26279,3.02081 0.93751,-0.003 1.83882,-0.12371 2.70392,-0.36299 0.86508,-0.23928 1.67771,-0.5806 2.43788,-1.02396 l 0,1.38695 c -0.0375,1.48228 -0.54097,2.71149 -1.5104,3.68763 -0.96946,0.97613 -2.17992,1.48228 -3.6314,1.51844 -0.58594,-0.003 -1.1421,-0.0959 -1.66848,-0.28008 -0.52639,-0.18419 -1.00723,-0.44397 -1.4425,-0.77935 z m -2.03081,-14.43024 c 0.0375,-1.48227 0.54095,-2.71148 1.5104,-3.68763 0.96943,-0.97613 2.1799,-1.48227 3.63139,-1.51844 1.45148,0.0362 2.66194,0.54231 3.6314,1.51844 0.96943,0.97615 1.47289,2.20536 1.5104,3.68763 -0.0375,1.48229 -0.54097,2.7115 -1.5104,3.68763 -0.96946,0.97615 -2.17992,1.48229 -3.6314,1.51844 -1.45149,-0.0361 -2.66196,-0.54229 -3.63139,-1.51844 -0.96945,-0.97613 -1.47292,-2.20534 -1.5104,-3.68763 z"
+         id="path8907" />
+      <path
+         d="m 550.40713,128.58768 c 0.0783,3.09397 1.14544,5.66894 3.20141,7.7249 2.05596,2.05598 4.63093,3.12311 7.72491,3.20142 3.09395,-0.0783 5.66892,-1.14544 7.72491,-3.20142 2.05594,-2.05596 3.12308,-4.63093 3.20141,-7.7249 -0.0783,-3.09396 -1.14547,-5.66892 -3.20141,-7.72491 -2.05599,-2.05595 -4.63096,-3.12309 -7.72491,-3.20141 -3.09398,0.0783 -5.66895,1.14546 -7.72491,3.20141 -2.05598,2.05599 -3.12311,4.63095 -3.20141,7.72491 z m 5.1418,0 c 0.0414,-1.63797 0.6064,-3.00119 1.69486,-4.08966 1.08844,-1.08844 2.45166,-1.65339 4.08966,-1.69486 1.63797,0.0415 3.00118,0.60642 4.08966,1.69486 1.08843,1.08847 1.65339,2.45169 1.69486,4.08966 -0.0415,1.63799 -0.60643,3.00121 -1.69486,4.08966 -1.08848,1.08846 -2.45169,1.65341 -4.08966,1.69486 -1.638,-0.0414 -3.00122,-0.6064 -4.08966,-1.69486 -1.08846,-1.08845 -1.65342,-2.45167 -1.69486,-4.08966 z"
+         id="path8909" />
+      <path
+         d="m 576.11602,118.30408 5.14179,20.5672 5.1418,0 3.85635,-12.34032 3.85635,12.34032 5.1418,0 5.1418,-20.5672 -5.1418,0 -2.85653,11.42617 -3.57072,-11.42617 -5.1418,0 -3.57072,11.42617 -2.85653,-11.42617 -5.14179,0 z"
+         id="path8911" />
+      <path
+         d="m 624.64163,126.65951 -10.92633,0 c 0.40839,-1.14485 1.102,-2.06876 2.08083,-2.77176 0.9788,-0.70296 2.10625,-1.06449 3.38234,-1.08459 1.27606,0.0201 2.4035,0.38163 3.38233,1.0846 0.9788,0.70299 1.67241,1.62691 2.08083,2.77175 z m -10.92633,3.85634 14.46131,0 0,-8.09833 c -1.01365,-1.46352 -2.29642,-2.61774 -3.84831,-3.46268 -1.55193,-0.84489 -3.26854,-1.27605 -5.14983,-1.29348 -3.09849,0.0777 -5.67474,1.14353 -7.72877,3.19755 -2.05405,2.05406 -3.1199,4.63031 -3.19756,7.72877 0.0777,3.09848 1.14351,5.67473 3.19756,7.72876 2.05403,2.05405 4.63029,3.1199 7.72877,3.19756 0.58914,-0.0107 1.14617,-0.0536 1.67108,-0.12854 l 3.47071,-0.51418 2.5709,-5.1418 c -0.56642,0.083 -1.69119,0.20621 -3.3743,0.36956 -1.68315,0.16337 -3.12928,0.25442 -4.33839,0.27316 -1.27047,-0.0161 -2.38667,-0.36956 -3.3486,-1.06049 -0.96196,-0.69093 -1.66681,-1.62288 -2.11457,-2.79586 z"
+         id="path8913" />
+    </g>
+    <g
+       id="text7214"
+       style="font-size:41.13423157px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Drogowskaz;-inkscape-font-specification:Drogowskaz Bold">
+      <path
+         d="m 317.59483,178.86483 7.49045,12.85155 5.95484,0.006 -7.6222,-13.07758 c 1.35781,-1.01237 2.43012,-2.27494 3.21693,-3.78771 0.78677,-1.51274 1.18846,-3.17619 1.20508,-4.99036 -0.0186,-1.88391 -0.44973,-3.6035 -1.29352,-5.15878 -0.84384,-1.55522 -1.9891,-2.83501 -3.43578,-3.83937 l -15.19517,0 0,30.85079 5.1418,0 0,-12.8545 4.53757,0 z m 3.62896,-5.1418 -8.16653,0 0,-7.71231 8.16653,0 c 0.46256,0.51596 0.8229,1.10146 1.08101,1.7565 0.25808,0.65508 0.38919,1.3549 0.39333,2.09947 -0.004,0.74457 -0.13538,1.44445 -0.3936,2.09963 -0.25824,0.65523 -0.61849,1.2408 -1.08074,1.75671 z"
+         id="path8864" />
+      <path
+         d="m 334.42775,181.43573 c 0.0783,3.09397 1.14544,5.66894 3.20142,7.72491 2.05596,2.05597 4.63093,3.12311 7.72491,3.20141 3.09395,-0.0783 5.66892,-1.14544 7.7249,-3.20141 2.05595,-2.05597 3.12309,-4.63094 3.20142,-7.72491 -0.0783,-3.09395 -1.14547,-5.66892 -3.20141,-7.72491 -2.05599,-2.05595 -4.63096,-3.12308 -7.72491,-3.20141 -3.09398,0.0783 -5.66895,1.14546 -7.72491,3.20141 -2.05598,2.05599 -3.12311,4.63096 -3.20142,7.72491 z m 5.1418,0 c 0.0414,-1.63797 0.60641,-3.00119 1.69487,-4.08966 1.08844,-1.08844 2.45166,-1.65339 4.08966,-1.69486 1.63797,0.0415 3.00118,0.60643 4.08965,1.69486 1.08844,1.08847 1.65339,2.45169 1.69487,4.08966 -0.0415,1.638 -0.60643,3.00121 -1.69487,4.08966 -1.08847,1.08846 -2.45169,1.65341 -4.08965,1.69487 -1.638,-0.0415 -3.00122,-0.60641 -4.08966,-1.69487 -1.08847,-1.08845 -1.65342,-2.45167 -1.69487,-4.08966 z"
+         id="path8866" />
+      <path
+         d="m 361.29355,181.43573 c 0.075,2.90298 1.08192,5.32391 3.02081,7.26279 1.93888,1.93889 4.3598,2.94582 7.26279,3.02081 1.11073,-0.004 2.16867,-0.17254 3.17383,-0.50417 1.00512,-0.33162 1.93052,-0.79989 2.77619,-1.4048 l 0.47723,1.90897 5.14179,0 -1.28545,-5.1418 0,-15.42539 -5.14179,0 0,1.38693 c -0.76018,-0.44334 -1.57281,-0.78466 -2.43788,-1.02396 -0.86511,-0.23925 -1.76642,-0.36025 -2.70392,-0.36297 -2.90299,0.075 -5.32391,1.08194 -7.26279,3.0208 -1.93889,1.9389 -2.94583,4.35983 -3.02081,7.26279 z m 5.1418,0 c 0.0375,-1.48227 0.54095,-2.71148 1.5104,-3.68763 0.96944,-0.97613 2.1799,-1.48227 3.6314,-1.51844 1.45147,0.0362 2.66193,0.54232 3.63139,1.51844 0.96943,0.97615 1.4729,2.20536 1.51041,3.68763 -0.0375,1.4823 -0.54098,2.71151 -1.51041,3.68764 -0.96946,0.97614 -2.17992,1.48228 -3.63139,1.51843 -1.4515,-0.0361 -2.66197,-0.54229 -3.6314,-1.51843 -0.96945,-0.97613 -1.47292,-2.20534 -1.5104,-3.68764 z"
+         id="path8868" />
+      <path
+         d="m 388.12721,181.43573 c 0.075,2.90298 1.08191,5.32391 3.0208,7.26279 1.93888,1.93889 4.35981,2.94582 7.26279,3.02081 0.93751,-0.003 1.83882,-0.1237 2.70392,-0.36298 0.86508,-0.23929 1.6777,-0.5806 2.43788,-1.02396 l 0,1.38694 5.1418,0 0,-30.85079 -5.1418,0 0,11.67053 c -0.76017,-0.44334 -1.5728,-0.78466 -2.43788,-1.02396 -0.8651,-0.23925 -1.76641,-0.36025 -2.70392,-0.36297 -2.90298,0.075 -5.32391,1.08194 -7.26279,3.0208 -1.93889,1.9389 -2.94582,4.35983 -3.0208,7.26279 z m 5.1418,0 c 0.0375,-1.48227 0.54095,-2.71148 1.5104,-3.68763 0.96943,-0.97613 2.1799,-1.48227 3.63139,-1.51844 1.45148,0.0362 2.66194,0.54232 3.6314,1.51844 0.96942,0.97615 1.47289,2.20536 1.5104,3.68763 -0.0375,1.4823 -0.54097,2.71151 -1.5104,3.68764 -0.96946,0.97614 -2.17992,1.48228 -3.6314,1.51843 -1.45149,-0.0361 -2.66196,-0.54229 -3.63139,-1.51843 -0.96945,-0.97613 -1.47292,-2.20534 -1.5104,-3.68764 z"
+         id="path8870" />
+      <path
+         d="m 436.942,181.43573 c 0.0375,-1.48227 0.54095,-2.71148 1.5104,-3.68763 0.96943,-0.97613 2.17989,-1.48227 3.63139,-1.51844 1.45147,0.0362 2.66194,0.54232 3.6314,1.51844 0.96942,0.97615 1.47289,2.20536 1.5104,3.68763 -0.0375,1.4823 -0.54098,2.71151 -1.5104,3.68764 -0.96946,0.97614 -2.17993,1.48228 -3.6314,1.51843 -1.4515,-0.0361 -2.66196,-0.54229 -3.63139,-1.51843 -0.96946,-0.97613 -1.47292,-2.20534 -1.5104,-3.68764 z m -5.1418,-10.28359 0,30.85079 5.1418,0 0,-11.67054 c 0.76015,0.44335 1.57277,0.78467 2.43787,1.02395 0.86509,0.23929 1.76639,0.36028 2.70392,0.36299 2.90296,-0.075 5.32389,-1.08192 7.26279,-3.02081 1.93887,-1.93888 2.9458,-4.35981 3.02081,-7.26279 -0.075,-2.90296 -1.08194,-5.32389 -3.02081,-7.26279 -1.9389,-1.93887 -4.35983,-2.9458 -7.26279,-3.0208 -0.93753,0.003 -1.83884,0.12372 -2.70392,0.36297 -0.8651,0.2393 -1.67772,0.58062 -2.43787,1.02396 l 0,-1.38693 -5.1418,0 z"
+         id="path8872" />
+      <path
+         d="m 457.21987,181.43573 c 0.075,2.90298 1.08191,5.32391 3.0208,7.26279 1.93888,1.93889 4.35981,2.94582 7.26279,3.02081 1.11074,-0.004 2.16868,-0.17254 3.17383,-0.50417 1.00513,-0.33162 1.93052,-0.79989 2.7762,-1.4048 l 0.47722,1.90897 5.1418,0 -1.28545,-5.1418 0,-15.42539 -5.1418,0 0,1.38693 c -0.76018,-0.44334 -1.5728,-0.78466 -2.43788,-1.02396 -0.86511,-0.23925 -1.76641,-0.36025 -2.70392,-0.36297 -2.90298,0.075 -5.32391,1.08194 -7.26279,3.0208 -1.93889,1.9389 -2.94582,4.35983 -3.0208,7.26279 z m 5.14179,0 c 0.0375,-1.48227 0.54096,-2.71148 1.51041,-3.68763 0.96943,-0.97613 2.1799,-1.48227 3.63139,-1.51844 1.45148,0.0362 2.66194,0.54232 3.6314,1.51844 0.96942,0.97615 1.47289,2.20536 1.5104,3.68763 -0.0375,1.4823 -0.54098,2.71151 -1.5104,3.68764 -0.96946,0.97614 -2.17992,1.48228 -3.6314,1.51843 -1.4515,-0.0361 -2.66196,-0.54229 -3.63139,-1.51843 -0.96946,-0.97613 -1.47292,-2.20534 -1.51041,-3.68764 z"
+         id="path8874" />
+      <path
+         d="m 482.89661,171.15214 6.42725,20.56719 -3.21363,10.2836 5.1418,0 9.64087,-30.85079 -5.14179,0 -3.85635,12.34031 -3.85635,-12.34031 -5.1418,0 z"
+         id="path8876" />
+      <path
+         d="m 506.03463,171.15214 0,20.56719 5.1418,0 0,-12.21177 c 0.023,-0.90998 0.33689,-1.66732 0.94159,-2.27204 0.60469,-0.60468 1.36203,-0.91854 2.27204,-0.94159 0.90997,0.0231 1.66732,0.33691 2.27203,0.9416 0.60468,0.60471 0.91854,1.36205 0.94159,2.27203 l 0,12.21177 5.1418,0 0,-12.21177 c 0.023,-0.90998 0.33687,-1.66732 0.94159,-2.27204 0.60467,-0.60468 1.36202,-0.91854 2.27203,-0.94159 0.90997,0.0231 1.66731,0.33691 2.27203,0.9416 0.60467,0.60471 0.91854,1.36205 0.9416,2.27203 l 0,12.21177 5.14179,0 0,-12.8545 c -0.0553,-2.18396 -0.80857,-4.00158 -2.25982,-5.45287 -1.4513,-1.45126 -3.26892,-2.20453 -5.45287,-2.25982 -1.06274,0.007 -2.05588,0.20584 -2.97941,0.59722 -0.92358,0.39141 -1.73706,0.93467 -2.44043,1.62975 -0.597,-0.68937 -1.31215,-1.23099 -2.14545,-1.62486 -0.83334,-0.39383 -1.73944,-0.59453 -2.71831,-0.60211 -1.06045,0.01 -2.03351,0.24306 -2.9192,0.7004 -0.88571,0.45737 -1.62658,1.08115 -2.2226,1.87133 l 0,-2.57173 -5.1418,0 z"
+         id="path8878" />
+      <path
+         d="m 557.13111,179.50756 -10.92632,0 c 0.40839,-1.14484 1.102,-2.06876 2.08082,-2.77175 0.97881,-0.70297 2.10625,-1.0645 3.38234,-1.0846 1.27606,0.0201 2.40351,0.38163 3.38234,1.0846 0.9788,0.70299 1.67241,1.62691 2.08082,2.77175 z m -10.92632,3.85635 14.46131,0 0,-8.09834 c -1.01365,-1.46352 -2.29642,-2.61774 -3.84832,-3.46268 -1.55193,-0.84489 -3.26854,-1.27605 -5.14983,-1.29348 -3.09848,0.0777 -5.67473,1.14353 -7.72877,3.19756 -2.05404,2.05405 -3.11989,4.63031 -3.19755,7.72876 0.0777,3.09848 1.14351,5.67473 3.19756,7.72877 2.05403,2.05404 4.63028,3.11989 7.72876,3.19755 0.58915,-0.0107 1.14618,-0.0536 1.67109,-0.12854 l 3.47071,-0.51418 2.5709,-5.1418 c -0.56642,0.083 -1.69119,0.20621 -3.37431,0.36957 -1.68315,0.16336 -3.12928,0.25441 -4.33839,0.27316 -1.27046,-0.0161 -2.38666,-0.36957 -3.3486,-1.0605 -0.96195,-0.69092 -1.6668,-1.62287 -2.11456,-2.79585 z"
+         id="path8880" />
+      <path
+         d="m 567.09326,171.15214 0,20.56719 5.1418,0 0,-11.56905 c 0.0279,-1.0922 0.40461,-2.00108 1.13022,-2.72663 0.72559,-0.72552 1.63429,-1.1021 2.72612,-1.12972 1.09198,0.0277 2.00079,0.40429 2.72644,1.12991 0.72562,0.72565 1.10226,1.63447 1.12991,2.72644 l 0,11.56905 5.1418,0 0,-12.8545 c -0.0575,-2.18396 -0.81522,-4.00158 -2.27312,-5.45287 -1.45795,-1.45126 -3.27114,-2.20453 -5.43958,-2.25982 -0.99519,0.006 -1.92974,0.18412 -2.80363,0.53524 -0.87391,0.35116 -1.6533,0.84088 -2.33816,1.46916 l 0,-2.0044 -5.1418,0 z"
+         id="path8882" />
+      <path
+         d="m 594.0876,166.01034 0,5.1418 -3.85635,0 0,5.14179 3.85635,0 0,7.7127 c 0.0553,2.18399 0.80854,4.00162 2.25982,5.45288 1.45126,1.45127 3.26889,2.20455 5.45288,2.25982 l 2.66731,-5.1418 -2.66731,0 c -0.72801,-0.0184 -1.33388,-0.26951 -1.81763,-0.75327 -0.48377,-0.48375 -0.73486,-1.08962 -0.75327,-1.81763 l 0,-7.7127 3.85635,0 0,-5.14179 -3.85635,0 0,-10.2836 -5.1418,5.1418 z"
+         id="path8884" />
+      <path
+         d="m 616.04159,171.15214 c -1.59611,0.0362 -2.96726,0.59052 -4.11344,1.66305 -1.1462,1.07256 -1.74607,2.44638 -1.79963,4.12147 0.0522,1.34438 0.38162,2.41558 0.98819,3.21362 0.60657,0.79806 1.17698,1.35509 1.71125,1.67109 l 4.17771,2.44235 c 0.29324,0.16605 0.52622,0.39636 0.69897,0.69093 0.17272,0.29459 0.26109,0.62131 0.26512,0.98016 -0.0121,0.55837 -0.19685,1.01631 -0.55435,1.37382 -0.35753,0.35752 -0.81547,0.5423 -1.37382,0.55435 -1.2137,-0.005 -2.35872,-0.12317 -3.43506,-0.35347 -1.07636,-0.23028 -2.08078,-0.54092 -3.01327,-0.93191 l -1.414,4.30625 c 1.13354,0.4646 2.36891,0.82611 3.7061,1.08454 1.33718,0.25842 2.72259,0.38964 4.15623,0.39366 1.81434,-0.0469 3.32742,-0.6762 4.53924,-1.888 1.21179,-1.2118 1.84112,-2.72488 1.88801,-4.53924 -0.0148,-1.20243 -0.30665,-2.28435 -0.87572,-3.24577 -0.56909,-0.96139 -1.32697,-1.72195 -2.27364,-2.28167 l -3.92062,-2.37808 c -0.1955,-0.0977 -0.35083,-0.23967 -0.46598,-0.42581 -0.11516,-0.1861 -0.17407,-0.40838 -0.17674,-0.66682 0.009,-0.36286 0.13523,-0.66547 0.3776,-0.90785 0.24235,-0.24235 0.54497,-0.36821 0.90785,-0.3776 0.79391,0.003 1.57209,0.0616 2.33456,0.17676 0.76244,0.11517 1.46965,0.27052 2.12164,0.46603 l 0,-4.62755 c -0.59776,-0.15504 -1.27485,-0.27893 -2.03126,-0.37169 -0.75644,-0.0927 -1.56475,-0.14026 -2.42494,-0.14262 z"
+         id="path8886" />
+    </g>
+    <path
+       d="m 92.5,173.17857 a 40.714287,30.178572 0 1 1 -81.428574,0 40.714287,30.178572 0 1 1 81.428574,0 z"
+       transform="matrix(2.1978422,0,0,2.021719,61.189818,-173.08661)"
+       id="path7218"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.47439635;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <path
+       d="m 92.5,173.17857 a 40.714287,30.178572 0 1 1 -81.428574,0 40.714287,30.178572 0 1 1 81.428574,0 z"
+       transform="matrix(2.0612587,0,0,1.8544643,67.771823,-144.05471)"
+       id="path7220"
+       style="fill:none;stroke:#000000;stroke-width:1.53442538;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <path
+       d="m 170,80.84375 -28.40625,0.1875 0.1875,78.9375 12.15625,0 0,-33.40625 16.59375,0 c 23.39286,0 23.40625,-22.84375 23.40625,-22.84375 0,-22.85714 -23.9375,-22.875 -23.9375,-22.875 z m -16.0625,12.5 17.9375,0 c 0.0893,10e-7 10.09375,0.01339 10.09375,10.28125 0,0 0.009,10.96875 -9.1875,10.96875 l -18.84375,0 0,-21.25 z"
+       transform="translate(-19.000051,56.576466)"
+       id="path7246"
+       style="fill:#000000;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       d="m 202.32143,80.85714 0,79.10714 43.57143,0 0,-11.60714 -31.42857,0 0,-67.5 -12.14286,0 z"
+       transform="translate(-19.000051,56.576466)"
+       id="path7259"
+       style="fill:#000000;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <rect
+       width="228.52678"
+       height="205.08928"
+       rx="14.669321"
+       ry="14.669321"
+       x="79.464287"
+       y="262.46429"
+       transform="translate(-19.000051,56.576466)"
+       id="rect7261"
+       style="fill:#ffffff;stroke:none" />
+    <rect
+       width="228.52678"
+       height="92.00885"
+       rx="14.669321"
+       ry="14.669321"
+       x="60.464237"
+       y="531.54077"
+       id="rect7263"
+       style="fill:#ffffff;stroke:none" />
+    <rect
+       width="163.57143"
+       height="49.017853"
+       rx="14.669321"
+       ry="14.669321"
+       x="296.44638"
+       y="262.61218"
+       id="rect7265"
+       style="fill:#ffffff;stroke:none" />
+    <rect
+       width="163.57143"
+       height="304.50894"
+       rx="14.669321"
+       ry="14.669321"
+       x="296.44638"
+       y="319.04074"
+       id="rect7267"
+       style="fill:#ffffff;stroke:none" />
+    <rect
+       width="163.52678"
+       height="49.017853"
+       rx="14.669321"
+       ry="14.669321"
+       x="467.42853"
+       y="262.61218"
+       id="rect7269"
+       style="fill:#ffffff;stroke:none" />
+    <rect
+       width="163.52678"
+       height="205.08929"
+       rx="14.669321"
+       ry="14.669321"
+       x="467.42853"
+       y="319.04074"
+       id="rect7271"
+       style="fill:#ffffff;stroke:none" />
+    <path
+       d="m 503.95376,306.19605 91.18119,0 c 2.60987,0 4.98449,-2.37462 4.98449,-4.9845 l 0,-29.90696 c -1e-5,-2.60987 -2.37462,-4.98449 -4.98449,-4.98449 l -91.18119,0 c -2.60987,0 -4.98449,2.37462 -4.98449,4.98449 l 0,29.90696 c 0,2.60988 2.37461,4.9845 4.98449,4.9845 z"
+       id="path7335"
+       style="fill:#003399;fill-opacity:1;stroke:none" />
+    <g
+       id="text7352"
+       style="font-size:26.31871796px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Drogowskaz;-inkscape-font-specification:Drogowskaz Bold">
+      <path
+         d="m 517.74176,288.04548 c 0.92555,-0.6426 1.65829,-1.46145 2.19823,-2.45657 0.53991,-0.9951 0.81581,-2.09533 0.82769,-3.30067 -0.0119,-1.20537 -0.28775,-2.30561 -0.82763,-3.30072 -0.5399,-0.99507 -1.27267,-1.81391 -2.19829,-2.45652 l -9.31102,0 0,19.73911 3.28985,0 0,-8.22463 6.02117,0 z m -1.20725,-3.28985 -4.81392,0 0,-4.93453 4.81392,0 c 0.29596,0.33012 0.52651,0.70474 0.69166,1.12385 0.16512,0.41914 0.24901,0.8669 0.25166,1.34329 -0.003,0.47639 -0.0866,0.92419 -0.25182,1.3434 -0.16522,0.41923 -0.39572,0.79389 -0.6915,1.12399 z"
+         id="path8851" />
+      <path
+         d="m 524.87994,276.531 0,6.5797 -3.28985,1.64493 0,3.28985 3.28985,-1.64493 0,9.86956 3.28986,0 0,-11.51448 3.28985,-1.64493 0,-3.28985 -3.28985,1.64493 0,-4.93478 -3.28986,0 z"
+         id="path8853" />
+      <path
+         d="m 533.02229,289.69041 c 0.048,1.8574 0.69223,3.40637 1.93278,4.64691 1.24055,1.24055 2.78952,1.88481 4.64692,1.93279 0.71068,-0.003 1.38757,-0.1104 2.0307,-0.32258 0.6431,-0.21218 1.23519,-0.51179 1.77628,-0.89883 l 0.30534,1.22141 3.28985,0 -0.82246,-3.28985 0,-9.86956 -3.28986,0 0,0.8874 c -0.48638,-0.28366 -1.00632,-0.50205 -1.55981,-0.65516 -0.55352,-0.15308 -1.1302,-0.23049 -1.73004,-0.23224 -1.8574,0.048 -3.40637,0.69225 -4.64692,1.93279 -1.24055,1.24056 -1.88481,2.78953 -1.93278,4.64692 z m 3.28985,0 c 0.024,-0.9484 0.34611,-1.73488 0.96639,-2.35944 0.62027,-0.62455 1.39476,-0.9484 2.32346,-0.97154 0.92869,0.0231 1.70317,0.34699 2.32346,0.97154 0.62026,0.62456 0.94239,1.41104 0.96639,2.35944 -0.024,0.94841 -0.34613,1.73488 -0.96639,2.35944 -0.62029,0.62456 -1.39477,0.9484 -2.32346,0.97153 -0.9287,-0.0231 -1.70319,-0.34697 -2.32346,-0.97153 -0.62028,-0.62456 -0.94241,-1.41103 -0.96639,-2.35944 z"
+         id="path8855" />
+      <path
+         d="m 551.91831,279.82085 0,3.28985 -2.46739,0 0,3.28985 2.46739,0 0,4.93478 c 0.0354,1.39737 0.51733,2.56034 1.44589,3.48889 0.92856,0.92856 2.09152,1.41053 3.48889,1.44589 l 1.70661,-3.28985 -1.70661,0 c -0.46579,-0.0118 -0.85345,-0.17244 -1.16296,-0.48196 -0.30953,-0.30952 -0.47018,-0.69717 -0.48197,-1.16297 l 0,-4.93478 2.46739,0 0,-3.28985 -2.46739,0 0,-6.5797 -3.28985,3.28985 z"
+         id="path8857" />
+      <path
+         d="m 561.83923,283.1107 0,13.15941 3.28985,0 0,-7.40217 c 0.0178,-0.69882 0.25888,-1.28034 0.72315,-1.74456 0.46425,-0.46421 1.04566,-0.70515 1.74424,-0.72283 0.69868,0.0177 1.28016,0.25868 1.74445,0.72295 0.46427,0.46429 0.70525,1.04577 0.72294,1.74444 l 0,7.40217 3.28985,0 0,-8.22463 c -0.0368,-1.39735 -0.5216,-2.56032 -1.4544,-3.48889 -0.93283,-0.92855 -2.09295,-1.41051 -3.48037,-1.44589 -0.63676,0.004 -1.2347,0.11781 -1.79384,0.34247 -0.55915,0.22468 -1.05782,0.53801 -1.49602,0.94 l 0,-1.28247 -3.28985,0 z"
+         id="path8859" />
+      <path
+         d="m 577.38372,289.69041 c 0.048,1.8574 0.69224,3.40637 1.93279,4.64691 1.24055,1.24055 2.78952,1.88481 4.64692,1.93279 0.71068,-0.003 1.38757,-0.1104 2.0307,-0.32258 0.6431,-0.21218 1.23519,-0.51179 1.77628,-0.89883 l 0.30533,1.22141 3.28986,0 -0.82247,-3.28985 0,-9.86956 -3.28985,0 0,0.8874 c -0.48638,-0.28366 -1.00632,-0.50205 -1.55981,-0.65516 -0.55352,-0.15308 -1.1302,-0.23049 -1.73004,-0.23224 -1.8574,0.048 -3.40637,0.69225 -4.64692,1.93279 -1.24055,1.24056 -1.88481,2.78953 -1.93279,4.64692 z m 3.28986,0 c 0.024,-0.9484 0.34611,-1.73488 0.96639,-2.35944 0.62027,-0.62455 1.39475,-0.9484 2.32346,-0.97154 0.92869,0.0231 1.70317,0.34699 2.32346,0.97154 0.62026,0.62456 0.94239,1.41104 0.96639,2.35944 -0.024,0.94841 -0.34613,1.73488 -0.96639,2.35944 -0.62029,0.62456 -1.39477,0.9484 -2.32346,0.97153 -0.92871,-0.0231 -1.70319,-0.34697 -2.32346,-0.97153 -0.62028,-0.62456 -0.94241,-1.41103 -0.96639,-2.35944 z"
+         id="path8861" />
+    </g>
+    <g
+       transform="matrix(0.15719151,0,0,0.15719151,30.35334,614.43624)"
+       id="layer1-9">
+      <rect
+         width="396.28317"
+         height="497.64569"
+         rx="17.685631"
+         ry="16.213434"
+         x="393.22049"
+         y="-484.13959"
+         id="rect4213"
+         style="fill:#003399;fill-opacity:1;stroke:none" />
+      <path
+         d="m 591.27026,-336.03714 -89.16352,1.54247 -11.44001,58.87106 -10.19746,10.92585 0,91.04877 9.42622,0 0,30.12108 31.57785,0 0,-30.12108 139.80808,0 0,30.12108 31.49216,0 0,-30.12108 10.15461,0 0,-91.22015 -10.58308,-10.75447 -11.39716,-59.04245 -89.67769,-1.37108 z m -77.2522,20.43776 155.14711,0 6.7269,40.31855 -168.08675,0 6.21274,-40.31855 z m -8.01229,65.76935 c 8.49425,0 15.29619,6.84478 15.29619,15.33904 0,8.49426 -6.80194,15.33905 -15.29619,15.33905 -8.49426,0 -15.33904,-6.84479 -15.33904,-15.33905 0,-8.49426 6.84478,-15.33904 15.33904,-15.33904 z m 171.68584,0 c 8.49426,0 15.33904,6.84478 15.33904,15.33904 0,8.49426 -6.84478,15.33905 -15.33904,15.33905 -8.49425,0 -15.33903,-6.84479 -15.33903,-15.33905 0,-8.49426 6.84478,-15.33904 15.33903,-15.33904 z m -187.66758,44.68888 202.87809,0 0,10.88301 -202.87809,0 0,-10.88301 z"
+         id="path4215"
+         style="fill:#ffffff;stroke:none" />
+    </g>
+    <g
+       transform="matrix(0.15719175,0,0,0.15719175,82.952725,381.3989)"
+       id="layer1-6">
+      <rect
+         width="396.28543"
+         height="497.6485"
+         rx="17.685732"
+         ry="16.213526"
+         x="393.26917"
+         y="5.8195066"
+         id="rect2959"
+         style="fill:#003399;fill-opacity:1;stroke:none" />
+      <path
+         d="m 513.68031,194.30316 26.3723,-184.314128 30.259,0 -2.84599,184.314128 -53.78531,0 z"
+         id="path5245-0"
+         style="fill:#ffffff" />
+      <path
+         d="M 667.81858,194.30316 641.44627,9.989032 l -30.259,0 2.84599,184.314128 53.78532,0 z"
+         id="path3780"
+         style="fill:#ffffff" />
+      <path
+         d="m 399.82079,204.58938 381.74484,0 0,9.86823 -47.95616,0 9.0026,50.7262 -40.51169,0 10.3876,-50.7262 -242.37767,0 10.04137,51.07244 -40.33857,0 10.04135,-51.24556 -49.68742,0 -0.34625,-9.69511 z"
+         id="path3806"
+         style="fill:#ffffff;fill-opacity:1;stroke:none" />
+      <path
+         d="m 566.27366,264.9393 -63.27433,0 -34.27068,235.87633 93.12341,0 4.4216,-235.87633 z"
+         id="path5243-4"
+         style="fill:#ffffff" />
+      <path
+         d="m 615.59504,264.9393 63.27432,0 34.27068,235.87633 -93.1234,0 -4.4216,-235.87633 z"
+         id="path3843"
+         style="fill:#ffffff" />
+    </g>
+    <path
+       d="m 200.47162,595.49962 50.54984,0 c 2.60987,0 4.98449,-2.37462 4.98449,-4.9845 l 0,-25.90696 c -10e-6,-2.60987 -2.37462,-4.98449 -4.98449,-4.98449 l -50.54984,0 c -2.60987,0 -4.98449,2.37462 -4.98449,4.98449 l 0,25.90696 c 0,2.60988 2.37461,4.9845 4.98449,4.9845 z"
+       id="path7718"
+       style="fill:#d40000;fill-opacity:1;stroke:none" />
+    <g
+       id="text7720"
+       style="font-size:26.31871796px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Drogowskaz;-inkscape-font-specification:Drogowskaz Bold">
+      <path
+         d="m 219.2307,567.81423 -8.22463,11.51448 0,3.28986 8.22463,0 0,4.93477 3.28986,0 0,-4.93477 1.64492,0 0.82246,-3.28986 -2.46738,0 0,-11.51448 -3.28986,0 z m 0,11.51448 -4.93478,0 4.93478,-6.90844 0,6.90844 z"
+         id="path8916" />
+      <path
+         d="m 234.03498,577.68379 c -0.92871,-0.0214 -1.70319,-0.3384 -2.32346,-0.95098 -0.62028,-0.61255 -0.94241,-1.39217 -0.96639,-2.33887 0.024,-0.94839 0.34611,-1.73487 0.96639,-2.35945 0.62027,-0.62454 1.39475,-0.94838 2.32346,-0.97153 0.92869,0.0231 1.70317,0.34699 2.32346,0.97153 0.62026,0.62458 0.94239,1.41106 0.96639,2.35945 -0.024,0.9467 -0.34613,1.72632 -0.96639,2.33887 -0.62029,0.61258 -1.39477,0.92957 -2.32346,0.95098 z m 0,-9.86956 c -1.8574,0.048 -3.40637,0.69226 -4.64692,1.93279 -1.24055,1.24056 -1.88481,2.78953 -1.93279,4.64692 0.0472,1.84631 0.68466,3.38848 1.91248,4.62652 1.22781,1.23806 2.76298,1.88902 4.6055,1.95289 l -4.37957,7.40246 3.8129,0 6.30298,-10.65143 c 0.29044,-0.49083 0.51351,-1.01663 0.6692,-1.57742 0.15566,-0.56076 0.2343,-1.1451 0.23592,-1.75302 -0.048,-1.85739 -0.69225,-3.40636 -1.93279,-4.64692 -1.24056,-1.24053 -2.78953,-1.88479 -4.64691,-1.93279 z"
+         id="path8918" />
+    </g>
+    <g
+       id="g7344">
+      <path
+         d="m 356.09778,306.19605 43.19894,0 a 4.9844931,4.9844931 0 0 0 4.9845,-4.9845 l 0,-29.90696 a 4.9844931,4.9844931 0 0 0 -4.9845,-4.98449 l -43.19894,0 a 4.9844931,4.9844931 0 0 0 -4.98449,4.98449 l 0,29.90696 a 4.9844931,4.9844931 0 0 0 4.98449,4.9845 z"
+         id="path3357"
+         style="fill:#ffffff;fill-opacity:1;stroke:none" />
+      <path
+         d="m 356.09778,304.7007 43.19894,0 a 3.4891452,3.4891452 0 0 0 3.48915,-3.48915 l 0,-29.90696 a 3.4891452,3.4891452 0 0 0 -3.48915,-3.48914 l -43.19894,0 a 3.4891452,3.4891452 0 0 0 -3.48914,3.48914 l 0,29.90696 a 3.4891452,3.4891452 0 0 0 3.48914,3.48915 z"
+         id="path3359"
+         style="fill:#ff6600;fill-opacity:1;stroke:none" />
+      <path
+         d="m 389.26355,282.2601 a 13.026142,13.026142 0 0 0 -5.91573,-5.74499 l -0.12817,1.12491 a 11.962783,11.962783 0 0 1 4.94173,4.81442 l 1.10217,-0.19434 z"
+         id="path3365"
+         style="fill:#000000;fill-opacity:1;stroke:none" />
+      <path
+         d="m 392.52438,281.68513 a 16.216218,16.216218 0 0 0 -8.79861,-8.48726 l -0.12514,1.09838 a 15.152859,15.152859 0 0 1 7.84269,7.5795 l 1.08106,-0.19062 z"
+         id="path3367"
+         style="fill:#000000;fill-opacity:1;stroke:none" />
+      <path
+         d="m 384.09793,269.93151 -0.12361,1.08488 a 18.342935,18.342935 0 0 1 10.69994,10.28965 l 1.07023,-0.18871 a 19.406293,19.406293 0 0 0 -11.64656,-11.18582 z"
+         id="path3369"
+         style="fill:#000000;fill-opacity:1;stroke:none" />
+      <path
+         d="m 383.65933,284.14799 a 1.3291982,1.3291982 0 0 0 -1.60036,-0.98609 l -21.44567,5.09335 a 1.3291982,1.3291982 0 0 0 -0.98609,1.60037 l 2.58319,10.87658 a 1.3291982,1.3291982 0 0 0 1.60036,0.98608 l 21.44568,-5.09335 a 1.3291982,1.3291982 0 0 0 0.98608,-1.60037 l -2.58319,-10.87657 z"
+         id="path3371"
+         style="fill:#000000;fill-opacity:1;stroke:none" />
+    </g>
+    <path
+       d="m 321.07143,532.46429 151.60714,0"
+       transform="translate(-19.000051,56.576466)"
+       id="path7724"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       d="m 302.07138,503.05862 151.60714,0"
+       id="path7726"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       d="m 302.07138,395.06755 151.60714,0"
+       id="path7728"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       d="m 472.99773,368.06977 151.60714,0"
+       id="path7730"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       d="m 472.99773,448.5162 151.60714,0"
+       id="path7732"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       d="m 472.99773,511.06084 151.60714,0"
+       id="path7734"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <g
+       id="text7736"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans">
+      <path
+         d="m 379.74999,355.37998 -18.75007,7.50003 0,5.00002 25.0001,-10.00004 0,-5.00002 -25.0001,-10.00004 0,5.00002 18.75007,7.50003 z"
+         id="path8942"
+         style="font-family:Drogowskaz;-inkscape-font-specification:Drogowskaz" />
+    </g>
+    <g
+       id="text7740"
+       style="font-size:34.18537521px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans">
+      <path
+         d="m 399.17443,357.17042 c 0.34244,-0.0889 0.69854,-0.13381 1.0683,-0.13476 1.21001,0.0306 2.21706,0.44798 3.02114,1.25204 0.80406,0.80409 1.22141,1.81113 1.25205,3.02115 -0.0306,1.21003 -0.44799,2.21708 -1.25205,3.02114 -0.80408,0.80408 -1.81113,1.22142 -3.02114,1.25205 -1.21003,-0.0306 -2.21708,-0.44797 -3.02114,-1.25205 -0.80408,-0.80406 -1.22143,-1.81111 -1.25205,-3.02114 l -4.27319,0 c 0.0613,2.43295 0.89595,4.45073 2.50409,6.05334 1.60814,1.60262 3.62223,2.43363 6.04229,2.49303 2.42004,-0.0594 4.43413,-0.89041 6.04229,-2.49303 1.60812,-1.60261 2.44282,-3.62039 2.50409,-6.05334 -0.008,-1.21561 -0.23728,-2.3532 -0.68888,-3.41279 -0.45163,-1.05957 -1.07948,-1.98779 -1.88353,-2.78467 0.47809,-0.63019 0.84746,-1.3239 1.10814,-2.08115 0.26064,-0.75722 0.39263,-1.55867 0.39597,-2.40436 -0.0545,-2.11098 -0.78677,-3.87144 -2.19669,-5.2814 -1.40994,-1.4099 -3.1704,-2.14213 -5.28139,-2.19668 -2.11101,0.0546 -3.87147,0.78678 -5.28139,2.19668 -1.40994,1.40996 -2.14217,3.17042 -2.19669,5.2814 l 4.27319,0 c 0.0234,-0.9047 0.33717,-1.65918 0.94143,-2.26346 0.60425,-0.60423 1.35874,-0.91804 2.26346,-0.94143 0.9047,0.0234 1.65919,0.3372 2.26345,0.94143 0.60425,0.60428 0.91806,1.35876 0.94144,2.26346 -0.0234,0.90473 -0.33719,1.65921 -0.94144,2.26345 -0.60426,0.60427 -1.35875,0.91808 -2.26345,0.94144 -0.3759,-0.002 -0.732,-0.0631 -1.0683,-0.18412 l 0,3.52377 z"
+         id="path8933"
+         style="font-family:Drogowskaz;-inkscape-font-specification:Drogowskaz" />
+      <path
+         d="m 413.78331,369.32108 -0.93356,4.27261 c 1.56963,-0.82324 2.8239,-1.98256 3.76282,-3.47798 0.93891,-1.49541 1.42022,-3.18469 1.44393,-5.06782 l -4.27319,0 0,4.27319 z"
+         id="path8935"
+         style="font-family:Drogowskaz;-inkscape-font-specification:Drogowskaz" />
+      <path
+         d="m 430.14488,347.95513 8.90362,0 0,-4.27318 -12.81957,0 -1.06829,12.81956 6.40978,0 c 1.20915,0.0278 2.21595,0.43957 3.0204,1.23522 0.80443,0.79567 1.22202,1.80832 1.25279,3.03797 -0.0308,1.22966 -0.44836,2.24232 -1.25279,3.03797 -0.80445,0.79566 -1.81125,1.2074 -3.0204,1.23522 -0.23597,-4.9e-4 -0.46678,-0.0188 -0.69242,-0.0548 l -6.34274,-1.00018 -0.35518,4.27893 6.06528,0.94639 c 0.43241,0.068 0.87409,0.10224 1.32506,0.10282 2.41833,-0.0623 4.43194,-0.89915 6.04082,-2.5105 1.60886,-1.61135 2.44404,-3.6233 2.50556,-6.03588 -0.0615,-2.41256 -0.8967,-4.42452 -2.50556,-6.03588 -1.60888,-1.61133 -3.62249,-2.44816 -6.04082,-2.5105 -0.61761,10e-4 -1.21684,0.0647 -1.79768,0.19064 l 0.37214,-4.46383 z"
+         id="path8937"
+         style="font-family:Drogowskaz;-inkscape-font-specification:Drogowskaz" />
+      <path
+         d="m 446.36626,347.95513 0,4.27319 -3.2049,0 0,4.27319 3.2049,0 0,6.40978 c 0.0459,1.81505 0.67195,3.32562 1.87806,4.53172 1.2061,1.20611 2.71667,1.83213 4.53172,1.87807 l 2.21671,-4.27319 -2.21671,0 c -0.60502,-0.0153 -1.10855,-0.22398 -1.51057,-0.62602 -0.40205,-0.40203 -0.61072,-0.90556 -0.62603,-1.51058 l 0,-6.40978 3.20489,0 0,-4.27319 -3.20489,0 0,-8.54637 -4.27318,4.27318 z"
+         id="path8939"
+         style="font-family:Drogowskaz;-inkscape-font-specification:Drogowskaz" />
+    </g>
+    <path
+       d="m 501.96875,340.9375 -5,3.21875 0,38.75 14.03125,0 c 0.50258,4.79109 4.54455,8.53125 9.46875,8.53125 4.92418,0 8.96617,-3.74016 9.46875,-8.53125 l 6.65625,0 66.34375,0 c 0.51581,4.77718 4.58572,8.5 9.5,8.5 4.91408,0 8.95268,-3.72309 9.46875,-8.5 l 9.0625,0 0,-2.90625 2,0 0,-3 -1.96875,0 0,-14 -4.9375,-3.125 -3.21875,-11.875 -10.875,0 0,-3.84375 -2.9375,-3.21875 -107.0625,0 z m 112.0625,9.0625 6.90625,0 3.03125,10 -9.9375,0 0,-10 z"
+       transform="translate(-19.000051,56.576466)"
+       id="path7785"
+       style="fill:#000000;stroke:none" />
+    <path
+       d="m 311.97464,452.07948 -5,3.21875 0,38.75 14.03125,0 c 0.50258,4.79109 4.54455,8.53125 9.46875,8.53125 4.92418,0 8.96617,-3.74016 9.46875,-8.53125 l 6.65625,0 66.34375,0 c 0.51581,4.77718 4.58572,8.5 9.5,8.5 4.91408,0 8.95268,-3.72309 9.46875,-8.5 l 9.0625,0 0,-2.90625 2,0 0,-3 -1.96875,0 0,-14 -4.9375,-3.125 -3.21875,-11.875 -10.875,0 0,-3.84375 -2.9375,-3.21875 -107.0625,0 z m 112.0625,9.0625 6.90625,0 3.03125,10 -9.9375,0 0,-10 z"
+       id="path7799"
+       style="fill:#000000;stroke:none" />
+    <g
+       id="text7801"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans">
+      <path
+         d="m 334.92449,473.06275 -18.75007,7.50003 0,5.00002 25.0001,-10.00004 0,-5.00002 -25.0001,-10.00004 0,5.00002 18.75007,7.50003 z"
+         id="path8930"
+         style="fill:#ffffff;font-family:Drogowskaz;-inkscape-font-specification:Drogowskaz" />
+    </g>
+    <g
+       id="text7805"
+       style="font-size:34.18537521px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans">
+      <path
+         d="m 353.71758,474.72694 c 0.34245,-0.0889 0.69854,-0.13382 1.0683,-0.13476 1.21001,0.0306 2.21706,0.44798 3.02115,1.25204 0.80405,0.80408 1.2214,1.81113 1.25204,3.02115 -0.0306,1.21003 -0.44799,2.21707 -1.25204,3.02114 -0.80409,0.80408 -1.81114,1.22142 -3.02115,1.25204 -1.21003,-0.0306 -2.21708,-0.44796 -3.02114,-1.25204 -0.80408,-0.80407 -1.22143,-1.81111 -1.25205,-3.02114 l -4.27318,0 c 0.0612,2.43295 0.89594,4.45073 2.50408,6.05334 1.60814,1.60262 3.62223,2.43363 6.04229,2.49303 2.42004,-0.0594 4.43413,-0.89041 6.04229,-2.49303 1.60812,-1.60261 2.44282,-3.62039 2.50409,-6.05334 -0.008,-1.21561 -0.23727,-2.3532 -0.68887,-3.41279 -0.45164,-1.05957 -1.07949,-1.98779 -1.88354,-2.78467 0.47809,-0.63019 0.84747,-1.3239 1.10814,-2.08115 0.26064,-0.75722 0.39263,-1.55867 0.39597,-2.40436 -0.0546,-2.11098 -0.78677,-3.87145 -2.19669,-5.2814 -1.40994,-1.4099 -3.1704,-2.14213 -5.28139,-2.19668 -2.11101,0.0546 -3.87147,0.78678 -5.28139,2.19668 -1.40994,1.40995 -2.14216,3.17042 -2.19669,5.2814 l 4.27319,0 c 0.0234,-0.9047 0.33717,-1.65918 0.94144,-2.26346 0.60424,-0.60423 1.35873,-0.91805 2.26345,-0.94144 0.9047,0.0234 1.65919,0.33721 2.26346,0.94144 0.60424,0.60428 0.91805,1.35876 0.94143,2.26346 -0.0234,0.90473 -0.33719,1.65921 -0.94143,2.26345 -0.60427,0.60427 -1.35876,0.91808 -2.26346,0.94144 -0.3759,-0.002 -0.732,-0.0632 -1.0683,-0.18412 l 0,3.52377 z"
+         id="path8921"
+         style="fill:#ffffff;font-family:Drogowskaz;-inkscape-font-specification:Drogowskaz" />
+      <path
+         d="m 368.32646,486.87759 -0.93355,4.27262 c 1.56962,-0.82324 2.8239,-1.98256 3.76281,-3.47798 0.93891,-1.49542 1.42022,-3.18469 1.44393,-5.06782 l -4.27319,0 0,4.27318 z"
+         id="path8923"
+         style="fill:#ffffff;font-family:Drogowskaz;-inkscape-font-specification:Drogowskaz" />
+      <path
+         d="m 384.68804,465.51165 8.90361,0 0,-4.27319 -12.81956,0 -1.0683,12.81957 6.40978,0 c 1.20915,0.0278 2.21595,0.43957 3.0204,1.23522 0.80443,0.79567 1.22203,1.80832 1.25279,3.03797 -0.0308,1.22966 -0.44836,2.24231 -1.25279,3.03797 -0.80445,0.79566 -1.81125,1.2074 -3.0204,1.23522 -0.23597,-5e-4 -0.46677,-0.0187 -0.69242,-0.0548 l -6.34274,-1.00017 -0.35518,4.27893 6.06528,0.94639 c 0.43241,0.068 0.8741,0.10224 1.32506,0.10281 2.41833,-0.0623 4.43194,-0.89915 6.04083,-2.51049 1.60885,-1.61135 2.44403,-3.62331 2.50555,-6.03588 -0.0615,-2.41256 -0.8967,-4.42452 -2.50555,-6.03588 -1.60889,-1.61133 -3.6225,-2.44816 -6.04083,-2.5105 -0.61761,10e-4 -1.21683,0.0647 -1.79768,0.19064 l 0.37215,-4.46383 z"
+         id="path8925"
+         style="fill:#ffffff;font-family:Drogowskaz;-inkscape-font-specification:Drogowskaz" />
+      <path
+         d="m 400.90941,465.51165 0,4.27319 -3.20489,0 0,4.27319 3.20489,0 0,6.40978 c 0.0459,1.81505 0.67195,3.32562 1.87806,4.53172 1.2061,1.20611 2.71667,1.83213 4.53172,1.87806 l 2.21672,-4.27318 -2.21672,0 c -0.60502,-0.0153 -1.10855,-0.22398 -1.51057,-0.62602 -0.40205,-0.40203 -0.61072,-0.90556 -0.62602,-1.51058 l 0,-6.40978 3.20489,0 0,-4.27319 -3.20489,0 0,-8.54638 -4.27319,4.27319 z"
+         id="path8927"
+         style="fill:#ffffff;font-family:Drogowskaz;-inkscape-font-specification:Drogowskaz" />
+    </g>
+    <path
+       d="m 323.80823,548.77399 -0.8579,16.14363 0,15.12917 24.77275,0.98941 0.0564,0 c -0.004,0.0916 -0.006,0.18303 -0.006,0.27553 0,3.96868 3.35307,7.18886 7.48944,7.18886 4.13638,0 7.48944,-3.22018 7.48944,-7.18886 0,-0.0841 -0.003,-0.16713 -0.006,-0.25048 l 38.36773,0.0564 c -0.002,0.0648 -0.006,0.12897 -0.006,0.19413 0,3.96868 3.3529,7.18886 7.48943,7.18886 4.13624,0 7.48944,-3.22018 7.48944,-7.18886 0,-0.0588 0.002,-0.11684 0,-0.17534 l 0.1002,0 16.24379,0 0.78905,-0.78276 0,-13.21298 c 0,0 -4.65863,-18.24014 -4.70909,-18.36665 l -104.70187,0 z m 4.65898,3.56939 10.58916,0 1.00193,1.00819 0,11.45333 -0.87668,0.87669 -11.54726,0 -0.82659,-0.82659 0.56358,-11.42202 1.09586,-1.0896 z m 14.50297,0 17.03909,0 1.00193,1.00819 0,11.45333 -0.87669,0.87669 -17.42736,0 -0.83284,-0.82659 0,-11.42202 1.09587,-1.0896 z m 21.04057,0 16.9389,0 1.00193,1.00819 0,11.45333 -0.87669,0.87669 -17.32717,0 -0.83285,-0.82659 0,-11.42202 1.09588,-1.0896 z m 19.8758,0 3.67584,0 0,13.33821 -3.67584,0 0,-13.33821 z m 5.72356,0 3.68209,0 -0.006,13.33821 -3.67583,0 0,-13.33821 z m 6.76303,0 18.83632,0 1.00193,1.00819 0,11.45333 -0.87669,0.87669 -19.23084,0 -0.82659,-0.82659 0,-11.42202 1.09587,-1.0896 z m 22.74385,0 8.46633,0 3.86369,15.29824 -3.88874,3.83239 -8.56652,0 -0.96438,-1.95376 0,-16.08727 1.08962,-1.0896 z"
+       id="path7905"
+       style="fill:#000000;stroke:none" />
+    <path
+       d="m 494.79037,470.82757 -0.8579,16.14363 0,15.12917 24.77275,0.98941 0.0564,0 c -0.004,0.0916 -0.006,0.18303 -0.006,0.27553 0,3.96868 3.35307,7.18886 7.48944,7.18886 4.13638,0 7.48944,-3.22018 7.48944,-7.18886 0,-0.0841 -0.003,-0.16713 -0.006,-0.25048 l 38.36773,0.0564 c -0.002,0.0648 -0.006,0.12897 -0.006,0.19413 0,3.96868 3.3529,7.18886 7.48943,7.18886 4.13624,0 7.48944,-3.22018 7.48944,-7.18886 0,-0.0588 0.002,-0.11684 0,-0.17534 l 0.1002,0 16.24379,0 0.78905,-0.78276 0,-13.21298 c 0,0 -4.65863,-18.24014 -4.70909,-18.36665 l -104.70187,0 z m 4.65898,3.56939 10.58916,0 1.00193,1.00819 0,11.45333 -0.87668,0.87669 -11.54726,0 -0.82659,-0.82659 0.56358,-11.42202 1.09586,-1.0896 z m 14.50297,0 17.03909,0 1.00193,1.00819 0,11.45333 -0.87669,0.87669 -17.42736,0 -0.83284,-0.82659 0,-11.42202 1.09587,-1.0896 z m 21.04057,0 16.9389,0 1.00193,1.00819 0,11.45333 -0.87669,0.87669 -17.32717,0 -0.83285,-0.82659 0,-11.42202 1.09588,-1.0896 z m 19.8758,0 3.67584,0 0,13.33821 -3.67584,0 0,-13.33821 z m 5.72356,0 3.68209,0 -0.006,13.33821 -3.67583,0 0,-13.33821 z m 6.76303,0 18.83632,0 1.00193,1.00819 0,11.45333 -0.87669,0.87669 -19.23084,0 -0.82659,-0.82659 0,-11.42202 1.09587,-1.0896 z m 22.74385,0 8.46633,0 3.86369,15.29824 -3.88874,3.83239 -8.56652,0 -0.96438,-1.95376 0,-16.08727 1.08962,-1.0896 z"
+       id="path7907"
+       style="fill:#000000;stroke:none" />
+    <path
+       d="m 320.96875,331.03125 0,3.96875 L 333,335 c 0.23507,1.6946 1.67821,3 3.4375,3 1.75958,0 3.2028,-1.30499 3.4375,-3 l 11.15625,0 0,-3.96875 -14.59375,0 -15.46875,0 z"
+       transform="translate(-19.000051,56.576466)"
+       id="rect7933"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <path
+       d="m 349.73214,332.86607 11.51786,0"
+       transform="translate(-19.000051,56.576466)"
+       id="path7942"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <g
+       transform="matrix(0.8616637,0,0,1.0084725,-4155.2024,3259.8482)"
+       id="g3564" />
+    <g
+       transform="translate(-1813.2108,454.7028)"
+       id="g2874" />
+    <g
+       transform="translate(-1813.2108,454.7028)"
+       id="g2893" />
+    <g
+       transform="translate(-9462.3008,7365.2361)"
+       id="g3910" />
+    <g
+       transform="matrix(0,1.1615698,1.0399326,0,-3817.3247,1545.72)"
+       id="g6429"
+       style="fill:#000000;fill-opacity:0.573394;stroke:#000000;stroke-opacity:1">
+      <g
+         id="g6431"
+         style="fill:#000000;fill-opacity:0.573394;stroke:#000000;stroke-opacity:1">
+        <g
+           transform="translate(-91.4287,-94.8572)"
+           id="g6433"
+           style="fill:#000000;fill-opacity:0.573394;stroke:#000000;stroke-opacity:1">
+          <g
+             transform="translate(218.945,96.7782)"
+             id="g6435"
+             style="fill:#000000;fill-opacity:0.573394;stroke:#000000;stroke-opacity:1">
+            <g
+               transform="translate(334.143,296.362)"
+               id="g6437"
+               style="fill:#000000;fill-opacity:0.573394;stroke:#000000;stroke-opacity:1">
+              <g
+                 transform="matrix(0.985222,0,0,0.976563,-278.802,-85.064)"
+                 id="g6439"
+                 style="fill:#000000;fill-opacity:0.573394;stroke:#000000;stroke-opacity:1">
+                <g
+                   transform="matrix(1,0,0,0.995024,0,2.04826)"
+                   id="g6441"
+                   style="fill:#000000;fill-opacity:0.573394;stroke:#000000;stroke-opacity:1" />
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <path
+       d="m 367.6652,374.05666 5.50175,9.44677 11.34798,0 c 0,2.4174 0,5.57266 0,5.57266 0,1.68127 -0.002,1.67902 -1.97576,1.67902 l -1.62839,0 c -0.0771,2.08954 -1.79261,3.76336 -3.90085,3.76336 -2.10827,0 -3.8238,-1.67382 -3.90088,-3.76336 l -21.63929,0 c -0.0771,2.08954 -1.79261,3.76336 -3.90085,3.76336 -2.10825,0 -3.82377,-1.67382 -3.90086,-3.76336 l -1.83826,0 c -1.76424,0 -1.76587,0.002 -1.76589,-1.67902 0,0 2e-5,-2.30145 0,-2.30145 l 11.92361,-12.71798 15.67769,0 z m 0.23306,3.75107 -5.32659,0 0,5.47134 8.40964,0 -3.08305,-5.47134 z m -6.88983,0 -9.59656,0 0,5.47134 9.59656,0 0,-5.47134 z"
+       id="path8831"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+    <path
+       d="m 524.38395,347.13703 5.50175,9.44677 11.34798,0 c 0,2.4174 0,5.57266 0,5.57266 0,1.68127 -0.002,1.67902 -1.97576,1.67902 l -1.62839,0 c -0.0771,2.08954 -1.79261,3.76336 -3.90085,3.76336 -2.10827,0 -3.8238,-1.67382 -3.90088,-3.76336 l -21.63929,0 c -0.0771,2.08954 -1.79261,3.76336 -3.90085,3.76336 -2.10825,0 -3.82377,-1.67382 -3.90086,-3.76336 l -1.83826,0 c -1.76424,0 -1.76587,0.002 -1.76589,-1.67902 0,0 2e-5,-2.30145 0,-2.30145 l 11.92361,-12.71798 15.67769,0 z m 0.23306,3.75107 -5.32659,0 0,5.47134 8.40964,0 -3.08305,-5.47134 z m -6.88983,0 -9.59656,0 0,5.47134 9.59656,0 0,-5.47134 z"
+       id="path8833"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+    <g
+       transform="matrix(0.07356826,0,0,0.07356826,570.9847,384.64963)"
+       id="g3174">
+      <path
+         d="m 189.12308,-749.67464 c -18.2468,0 -33.0768,15.23466 -33.0768,33.97823 0,18.74377 14.83,33.97822 33.0768,33.97822 18.2461,0 33.0761,-15.23445 33.0761,-33.97822 0,-18.74357 -14.83,-33.97823 -33.0761,-33.97823 z m -22.3096,74.32239 -39.1186,33.50075 -31.526701,155.32896 -105.3489973,0 0,25.46377 -74.3641997,25.46372 -24.787702,101.85508 24.787702,0 c 0,56.22115 44.4231,101.85503 99.1519,101.85503 36.6715,0 68.674897,-20.49383 85.828498,-50.92753 l 166.5443,0 54.069,-101.85504 15.0275,0 c -7.4342,15.34812 -11.6194,32.63109 -11.6194,50.92754 l 0,50.9275 25.7175,0 c 17.1531,30.4337 49.157,50.92753 85.8285,50.92753 54.7288,0 99.1519,-45.63388 99.1519,-101.85503 0,-33.3007 -15.5802,-62.89506 -39.6611,-81.4841 l 7.4367,-10.18546 c -18.6504,-14.40476 -41.8147,-22.91738 -66.9275,-22.91738 -16.4722,0 -32.0907,3.67189 -46.1679,10.26519 l -22.6188,-35.72896 30.5974,0 4.1058,-50.92749 -65.0684,0 0,-31.8297 -96.7507,-24.82717 -74.2867,-93.97721 z m 36.9496,109.33512 24.6332,24.50877 109.4546,24.03145 -83.8146,0 -34.3158,26.49818 -34.0836,-12.0156 18.1262,-63.0228 z m -188.156198,156.2043 c 21.8369,0 41.5202,9.68942 55.0759,25.14532 l -47.0197,0 c -2.6154,-0.43272 -5.3223,-0.6366 -8.0562,-0.6366 -27.712,0 -50.1955,23.09626 -50.1955,51.56414 0,28.46783 22.4835,51.56409 50.1955,51.56409 2.7339,0 5.4408,-0.20388 8.0562,-0.63659 l 47.0197,0 c -13.5557,15.45594 -33.239,25.14556 -55.0759,25.14556 -40.8833,0 -74.0539,-34.07493 -74.0539,-76.07306 0,-41.99812 33.1706,-76.07311 74.0539,-76.07286 z m 421.395898,0 c 40.8833,0 74.0539,34.07474 74.0539,76.07286 0,41.99813 -33.1706,76.07306 -74.0539,76.07306 -40.8839,0 -74.0539,-34.07493 -74.0539,-76.07306 0,-23.80818 10.662,-45.09247 27.3441,-59.04414 l 15.0274,19.01838 c -11.3015,9.45665 -18.5136,23.89254 -18.5136,40.02576 0,28.46783 22.4835,51.56409 50.196,51.56409 27.712,0 50.1955,-23.09626 50.1955,-51.56409 0,-28.46788 -22.4835,-51.56414 -50.1955,-51.56414 -4.0787,0 -8.0547,0.48809 -11.8522,1.43232 l -13.5556,-21.32582 c 7.9195,-2.97111 16.4901,-4.61522 25.4078,-4.61522 z m -173.5161,25.14532 24.7882,0 -24.7882,38.19563 0,-38.19563 z"
+         id="motocyklista"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+    </g>
+  </g>
+</svg>

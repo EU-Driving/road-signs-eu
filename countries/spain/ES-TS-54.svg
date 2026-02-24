@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg5885"
+   version="1.1"
+   inkscape:version="1.0beta1 (76ce730, 2019-10-19)"
+   width="568.61749"
+   height="844.90912"
+   sodipodi:docname="Señal TS-54.svg">
+  <metadata
+     id="metadata5891">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs5889" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="755"
+     id="namedview5887"
+     showgrid="false"
+     inkscape:zoom="0.35"
+     inkscape:cx="400"
+     inkscape:cy="560"
+     inkscape:window-x="0"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg5885"
+     inkscape:document-rotation="0"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="BASE"
+     transform="translate(601.66996,-554.43472)">
+    <g
+       transform="translate(2.109375e-6)"
+       id="g65"
+       style="fill:#ffca20;fill-opacity:1">
+      <rect
+         style="fill:#ffca20;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:10.6667;stroke-linecap:round;stop-color:#000000"
+         id="rect78"
+         width="557.95081"
+         height="834.24243"
+         x="-596.33661"
+         y="559.76807"
+         ry="62.629459"
+         rx="62.629459" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="FLECHAS"
+     transform="translate(601.66996,-554.43472)">
+    <g
+       id="g93-9"
+       transform="translate(93.877472,-2.3597125)">
+      <rect
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:12.5295;stroke-linecap:round;stop-color:#000000"
+         id="rect87-4"
+         width="32.857143"
+         height="674.28571"
+         x="-488.65808"
+         y="658.57147"
+         ry="0"
+         rx="0" />
+      <path
+         style="fill:#000000;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m -519.72348,697.51033 47.98224,-78.7919 50.00255,80.81221 -51.0127,-22.22336 z"
+         id="path89-1"
+         inkscape:connector-curvature="0" />
+    </g>
+    <path
+       style="fill:#000000;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -369.28572,954.28572 143.57143,136.42858 -2.85714,240.7143 h 32.85714 v -258.5714 l -180,-171.42863 z"
+       id="path116"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

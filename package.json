@@ -1,0 +1,13 @@
+{
+  "name": "road-signs-eu",
+  "version": "1.0.0",
+  "description": "Vienna Convention road signs – web app and API",
+  "private": true,
+  "scripts": {
+    "start": "node api/main.js",
+    "dev": "cd api && npm run dev"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

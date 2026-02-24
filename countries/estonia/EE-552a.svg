@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="67.73333mm"
+   height="67.73333mm"
+   viewBox="0 0 67.73333 67.733329"
+   version="1.1"
+   id="svg32457"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="Estonia_road_sign_556(90).svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs32451">
+    <pattern
+       y="0"
+       x="0"
+       height="6"
+       width="6"
+       patternUnits="userSpaceOnUse"
+       id="EMFhbasepattern" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.3015632"
+     inkscape:cx="104.27695"
+     inkscape:cy="99.714837"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <metadata
+     id="metadata32454">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(25.405816,-24.219742)">
+    <g
+       transform="matrix(-1,0,0,1,16.921699,0)"
+       id="g1921">
+      <path
+         id="rect18002"
+         style="opacity:1;fill:#00a7d1;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+         d="M -25.273524,24.352034 H 42.195223 V 91.820778 H -25.273524 Z" />
+      <path
+         id="rect18004"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:0.877591"
+         d="m -20.629251,24.796409 c -2.326404,0 -4.199894,1.873501 -4.199894,4.199894 v 58.18019 c 0,2.32642 1.87349,4.19991 4.199894,4.19991 h 58.180199 c 2.326394,0 4.199896,-1.87349 4.199896,-4.19991 v -58.18019 c 0,-2.326393 -1.873502,-4.199894 -4.199896,-4.199894 z m -0.151109,1.914102 h 58.482423 c 1.182423,0 2.134682,0.950528 2.134682,2.132951 v 58.484161 c 0,1.18243 -0.952259,2.13469 -2.134682,2.13469 H -20.78036 c -1.182427,0 -2.134697,-0.95226 -2.134697,-2.13469 V 28.843462 c 0,-1.182423 0.95227,-2.132951 2.134697,-2.132951 z" />
+    </g>
+    <path
+       id="rect27087"
+       style="opacity:1;fill:#ffffff;stroke:none;stroke-width:0.970406;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       d="m -4.8265813,38.998687 v 13.413129 h 2.2726007 7.5236828 V 84.305483 H 11.971272 V 52.411816 H 21.74828 V 38.998687 Z m 4.5742071,4.564532 H 17.183617 v 4.274412 H -0.2523742 Z" />
+    <g
+       id="rect27089"
+       style="opacity:1;fill:#ef2b2f;fill-opacity:1"
+       transform="matrix(0,-18.713767,18.713767,0,2184.1021,-392.6998)">
+      <path
+         style="color:#000000;fill:#ef2b2f;fill-opacity:1;stroke-width:0.244;stroke-linecap:round;-inkscape-stroke:none;paint-order:stroke fill markers"
+         d="m -23.663286,-116.84682 h 0.473291 v 1.17679 h -0.473291 z"
+         id="path28024"
+         sodipodi:nodetypes="ccccc" />
+    </g>
+  </g>
+</svg>

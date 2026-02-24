@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="D-19" xmlns="http://www.w3.org/2000/svg" width="602" height="302" viewBox="0 0 602 302">
+  <rect x="1" y="1" width="600" height="300" rx="30" ry="30" fill="#fff"/>
+  <rect x=".5" y=".5" width="601" height="301" rx="30.5" ry="30.5" fill="none" stroke="#000"/>
+  <rect x="11" y="11" width="580" height="280" rx="20" ry="20" fill="#039"/>
+  <g id="TAXI">
+    <polygon points="165.38 46 165.38 81 112.88 81 112.88 256 77.88 256 77.88 81 25.38 81 25.38 46 165.38 46" fill="#fff"/>
+    <path d="M257.25,46h-35l-61.25,210h35l10.21-35h67.08l10.21,35h35l-61.25-210ZM216.42,186l23.33-80,23.33,80h-46.66Z" fill="#fff"/>
+    <polygon points="426 151 481 256 441 256 406 189.18 371 256 331 256 386 151 331 46 371 46 406 112.82 441 46 481 46 426 151" fill="#fff"/>
+    <rect x="519.75" y="46" width="35" height="210" fill="#fff"/>
+  </g>
+</svg>

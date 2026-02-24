@@ -1,0 +1,9 @@
+<?xml version="1.0" standalone="no"?>
+<svg id="Nederlands_verkeersbord_C2_mb" width="600" height="600"
+xmlns="http://www.w3.org/2000/svg" version="1.1">
+<circle id="rond_bord_rood" cx="300" cy="300" r="300" fill="#c1121c" />
+<circle id="bies_wit" cx="300" cy="300" r="285" style="fill:none;stroke-width:10;stroke:#f7fbf5" />
+<path id="balk_wit" style="fill:none;stroke:#f7fbf5;stroke-width:112"
+     d="M 40,300 560,300" />
+<circle id="bies_rood" cx="300" cy="300" r="268" style="fill:none;stroke-width:24;stroke:#c1121c" />
+</svg>

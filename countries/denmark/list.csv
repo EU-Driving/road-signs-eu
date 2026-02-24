@@ -1,0 +1,285 @@
+Référence,Description
+A11,Dangerous junction with a non-priority road
+A16,Roundabout
+A17,Pedestrian crossing
+A18,Two-way traffic
+A19,Traffic signals
+A20,Traffic queue
+A21,Cyclists
+A22,Children
+A23,Equestrians
+A26,Wild animals crossing
+A27,Domestic animals
+A31,Slippery road
+A33,Loose chippings
+A34,Rockfall
+A35,Dangerous shoulder
+A36,Speed bump
+A36.1,Experimental sign. An actibump is a method of traffic calming. It is being tested in two places in Denmark.
+A37,Uneven road
+A39,Roadworks
+A41.1,Curve to the right
+A41.2,Curve to the left
+A42.1,"Multiple curves, first to the right"
+A42.2,"Multiple curves, first to the left"
+A43.1,Road narrows
+A43.2,Road narrows to the left
+A43.3,Road narrows to the right
+A44,Tunnel (formerly used
+A46.2,Upward gradient
+A72,Level crossing without gates
+A73,Level crossing with gates
+A74.1,Single track level crossing
+A74.2,Multi track level crossing
+A75,Distance to level crossing
+A91,Opening bridge
+A92,Quayside
+A95,Side winds
+A96,Low airplanes
+A97,Low helicopters
+A99,Other danger (specified on subpanel
+B11,Yield
+B13,Stop
+B15,Lane merge
+B16,Main road
+B17,End of main road
+B18,Priority for oncoming vehicles
+B19,Priority over oncoming vehicles
+C11.1,No right turn
+C11.2,No left turn
+C12,No U-turns
+C19,No entry
+C21,Driving in both directions prohibited
+C22.1,No motor vehicles
+C22.2,No motorcycles or large mopeds
+C23.1,No heavy goods vehicles
+C23.2,No buses
+C23.3,No vehicles carrying dangerous goods
+C24.1,No tractors or motorized equipment
+C24.2,No horse-drawn vehicles or similar
+C25.1,No bicycles or small mopeds
+C25.2,No small mopeds
+C26.1,No riding or leading a horse
+C26.2,No pedestrians
+C31,Max weight
+C32,Max weight of roadtrain
+C35,Max axle load
+C36,Max bogie load
+C41,Max width of vehicle with load
+C42,Max height of vehicle with load
+C43,Max length of vehicle
+C51,No overtaking
+C52,No overtaking by heavy goods vehicle
+C53,End of no overtaking
+C54,End of no overtaking by heavy goods vehicle
+C55,Local speed limit
+C56,End of local speed limit
+C59,End of prohibition
+C61,No stopping
+C62,No parking
+C63,No parking for bicycles
+C92,Continuing without stop prohibited
+D11.1,Mandatory direction
+D11.2,Mandatory direction
+D11.3,Mandatory direction
+D11.4,Mandatory direction
+D11.5,Mandatory direction
+D11.6,Mandatory direction
+D11.7,Mandatory direction
+D11.8,Mandatory direction
+D12,Mandatory direction in the roundabout
+D15.2,Mandatory passage
+D15.3,Mandatory passage
+D16,Passage
+D21,Cycleway
+D22,Footway
+D23,Bridleway
+D26,Segregated path
+D26.1,Segregated path
+D26.2,Segregated path
+D26.3,Segregated path
+D26.4,Segregated path
+D26.5,Segregated path
+D27,Combined path
+D27.1,Combined path
+D55,Minimum speed
+D56,End of minimum speed
+E11.1,Continue straight
+E11.4,Turn left
+E11.5,Turn right
+E11.6,Continue straight or turn left
+E11.7,Continue straight or turn right
+E11.8,Turn left or right
+E11.9,"Continue straight, turn left or right"
+E15,Lanes at intersection
+E16.1,Reduction of number of lanes with lane-merge
+E16.2,Reduction of number of lanes with lane-change
+E17,Pedestrian crossing.
+E18,Dead end.
+E19,One way
+E21.1,Recommended route for cyclists
+E21.2,Recommended route for pedestrians
+E21.3,Recommended route for equestrians
+E21.4,Recommended route for mopeds
+E22.1,Recommended route for heavy goods vehicles
+E22.2,Recommended route for hazardous goods vehicles
+E22.3,Recommended route for tractors and motorized equipment
+E22.4,Recommended route for busses
+E23,Instructions for disabled
+E24,Instructions for visually impaired
+E26.1,Pedestrian overpass
+E26.2,Pedestrian underpass
+E30,Light rail stop
+E31,Taxi stand
+E33.1,Parking
+E33.2,Indoor parking
+E34,Breakdown bay (formerly used
+E35,Tunnel
+E37,Crawler lane begins
+E39,Advisory maxspeed
+E40,End of advisory maxspeed
+E41,Recommended max speed on slip road
+E42,Motorway
+E43,Expressway
+E44,End of Motorway
+E45,End of Expressway
+E47,Bicycle boulevard
+E48,End of Bicycle boulevard
+E49,Pedestrian zone
+E50,End of Pedestrian zone
+E51,Living street
+E52,End of living street
+E53,End of zone with traffic calming
+E55,Urban area
+E56,End of urban area
+E68,Zone with no parking
+E68.2,Zone with no stopping
+E68.3,Zone with parking
+E68.4,Zone with local speed limit
+E68.5,No heavy goods vehicles permitted zone
+E68.9,Low-emission zone
+E69,End of zone with no parking
+E69.3,End of zone with parking
+E69.4,End of zone with local speed limit
+E69.5,End of zone with no heavy goods vehicles
+E69.9,End of low-emission zone
+E90,Traffic enforcement camera
+E91,Speed feedback sign
+E92,Variable-message sign
+E93,Video surveillance
+F11,Flag-type direction sign
+F12,Flag-type direction sign
+F13,Flag-type direction sign
+F14,Temporary flag-type direction sign
+F16,Exit sign
+F18,Stack-type direction signs
+F21.1,Bicycle route
+F21.2,Flag-type direction sign
+F21.2.2,Flag-type direction sign
+F21.2.3,Flag-type direction sign
+F21.3,Stack-type direction sign
+F21.4,Map-type advance direction sign
+F33.1,Flag-type direction sign
+F33.2,Stack-type direction sign
+F34.1,Traffic diversion route
+F34.2,Flag-type traffic diversion sign
+F34.3,Map-type traffic diversion sign
+G11,Portal sign
+G14,Map-type advance direction sign
+G15,Lane diagram sign
+G18,Stack-type advance direction sign
+H41,Distance sign
+H42,Split distance sign
+H45,Locality
+H46,Regional border
+H47,Municipal border
+H49,National park
+H49.1,Nature park
+H50,Leaving national park
+H50.1,Leaving nature park
+H51,National Border
+I11,Exit from motorway
+I12,Exit from motorway in 500 m
+I13,Exit from motorway in 1500m ‒ the lower sign displays the following exit (with its number) and destination to be reached
+I16,Exit to another motorway
+I17,Exit to another motorway in 500m
+I18,Exit to another motorway in 1500m
+I20,Motorway junction (system interchange
+J11,Assigned lane(s
+J12,Lane diagram
+J13,Map-type advance direction sign
+K11,Route confirmation
+K12,Distance information
+K30,Tourist information
+L41,E-Road
+L42,Primary route
+L43,Secondary route
+L44,Ring road
+L45,National bicycle route
+L45.2,Regional or local bicycle route
+L46,Bicycle highway
+L47,EuroVelo
+L50,Marguerite route (tourist route
+M12,Airport
+M18,Hub (communal transport
+M24.1,Charging station for EV
+M53,Unesco world heritage site
+M117,Trail shelter
+U1.1,Distance (here in 500 meters
+U1.2,Distance (here in 500 meters
+U2.1,Distance interval (here from 200 to 800 meters
+U2.2,Distance interval (here from 200 to 800 meters
+U3.1,Length of time (here 1 hour
+U3.2,Day of week (here Wednesday
+U3.3,"Time of day on weekdays. If in parenthesis, Saturdays, if in red, Sundays or holidays."
+U3.4,: Length of time (here 1 hour
+U3.5,Day of week (here Wednesday
+U3.6,"Time of day on weekdays. If in parenthesis, Saturdays, if in red, Sundays or holidays."
+U4.1,Type(s) of vehicle (here heavy goods vehicle
+U4.2,Type(s) of vehicle (here heavy goods vehicle
+U5.1,Bicycles and small mopeds exempt
+U5.2,Bicycles and small mopeds exempt
+U6.3,"A sign combination this panel is a part of, takes effect after a right turn in the intersection ahead"
+U6.4,"A sign combination this panel is a part of, takes effect after a right turn in the intersection ahead"
+U7,Bicycles and small mopeds may make right turn when traffic signal is red.
+UA41,Recommended speed in curves
+UA43,Width limit
+UA72,Watch out for trains
+UA73,Overhead electricity lines at level crossing
+UA99,Accident-prone intersection
+UC33,Limited parking
+UC56,Built up area subpanel
+UC57,End of local speed limit subpanel
+UC61,No stopping subpanel
+UC62,No parking subpanel
+UD1,Subpanel which points to lane or path
+UE34,Fire extinguisher and emergency phone
+US1,Car (not above 3.5 ton registered weight
+US10,Motorcycle or large moped
+US11,Tractor or motorized equipment
+US12,Disabled
+US13,Light rail
+US2,Heavy goods vehicle with or without a trailer
+US3,"Bus (above 3.5 ton registered weight, or is allowed to carry more than 8 passengers"
+US4,Heavy goods vehicle with trailer
+US5,Trailer
+US6,Caravan
+US7,Motorhome
+US8,Bicycle or small moped
+US9,Small moped
+UA43.1,Narrow road
+UB11.1,Stop ahead
+UC60.1,Restriction applies before and after sign
+UD21.1,Two-way cycle traffic
+UE33.1,Before and after sign
+UB11.2,Two-way cycle track or lane crossing
+UC60.2,Restriction begins at sign
+UD21.2,End of Two-way cycle traffic
+UE33.2,After sign
+UB11.3,Light rail crossing
+UC60.3,Restriction ends at sign
+UE33.3,Before sign
+UC60.5,No stopping on shoulder
+UC60.6,No parking on shoulder
+UC60.7,Parking on shoulder allowed
+UC60.8,Parking partly on sidewalk allowed

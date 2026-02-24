@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="B-41" xmlns="http://www.w3.org/2000/svg" width="800" height="800" viewBox="0 0 800 800">
+  <circle cx="400" cy="400" r="400" fill="#d40000"/>
+  <circle cx="400" cy="400" r="320" fill="#fff"/>
+  <g>
+    <circle cx="400" cy="190" r="30"/>
+    <polyline points="321.95 432.2 346.52 434.65 350.8 340 356.8 640 394.44 640 400 440 405.56 640 443.2 640 449.2 340 453.48 434.65 478.05 432.2 472 246.11 416 226.67 384 226.67 328 246.11 321.95 432.2" fill-rule="evenodd"/>
+  </g>
+</svg>

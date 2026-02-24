@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="320"
+   height="240"
+   id="svg3336"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="viatoll.svg">
+  <metadata
+     id="metadata3375">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1440"
+     inkscape:window-height="838"
+     id="namedview3373"
+     showgrid="false"
+     inkscape:zoom="1.2144108"
+     inkscape:cx="175.3087"
+     inkscape:cy="152.67122"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g3355" />
+  <desc
+     id="desc3338">C:\Users\Wojtek\Documents\viatoll.dxf - scale = 1.000000, origin = (0.000000, 0.000000), auto = False</desc>
+  <defs
+     id="defs3340">
+    <marker
+       refY="0"
+       refX="0"
+       style="overflow:visible"
+       id="DistanceX"
+       orient="auto">
+      <path
+         style="stroke:#000000;stroke-width:0.5"
+         d="M 3,-3 -3,3 M 0,-5 0,5"
+         id="path3343"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <pattern
+       height="8"
+       width="8"
+       patternUnits="userSpaceOnUse"
+       y="0"
+       x="0"
+       id="Hatch">
+      <path
+         linecap="square"
+         stroke="#000000"
+         stroke-width="0.25"
+         d="M8 4 l-4,4"
+         id="path3346" />
+      <path
+         linecap="square"
+         stroke="#000000"
+         stroke-width="0.25"
+         d="M6 2 l-4,4"
+         id="path3348" />
+      <path
+         linecap="square"
+         stroke="#000000"
+         stroke-width="0.25"
+         d="M4 0 l-4,4"
+         id="path3350" />
+    </pattern>
+    <symbol
+       id="*Model_Space" />
+    <symbol
+       id="*Paper_Space" />
+    <symbol
+       id="*Paper_Space0" />
+  </defs>
+  <g
+     inkscape:label="0"
+     inkscape:groupmode="layer"
+     id="g3355"
+     transform="translate(0,-812.36218)">
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       d="m 30,1052.3622 260,0 a 30,30 0 0 0 30,-30 l 0,-180.00003 a 30,30 0 0 0 -30,-30.00001 l -260,0 A 30,30 0 0 0 0,842.36217 l 0,180.00003 a 30,30 0 0 0 30,30 z"
+       id="path3357"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#ff6600;fill-opacity:1;stroke:none"
+       d="m 30,1043.3622 260,0 a 21,21 0 0 0 21,-21 l 0,-180.00003 a 21,21 0 0 0 -21,-21 l -260,0 a 21,21 0 0 0 -21,21 l 0,180.00003 a 21,21 0 0 0 21,21 z"
+       id="path3359"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       d="m 229.61365,908.29972 a 78.4,78.4 0 0 0 -35.60478,-34.57718 l -0.7714,6.77046 a 72,72 0 0 1 29.74264,28.97639 l 6.63354,-1.16967 z"
+       id="path3365"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       d="m 249.23952,904.83915 a 97.6,97.6 0 0 0 -52.95589,-51.08194 l -0.7532,6.61074 a 91.2,91.2 0 0 1 47.20253,45.61848 l 6.50656,-1.14728 z"
+       id="path3367"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       d="m 198.52351,834.09803 -0.74395,6.52955 a 110.4,110.4 0 0 1 64.39938,61.93 l 6.44134,-1.13578 a 116.8,116.8 0 0 0 -70.09677,-67.32377 z"
+       id="path3369"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       d="m 195.88378,919.6623 a 8.0000001,8.0000001 0 0 0 -9.63207,-5.93492 L 57.177369,944.38254 a 8.0000001,8.0000001 0 0 0 -5.934913,9.63207 l 15.547332,65.46249 a 8.0000001,8.0000001 0 0 0 9.632071,5.9349 L 205.4962,994.75682 a 8.0000001,8.0000001 0 0 0 5.93491,-9.63207 L 195.88378,919.6623 Z"
+       id="path3371"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

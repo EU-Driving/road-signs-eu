@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="504.47034" height="504.47034" version="1.0">
+  <path fill-rule="evenodd" d="M-2236.4798-3395.5065c-8.8351-8.8351-23.3666-8.8316-32.1982 0l-229.311 229.311c-8.8317 8.8317-8.8351 23.3633-.0001 32.1983l229.311 229.311c8.835 8.835 23.3667 8.8317 32.1984 0l229.311-229.311c8.8316-8.8316 8.835-23.3632-.0001-32.1983z" color="#000" font-family="Sans" font-weight="400" overflow="visible" style="text-indent:0;text-align:start;line-height:normal;text-transform:none;block-progression:tb;marker:none;-inkscape-font-specification:Sans" transform="translate(2504.8141 3402.3315)"/>
+  <path fill="#fff" fill-rule="evenodd" d="M491.9871 241.775c5.7559 5.7558 5.7588 15.1616 0 20.9204L262.6954 491.9871c-5.7588 5.7588-15.1646 5.7559-20.9204 0L12.4833 262.6954c-5.7559-5.7558-5.7588-15.1616 0-20.9204L241.775 12.4833c5.7588-5.7588 15.1646-5.7559 20.9204 0z"/>
+  <path d="m252.2352 95.0736 157.1615 157.1615-157.1616 157.1616L95.0736 252.2352z" opacity=".98999999"/>
+  <path fill="#ffeb00" d="m252.2352 102.4841 149.7511 149.7511-149.7511 149.7511-149.7511-149.7511z" opacity=".98999999"/>
+</svg>

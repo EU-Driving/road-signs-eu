@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="202.10001"
+   height="402.10001"
+   viewBox="0 0 202.1 402.10001"
+   version="1.1"
+   id="svg14144"
+   sodipodi:docname="BG_road_sign_Т3.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview14146"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     showguides="true"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="77.428193"
+     inkscape:cy="85.206367"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg14144" />
+  <defs
+     id="defs14120">
+    <style
+       id="style14118">.a { fill: rgb(255, 255, 255); }</style>
+  </defs>
+  <g
+     id="g7930"
+     transform="rotate(90,101.09998,101.04998)">
+    <g
+       id="g10556"
+       transform="matrix(3.0113262,0,0,3.0113262,238.30649,-1201.4192)">
+      <g
+         id="rect10372">
+        <path
+           style="color:#000000;fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:0.033208;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+           d="m -68.052734,399 c -6.113441,0 -11.050782,4.93734 -11.050782,11.05078 v 44.97852 c 0,6.11344 4.937342,11.05078 11.050782,11.05078 h 111.39639 c 6.11344,0 11.048828,-4.93734 11.048828,-11.05078 V 410.05078 C 54.392484,403.93734 49.457096,399 43.343656,399 Z m 0,0.93359 h 111.39639 c 5.612881,0 10.117187,4.50431 10.117187,10.11719 v 44.97852 c 0,5.61288 -4.504305,10.11718 -10.117187,10.11718 h -111.39639 c -5.612883,0 -10.117188,-4.5043 -10.117188,-10.11718 v -44.97852 c 0,-5.61288 4.504306,-10.11719 10.117188,-10.11719 z"
+           id="path10546"
+           sodipodi:nodetypes="ssssssssssssssssss" />
+        <path
+           style="color:#000000;fill:#ffffff;fill-rule:evenodd;stroke-width:0.932656;stroke-linecap:round;-inkscape-stroke:none;paint-order:stroke fill markers"
+           d="m -68.053393,399.46719 h 111.39638 c 5.863167,0 10.583333,4.72017 10.583333,10.58334 v 44.97919 c 0,5.86317 -4.720166,10.58333 -10.583333,10.58333 h -111.39638 c -5.863167,0 -10.583333,-4.72016 -10.583333,-10.58333 v -44.97919 c 0,-5.86317 4.720166,-10.58334 10.583333,-10.58334 z"
+           id="path10548"
+           sodipodi:nodetypes="sssssssss" />
+      </g>
+      <path
+         id="rect10426"
+         style="opacity:1;fill:#000000;fill-rule:evenodd;stroke-width:5.29167;stroke-linecap:round;paint-order:stroke fill markers"
+         d="m -68.053394,402.11302 c -4.39737,0 -7.937499,3.54013 -7.937499,7.9375 v 44.97916 c 0,4.39737 3.540129,7.9375 7.937499,7.9375 h 111.39638 c 4.397371,0 7.9375,-3.54013 7.9375,-7.9375 v -44.97916 c 0,-4.39737 -3.540129,-7.9375 -7.9375,-7.9375 z m 0,3.96875 h 111.39638 c 2.198686,0 3.96875,1.77006 3.96875,3.96875 v 44.97916 c 0,2.19869 -1.770064,3.96875 -3.96875,3.96875 h -111.39638 c -2.198684,0 -3.968749,-1.77006 -3.968749,-3.96875 v -44.97916 c 0,-2.19869 1.770065,-3.96875 3.968749,-3.96875 z"
+         sodipodi:nodetypes="ssssssssssssssssss" />
+    </g>
+  </g>
+  <path
+     id="path9446"
+     style="color:#000000;opacity:1;fill:#000000;fill-rule:evenodd;stroke-width:4.82905;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;paint-order:stroke fill markers"
+     d="M 101.2674,41.173809 59.441823,131.83719 c -0.803393,1.78928 0.217906,4.01137 1.843254,4.01262 l 26.583875,-3.37354 v 116.12134 h 0.0089 v 21.02801 L 61.28527,266.25208 c -1.618597,0.002 -2.638119,2.20653 -1.847617,3.99519 l 41.395197,90.68081 41.82126,-90.66779 c 0.80337,-1.78924 -0.21791,-4.00696 -1.84326,-4.00821 l -26.58388,3.37354 v -116.1257 h -0.002 v -21.02365 l 26.58824,3.37354 c 1.6186,-0.002 2.64246,-2.20658 1.85195,-3.99521 z" />
+</svg>

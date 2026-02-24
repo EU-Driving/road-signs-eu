@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.0"
+   width="505"
+   height="505"
+   id="svg2">
+  <defs
+     id="defs4">
+    <pattern
+       id="pattern5932"
+       patternTransform="translate(18.50938,18)"
+       height="476"
+       width="370"
+       patternUnits="userSpaceOnUse">
+      <rect
+         style="fill:#00e5ff;fill-opacity:1"
+         id="rect5934"
+         width="370"
+         height="476"
+         x="0"
+         y="0"
+         rx="20"
+         ry="20" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="370"
+       height="476"
+       patternTransform="translate(18.50938,18)"
+       id="pattern4002">
+      <rect
+         ry="20"
+         rx="20"
+         y="0"
+         x="0"
+         height="476"
+         width="370"
+         id="rect2240"
+         style="fill:#00e5ff;fill-opacity:1" />
+    </pattern>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       style="overflow:visible"
+       id="Arrow2Lstart">
+      <path
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.97309,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path5785" />
+    </marker>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       style="overflow:visible"
+       id="marker4288">
+      <path
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.97309,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path4290" />
+    </marker>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="370"
+       height="476"
+       patternTransform="translate(18.50938,18)"
+       id="pattern4292">
+      <rect
+         ry="20"
+         rx="20"
+         y="0"
+         x="0"
+         height="476"
+         width="370"
+         id="rect4294"
+         style="fill:#00e5ff;fill-opacity:1" />
+    </pattern>
+    <pattern
+       id="pattern4296"
+       patternTransform="translate(18.50938,18)"
+       height="476"
+       width="370"
+       patternUnits="userSpaceOnUse">
+      <rect
+         style="fill:#00e5ff;fill-opacity:1"
+         id="rect4298"
+         width="370"
+         height="476"
+         x="0"
+         y="0"
+         rx="20"
+         ry="20" />
+    </pattern>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       style="overflow:visible"
+       id="marker3928">
+      <path
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.97309,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path3930" />
+    </marker>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="370"
+       height="476"
+       patternTransform="translate(18.50938,18)"
+       id="pattern3932">
+      <rect
+         ry="20"
+         rx="20"
+         y="0"
+         x="0"
+         height="476"
+         width="370"
+         id="rect3934"
+         style="fill:#00e5ff;fill-opacity:1" />
+    </pattern>
+    <pattern
+       id="pattern3936"
+       patternTransform="translate(18.50938,18)"
+       height="476"
+       width="370"
+       patternUnits="userSpaceOnUse">
+      <rect
+         style="fill:#00e5ff;fill-opacity:1"
+         id="rect3938"
+         width="370"
+         height="476"
+         x="0"
+         y="0"
+         rx="20"
+         ry="20" />
+    </pattern>
+    <pattern
+       id="pattern2321"
+       patternTransform="translate(18.50938,18)"
+       height="476"
+       width="370"
+       patternUnits="userSpaceOnUse">
+      <rect
+         style="fill:#00e5ff;fill-opacity:1"
+         id="rect2323"
+         width="370"
+         height="476"
+         x="0"
+         y="0"
+         rx="20"
+         ry="20" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="370"
+       height="476"
+       patternTransform="translate(18.50938,18)"
+       id="pattern2317">
+      <rect
+         ry="20"
+         rx="20"
+         y="0"
+         x="0"
+         height="476"
+         width="370"
+         id="rect2319"
+         style="fill:#00e5ff;fill-opacity:1" />
+    </pattern>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       style="overflow:visible"
+       id="marker2313">
+      <path
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.97309,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path2315" />
+    </marker>
+    <pattern
+       id="pattern5613"
+       patternTransform="translate(18.50938,18)"
+       height="476"
+       width="370"
+       patternUnits="userSpaceOnUse">
+      <rect
+         style="fill:#00e5ff;fill-opacity:1"
+         id="rect5615"
+         width="370"
+         height="476"
+         x="0"
+         y="0"
+         rx="20"
+         ry="20" />
+    </pattern>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       style="overflow:visible"
+       id="marker2936">
+      <path
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.97309,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path2938" />
+    </marker>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="370"
+       height="476"
+       patternTransform="translate(18.50938,18)"
+       id="pattern2940">
+      <rect
+         ry="20"
+         rx="20"
+         y="0"
+         x="0"
+         height="476"
+         width="370"
+         id="rect2942"
+         style="fill:#00e5ff;fill-opacity:1" />
+    </pattern>
+    <pattern
+       id="pattern2944"
+       patternTransform="translate(18.50938,18)"
+       height="476"
+       width="370"
+       patternUnits="userSpaceOnUse">
+      <rect
+         style="fill:#00e5ff;fill-opacity:1"
+         id="rect2946"
+         width="370"
+         height="476"
+         x="0"
+         y="0"
+         rx="20"
+         ry="20" />
+    </pattern>
+    <pattern
+       id="pattern5729"
+       patternTransform="translate(18.50938,18)"
+       height="476"
+       width="370"
+       patternUnits="userSpaceOnUse">
+      <rect
+         style="fill:#00e5ff;fill-opacity:1"
+         id="rect5731"
+         width="370"
+         height="476"
+         x="0"
+         y="0"
+         rx="20"
+         ry="20" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="370"
+       height="476"
+       patternTransform="translate(18.50938,18)"
+       id="pattern5725">
+      <rect
+         ry="20"
+         rx="20"
+         y="0"
+         x="0"
+         height="476"
+         width="370"
+         id="rect5727"
+         style="fill:#00e5ff;fill-opacity:1" />
+    </pattern>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       style="overflow:visible"
+       id="marker5721">
+      <path
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.97309,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path5723" />
+    </marker>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       style="overflow:visible"
+       id="marker14646">
+      <path
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.97309,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path14648" />
+    </marker>
+    <pattern
+       id="pattern14642"
+       patternTransform="translate(18.50938,18)"
+       height="476"
+       width="370"
+       patternUnits="userSpaceOnUse">
+      <rect
+         style="fill:#00e5ff;fill-opacity:1"
+         id="rect14644"
+         width="370"
+         height="476"
+         x="0"
+         y="0"
+         rx="20"
+         ry="20" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="370"
+       height="476"
+       patternTransform="translate(18.50938,18)"
+       id="pattern14638">
+      <rect
+         ry="20"
+         rx="20"
+         y="0"
+         x="0"
+         height="476"
+         width="370"
+         id="rect14640"
+         style="fill:#00e5ff;fill-opacity:1" />
+    </pattern>
+  </defs>
+  <g
+     id="layer1">
+    <g
+       id="g1928">
+      <path
+         d="M 628.57143,549.50507 C 628.57143,689.87078 523.61142,803.79079 394.28571,803.79079 C 264.95999,803.79079 159.99998,689.87078 159.99998,549.50507 C 159.99998,409.13935 264.95999,295.21935 394.28571,295.21935 C 523.61142,295.21935 628.57143,409.13935 628.57143,549.50507 z "
+         transform="matrix(1.048707,0,0,0.966224,-160.9902,-278.445)"
+         style="fill:yellow;fill-opacity:1;stroke:black;stroke-width:9.18717194;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1"
+         id="path1307" />
+      <path
+         d="M 249.04386,5.80048 L 249.04386,496.10558"
+         style="fill:none;fill-rule:evenodd;stroke:black;stroke-width:13.04800034;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+         id="path8015" />
+      <g
+         style="fill:black"
+         id="g13717">
+        <path
+           d="M 189,217.59375 L 189,350.4375 L 171.96875,350.4375 L 197.625,438.3125 C 198.00024,438.3125 223.25,350.43749 223.25,350.4375 L 206.25,350.4375 L 206.25,217.59375 L 189,217.59375 z "
+           style="fill:black;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect11867" />
+        <path
+           d="M 111,438.3125 L 111,305.46875 L 93.96875,305.46875 L 119.625,217.59375 C 120.00024,217.59375 145.25,305.46876 145.25,305.46875 L 128.25,305.46875 L 128.25,438.3125 L 111,438.3125 z "
+           style="fill:black;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1"
+           id="path13722" />
+        <path
+           d="M 345,438.3125 L 345,305.46875 L 327.96875,305.46875 L 353.625,217.59375 C 354.00024,217.59375 379.25,305.46876 379.25,305.46875 L 362.25,305.46875 L 362.25,438.3125 L 345,438.3125 z "
+           style="fill:black;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1"
+           id="path13724" />
+      </g>
+      <g
+         transform="matrix(0.328762,0,0,0.328762,-38.87157,76.40373)"
+         style="fill:black"
+         id="g3648">
+        <path
+           d="M 668.71303,95.732856 C 691.68236,95.733096 709.6373,104.04387 722.57794,120.66523 C 737.99855,140.34884 745.70882,172.99057 745.70903,218.59041 C 745.70882,264.08108 737.94464,296.77747 722.41608,316.67953 C 709.58338,333.08245 691.68236,341.28386 668.71303,341.28386 C 645.63575,341.28386 627.03379,332.28965 612.90713,314.30115 C 598.78047,296.3127 591.71703,264.24509 591.71703,218.09827 C 591.71703,172.82656 599.48131,140.2395 615.00998,120.3372 C 627.84258,103.93454 645.7436,95.733096 668.71303,95.732856 L 668.71303,95.732856 z M 668.71303,133.95155 C 663.21326,133.95179 658.3067,135.7287 653.99326,139.28251 C 649.6796,142.83666 646.33671,149.20643 643.96436,158.39186 C 640.83704,170.31145 639.27326,190.37759 639.27337,218.59041 C 639.27326,246.80339 640.67528,266.18609 643.47909,276.73862 C 646.28279,287.29112 649.8145,294.31703 654.07414,297.81625 C 658.33355,301.31557 663.21326,303.06528 668.71303,303.06517 C 674.21269,303.06528 679.11925,301.28826 683.43291,297.73429 C 687.74624,294.1803 691.08925,287.81056 693.46181,278.62487 C 696.58891,266.81488 698.15257,246.80339 698.15269,218.59041 C 698.15257,190.37759 696.75067,170.99488 693.94697,160.4422 C 691.14317,149.88987 687.61156,142.83666 683.35203,139.28251 C 679.09229,135.7287 674.21269,133.95179 668.71303,133.95155 L 668.71303,133.95155 z "
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Arial"
+           id="text8164" />
+        <path
+           d="M 403.50639,267.96304 L 446.51014,267.96304 C 447.88069,279.33573 451.56946,288.02929 457.57737,294.04365 C 463.58547,300.05806 470.85772,303.06524 479.39541,303.06524 C 488.5652,303.06524 496.28601,299.45656 502.55794,292.23929 C 508.82911,285.02205 511.96491,275.28971 511.96491,263.04217 C 511.96491,251.45087 508.96097,242.26525 502.95298,235.4853 C 496.94497,228.70558 489.61918,225.31566 480.97626,225.3155 C 475.28486,225.31566 468.48682,222.33366 460.58131,224.62993 L 460.58131,187.06731 C 472.59639,187.39551 486.66858,188.81928 492.99224,183.07814 C 499.31675,177.33727 502.47863,169.70996 502.47863,160.19612 C 502.47863,152.1042 500.15941,145.65242 495.52186,140.84068 C 490.88432,136.0294 484.71859,133.62364 477.02443,133.6234 C 469.43551,133.62364 462.95329,136.35744 457.57737,141.82489 C 452.20164,147.29267 448.93455,155.27541 447.77528,165.77306 L 406.82684,165.77306 C 409.67225,151.22942 413.96732,132.39339 419.71218,123.69965 C 425.45623,115.00634 433.46696,108.17183 443.74336,103.19609 C 454.02055,98.220776 465.53534,95.732946 478.2888,95.732786 C 500.10687,95.732946 517.60376,102.95027 530.77891,117.38456 C 541.63484,129.19488 547.06329,142.53587 547.06329,157.40765 C 547.06329,178.51285 543.90539,195.35306 521.66575,207.92847 C 534.9461,210.88115 537.60372,217.49695 545.56169,227.77596 C 553.51899,238.05519 557.49749,250.46675 557.49839,265.01054 C 557.49749,286.1156 550.06739,304.10409 535.20597,318.97601 C 520.34388,333.84795 501.84645,341.28393 479.7119,341.28393 C 458.73652,341.28393 441.34571,335.02343 427.5384,322.50263 C 413.73016,309.98182 405.72032,288.1933 403.50639,267.96304 L 403.50639,267.96304 z "
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Arial"
+           id="text2087" />
+      </g>
+      <g
+         id="g1924">
+        <path
+           d="M 359.04175,107.87708 L 355.50721,148.32605 L 376.06905,148.24654 L 376.08034,148.42745 C 383.55935,148.40095 389.64808,154.44836 389.67493,161.92197 C 389.70181,169.39596 383.65017,175.47987 376.17087,175.50675 L 353.21875,172.05401 L 352.56159,185.48013 C 360.44603,186.49458 369.52013,188.55148 376.12574,188.60487 C 390.98414,188.60487 403.04305,176.5546 403.04305,161.70687 C 403.04305,146.85951 390.98414,134.80887 376.12574,134.80887 C 374.09869,134.80887 372.12266,135.02935 370.22324,135.45418 L 371.41283,121.37121 L 399.53111,121.37121 L 399.53111,107.87708 L 359.04175,107.87708 z "
+           style="fill:black;fill-opacity:1;stroke:none;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path2452" />
+        <path
+           d="M 319.41141,107.87694 L 285.66555,155.18087 L 285.66555,168.63167 L 319.59227,168.63167 L 319.59227,188.605 L 333.06798,188.605 L 333.06798,168.63167 L 340.39362,168.63167 L 342.97119,155.15856 L 333.06798,155.15856 L 333.06798,108.3064 L 332.58191,108.3064 L 332.88715,107.87694 L 319.41141,107.87694 z M 319.59227,126.50449 L 319.59227,155.15856 L 299.15251,155.15856 L 319.59227,126.50449 z "
+           style="fill:black;fill-opacity:1;stroke:none;stroke-width:7;stroke-miterlimit:4;stroke-opacity:1"
+           id="path2614" />
+      </g>
+    </g>
+  </g>
+</svg>

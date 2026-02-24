@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="602" height="602" fill-rule="evenodd">
+<circle cx="301" cy="301" r="300" fill="#e42b38" stroke="none"/>
+<circle cx="301" cy="301" r="230" fill="#fed300" stroke="none"/>
+<path d="M181,158 181,351.5 116,351.5 208.5,444 301,351.5 236,351.5 236,158" fill="#000" stroke="none"/>
+<path d="M366,444 366,250.5 301,250.5 393.5,158 486,250.5 421,250.5 421,444" fill="#e42b38" stroke="none"/>
+</svg>

@@ -1,0 +1,704 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1249.75"
+   height="1303.2188"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.48.2 r9819"
+   version="1.0"
+   sodipodi:docname="AJAX.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective2532" />
+    <inkscape:perspective
+       id="perspective2392"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <marker
+       id="marker3281"
+       style="overflow:visible"
+       orient="auto"
+       refY="0"
+       refX="0">
+      <path
+         id="path3283"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="370"
+       height="476"
+       patternTransform="translate(18.50938,18)"
+       id="pattern3285">
+      <rect
+         ry="20"
+         rx="20"
+         y="0"
+         x="0"
+         height="476"
+         width="370"
+         id="rect3287"
+         style="fill:#00e5ff;fill-opacity:1" />
+    </pattern>
+    <pattern
+       id="pattern3289"
+       patternTransform="translate(18.50938,18)"
+       height="476"
+       width="370"
+       patternUnits="userSpaceOnUse">
+      <rect
+         style="fill:#00e5ff;fill-opacity:1"
+         id="rect3291"
+         width="370"
+         height="476"
+         x="0"
+         y="0"
+         rx="20"
+         ry="20" />
+    </pattern>
+    <marker
+       id="marker3293"
+       style="overflow:visible"
+       orient="auto"
+       refY="0"
+       refX="0">
+      <path
+         id="path3295"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="370"
+       height="476"
+       patternTransform="translate(18.50938,18)"
+       id="pattern3297">
+      <rect
+         ry="20"
+         rx="20"
+         y="0"
+         x="0"
+         height="476"
+         width="370"
+         id="rect3299"
+         style="fill:#00e5ff;fill-opacity:1" />
+    </pattern>
+    <pattern
+       id="pattern3301"
+       patternTransform="translate(18.50938,18)"
+       height="476"
+       width="370"
+       patternUnits="userSpaceOnUse">
+      <rect
+         style="fill:#00e5ff;fill-opacity:1"
+         id="rect3303"
+         width="370"
+         height="476"
+         x="0"
+         y="0"
+         rx="20"
+         ry="20" />
+    </pattern>
+    <pattern
+       id="pattern3305"
+       patternTransform="translate(18.50938,18)"
+       height="476"
+       width="370"
+       patternUnits="userSpaceOnUse">
+      <rect
+         style="fill:#00e5ff;fill-opacity:1"
+         id="rect3307"
+         width="370"
+         height="476"
+         x="0"
+         y="0"
+         rx="20"
+         ry="20" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="370"
+       height="476"
+       patternTransform="translate(18.50938,18)"
+       id="pattern3309">
+      <rect
+         ry="20"
+         rx="20"
+         y="0"
+         x="0"
+         height="476"
+         width="370"
+         id="rect3311"
+         style="fill:#00e5ff;fill-opacity:1" />
+    </pattern>
+    <marker
+       id="marker3313"
+       style="overflow:visible"
+       orient="auto"
+       refY="0"
+       refX="0">
+      <path
+         id="path3315"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <pattern
+       id="pattern3317"
+       patternTransform="translate(18.50938,18)"
+       height="476"
+       width="370"
+       patternUnits="userSpaceOnUse">
+      <rect
+         style="fill:#00e5ff;fill-opacity:1"
+         id="rect3319"
+         width="370"
+         height="476"
+         x="0"
+         y="0"
+         rx="20"
+         ry="20" />
+    </pattern>
+    <marker
+       id="marker3321"
+       style="overflow:visible"
+       orient="auto"
+       refY="0"
+       refX="0">
+      <path
+         id="path3323"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="370"
+       height="476"
+       patternTransform="translate(18.50938,18)"
+       id="pattern3325">
+      <rect
+         ry="20"
+         rx="20"
+         y="0"
+         x="0"
+         height="476"
+         width="370"
+         id="rect3327"
+         style="fill:#00e5ff;fill-opacity:1" />
+    </pattern>
+    <pattern
+       id="pattern3329"
+       patternTransform="translate(18.50938,18)"
+       height="476"
+       width="370"
+       patternUnits="userSpaceOnUse">
+      <rect
+         style="fill:#00e5ff;fill-opacity:1"
+         id="rect3331"
+         width="370"
+         height="476"
+         x="0"
+         y="0"
+         rx="20"
+         ry="20" />
+    </pattern>
+    <pattern
+       id="pattern3333"
+       patternTransform="translate(18.50938,18)"
+       height="476"
+       width="370"
+       patternUnits="userSpaceOnUse">
+      <rect
+         style="fill:#00e5ff;fill-opacity:1"
+         id="rect3335"
+         width="370"
+         height="476"
+         x="0"
+         y="0"
+         rx="20"
+         ry="20" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="370"
+       height="476"
+       patternTransform="translate(18.50938,18)"
+       id="pattern3337">
+      <rect
+         ry="20"
+         rx="20"
+         y="0"
+         x="0"
+         height="476"
+         width="370"
+         id="rect3339"
+         style="fill:#00e5ff;fill-opacity:1" />
+    </pattern>
+    <marker
+       id="marker3341"
+       style="overflow:visible"
+       orient="auto"
+       refY="0"
+       refX="0">
+      <path
+         id="path3343"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <inkscape:perspective
+       id="perspective3345"
+       inkscape:persp3d-origin="648 : 451.66659 : 1"
+       inkscape:vp_z="1296 : 677.49988 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 677.49988 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <marker
+       id="marker4288"
+       style="overflow:visible"
+       orient="auto"
+       refY="0"
+       refX="0">
+      <path
+         id="path4290"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="370"
+       height="476"
+       patternTransform="translate(18.50938,18)"
+       id="pattern4292">
+      <rect
+         ry="20"
+         rx="20"
+         y="0"
+         x="0"
+         height="476"
+         width="370"
+         id="rect4294"
+         style="fill:#00e5ff;fill-opacity:1" />
+    </pattern>
+    <pattern
+       id="pattern4296"
+       patternTransform="translate(18.50938,18)"
+       height="476"
+       width="370"
+       patternUnits="userSpaceOnUse">
+      <rect
+         style="fill:#00e5ff;fill-opacity:1"
+         id="rect4298"
+         width="370"
+         height="476"
+         x="0"
+         y="0"
+         rx="20"
+         ry="20" />
+    </pattern>
+    <marker
+       id="marker3928"
+       style="overflow:visible"
+       orient="auto"
+       refY="0"
+       refX="0">
+      <path
+         id="path3930"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="370"
+       height="476"
+       patternTransform="translate(18.50938,18)"
+       id="pattern3932">
+      <rect
+         ry="20"
+         rx="20"
+         y="0"
+         x="0"
+         height="476"
+         width="370"
+         id="rect3934"
+         style="fill:#00e5ff;fill-opacity:1" />
+    </pattern>
+    <pattern
+       id="pattern3936"
+       patternTransform="translate(18.50938,18)"
+       height="476"
+       width="370"
+       patternUnits="userSpaceOnUse">
+      <rect
+         style="fill:#00e5ff;fill-opacity:1"
+         id="rect3938"
+         width="370"
+         height="476"
+         x="0"
+         y="0"
+         rx="20"
+         ry="20" />
+    </pattern>
+    <pattern
+       id="pattern2321"
+       patternTransform="translate(18.50938,18)"
+       height="476"
+       width="370"
+       patternUnits="userSpaceOnUse">
+      <rect
+         style="fill:#00e5ff;fill-opacity:1"
+         id="rect2323"
+         width="370"
+         height="476"
+         x="0"
+         y="0"
+         rx="20"
+         ry="20" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="370"
+       height="476"
+       patternTransform="translate(18.50938,18)"
+       id="pattern2317">
+      <rect
+         ry="20"
+         rx="20"
+         y="0"
+         x="0"
+         height="476"
+         width="370"
+         id="rect2319"
+         style="fill:#00e5ff;fill-opacity:1" />
+    </pattern>
+    <marker
+       id="marker2313"
+       style="overflow:visible"
+       orient="auto"
+       refY="0"
+       refX="0">
+      <path
+         id="path2315"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <pattern
+       id="pattern5613"
+       patternTransform="translate(18.50938,18)"
+       height="476"
+       width="370"
+       patternUnits="userSpaceOnUse">
+      <rect
+         style="fill:#00e5ff;fill-opacity:1"
+         id="rect5615"
+         width="370"
+         height="476"
+         x="0"
+         y="0"
+         rx="20"
+         ry="20" />
+    </pattern>
+    <marker
+       id="marker2936"
+       style="overflow:visible"
+       orient="auto"
+       refY="0"
+       refX="0">
+      <path
+         id="path2938"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="370"
+       height="476"
+       patternTransform="translate(18.50938,18)"
+       id="pattern2940">
+      <rect
+         ry="20"
+         rx="20"
+         y="0"
+         x="0"
+         height="476"
+         width="370"
+         id="rect2942"
+         style="fill:#00e5ff;fill-opacity:1" />
+    </pattern>
+    <pattern
+       id="pattern2944"
+       patternTransform="translate(18.50938,18)"
+       height="476"
+       width="370"
+       patternUnits="userSpaceOnUse">
+      <rect
+         style="fill:#00e5ff;fill-opacity:1"
+         id="rect2946"
+         width="370"
+         height="476"
+         x="0"
+         y="0"
+         rx="20"
+         ry="20" />
+    </pattern>
+    <pattern
+       id="pattern5932"
+       patternTransform="translate(18.50938,18)"
+       height="476"
+       width="370"
+       patternUnits="userSpaceOnUse">
+      <rect
+         style="fill:#00e5ff;fill-opacity:1"
+         id="rect5934"
+         width="370"
+         height="476"
+         x="0"
+         y="0"
+         rx="20"
+         ry="20" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="370"
+       height="476"
+       patternTransform="translate(18.50938,18)"
+       id="pattern4002">
+      <rect
+         ry="20"
+         rx="20"
+         y="0"
+         x="0"
+         height="476"
+         width="370"
+         id="rect2240"
+         style="fill:#00e5ff;fill-opacity:1" />
+    </pattern>
+    <marker
+       id="Arrow2Lstart"
+       style="overflow:visible"
+       orient="auto"
+       refY="0"
+       refX="0">
+      <path
+         id="path5785"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <inkscape:perspective
+       id="perspective49"
+       inkscape:persp3d-origin="648 : 451.66659 : 1"
+       inkscape:vp_z="1296 : 677.49988 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 677.49988 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2552"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2569"
+       inkscape:persp3d-origin="250.00015 : 166.66665 : 1"
+       inkscape:vp_z="500.00031 : 249.99997 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 249.99997 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective86"
+       inkscape:persp3d-origin="500 : 400 : 1"
+       inkscape:vp_z="1000 : 600 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 600 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="683.09007"
+     inkscape:cy="486.25988"
+     inkscape:document-units="px"
+     inkscape:current-layer="g3817"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="1004"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(293.3661,123.43304)">
+    <g
+       inkscape:label="Layer 1"
+       id="g2361"
+       transform="matrix(1.1737461,0,0,1.1737461,1534.3354,555.43345)" />
+    <g
+       id="g3798"
+       transform="translate(-1051.4286,194.28571)">
+      <g
+         transform="translate(-2767.4506,361.88556)"
+         id="g3784">
+        <g
+           id="g3817">
+          <rect
+             id="rect3222"
+             style="fill:#ffffff;fill-opacity:1;stroke:#003399;stroke-width:4;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+             transform="matrix(-1,0,0,1,2767.4506,-361.88556)"
+             y="-315.71454"
+             x="-2005.8169"
+             ry="29.950226"
+             rx="27.057478"
+             height="1299.2017"
+             width="1245.7682" />
+          <rect
+             id="rect3015"
+             style="fill:#003399;fill-opacity:1;stroke:none"
+             transform="matrix(-1,0,0,1,2767.4506,-361.88556)"
+             y="-294.32721"
+             x="-1985.3092"
+             ry="14.005419"
+             rx="12.199387"
+             height="1256.427"
+             width="1204.7528" />
+          <path
+             id="path2904"
+             style="fill:#ffffff;fill-opacity:1;stroke:none"
+             d="m 4643.8512,448.42884 c -11.9352,0.11624 -19.982,7.82077 -19.982,7.82077 0,0 -9.3127,-7.82077 -19.3623,-7.82077 -10.6721,0 -18.462,5.82881 -20.3672,7.40299 l 0,-7.40299 -19.9652,0 0,80.28018 19.9652,0 0,-50.76839 c 0.7257,-2.17329 3.7552,-9.39161 12.1266,-9.39161 10.9205,0 12.5955,10.02667 12.5955,10.02667 l 0.3349,50.13333 19.9653,0 0.067,-50.13333 c 0,0 2.2106,-10.12694 12.9302,-10.12694 8.7034,0 12.2676,9.07335 12.5955,9.95984 l 0,50.30043 19.9655,0 0.067,-50.13333 c -0.7139,-16.75227 -14.4799,-29.86449 -30.9361,-30.14685 z"
+             inkscape:connector-curvature="0" />
+          <path
+             id="path2906"
+             style="fill:#ffffff;fill-opacity:1;stroke:none"
+             d="m 4075.6358,341.61867 0,31.19917 74.1707,0 -58.9273,155.89118 31.6677,0 63.2825,-165.02578 0,-22.06457 -110.1936,0 z"
+             inkscape:connector-curvature="0" />
+          <path
+             id="path2908"
+             style="fill:#ffffff;fill-opacity:1;stroke:none"
+             d="m 4282.3106,341.62595 c -33.3482,1.02951 -59.9235,34.32043 -59.9235,75.48736 l 0,36.10831 c 0,41.82037 27.4322,75.4874 61.5226,75.4874 34.0901,0 61.5223,-33.66703 61.5223,-75.4874 l 0,-36.10831 c 0,-41.82037 -27.4322,-75.48736 -61.5223,-75.48736 -0.5326,0 -1.0698,-0.0164 -1.5991,0 z m 1.5991,31.05833 c 16.9002,0 30.512,22.49654 30.512,50.42089 l 0,24.09835 c 0,27.92439 -13.6118,50.42087 -30.512,50.42087 -16.9005,0 -30.5125,-22.49648 -30.5125,-50.42087 l 0,-24.09835 c 0,-27.92435 13.612,-50.42089 30.5125,-50.42089 z"
+             inkscape:connector-curvature="0" />
+          <path
+             id="path2910"
+             style="fill:#ffffff;fill-opacity:1;stroke:none"
+             d="m 4447.6748,341.62595 c -33.3481,1.02951 -59.9234,34.32043 -59.9234,75.48736 l 0,36.10831 c 0,41.82037 27.4322,75.4874 61.5226,75.4874 34.0901,0 61.5223,-33.66703 61.5223,-75.4874 l 0,-36.10831 c 0,-41.82037 -27.4322,-75.48736 -61.5223,-75.48736 -0.5327,0 -1.0699,-0.0164 -1.5992,0 z m 1.5992,31.05833 c 16.9002,0 30.512,22.49654 30.512,50.42089 l 0,24.09835 c 0,27.92439 -13.6118,50.42087 -30.512,50.42087 -16.9005,0 -30.5126,-22.49648 -30.5126,-50.42087 l 0,-24.09835 c 0,-27.92435 13.6121,-50.42089 30.5126,-50.42089 z"
+             inkscape:connector-curvature="0" />
+          <g
+             transform="translate(-2.5525209,-4.1302583)"
+             id="g3775">
+            <path
+               style="fill:#ffffff;fill-opacity:1;stroke:none"
+               d="m 3853.6922,-483.41196 73.3488,-120.71429 73.3489,120.71429 2e-4,1039.80018 -146.6979,0 0,-1039.80018 z"
+               id="rect3764"
+               sodipodi:nodetypes="cccccc"
+               inkscape:connector-curvature="0" />
+            <g
+               transform="matrix(1.1879591,0,0,1.1879591,4159.8303,-367.82282)"
+               id="g3757">
+              <path
+                 transform="matrix(1.77669,0,0,2.03459,-638.34141,-167.57872)"
+                 d="m 390.42439,244.34138 a 140.71133,122.87468 0 1 1 -281.42267,0 140.71133,122.87468 0 1 1 281.42267,0 z"
+                 sodipodi:ry="122.87468"
+                 sodipodi:rx="140.71133"
+                 sodipodi:cy="244.34138"
+                 sodipodi:cx="249.71306"
+                 id="path8679"
+                 style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 sodipodi:type="arc" />
+              <path
+                 transform="translate(94.307875,89.466998)"
+                 id="path3063"
+                 d="m -290.39431,-7.1291072 c -137.22627,0 -248.59375,111.3950572 -248.59375,248.6250172 0,137.22993 111.36749,248.59376 248.59375,248.59375 137.22627,0 248.593735,-111.36382 248.593745,-248.59375 0,-137.22995 -111.367475,-248.6250172 -248.593745,-248.6250172 z m 0,48.6250002 c 110.40002,10e-7 199.999995,89.599997 199.999995,200.000017 -10e-6,110.40003 -89.599965,200 -199.999995,200 -110.40004,-10e-6 -200,-89.59998 -200,-200 0,-110.40002 89.59997,-200.000017 200,-200.000017 z"
+                 style="fill:#d40000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:5.11183786;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+                 inkscape:connector-curvature="0" />
+              <g
+                 id="g2381"
+                 transform="translate(-1276.1083,-42.80543)">
+                <path
+                   sodipodi:nodetypes="cccccccc"
+                   id="text2270"
+                   d="m 983.27718,308.29436 0,-36.19421 122.16402,0 0,28.28974 c -26.2106,67.07005 -39.3294,103.39801 -62.671,172.23437 l -34.45,0 c 21.6087,-63.67734 34.1179,-101.93057 56.1878,-164.3299 l -81.23082,0 z"
+                   style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"
+                   inkscape:connector-curvature="0" />
+                <path
+                   sodipodi:nodetypes="ccccsssccssscccccccccc"
+                   id="text2275"
+                   d="m 1178.2493,403.18307 0,16.85484 -12.2498,0 0,22.61786 c -10e-5,5.98453 0.1037,9.47162 0.3112,10.46136 0.2074,0.98975 0.6788,1.80686 1.4143,2.45134 0.7355,0.64448 1.6313,0.96673 2.6874,0.9667 1.4709,3e-5 6.3765,-0.62143 9.1675,-1.86439 l 0,15.05327 c -3.6963,1.93347 -9.2995,2.90017 -13.9764,2.90021 -2.8665,-4e-5 -5.4502,-0.58696 -7.7509,-1.76084 -2.3008,-1.17387 -5.3759,-2.69302 -6.4508,-4.5574 -1.075,-1.86442 -1.8199,-4.38481 -2.2347,-7.56119 -0.3395,-2.25565 -0.5092,-6.81306 -0.5092,-13.67222 l 0,-25.0347 -14.2345,0 0,-16.85484 14.2345,0 0,-20.11894 17.3416,-11.32447 0,31.44341 12.2498,0 z"
+                   style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"
+                   inkscape:connector-curvature="0" />
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="169.33333mm"
+   height="84.666664mm"
+   viewBox="0 0 599.99998 299.99998"
+   id="svg2"
+   version="1.1">
+  <defs
+     id="defs4">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath13619">
+      <path
+         d="m 60.025,220.275 105.35,0 0,-129.6 -105.35,0 0,129.6 z"
+         id="path13621" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath13627">
+      <path
+         d="m 60.025,90.675 105.35,0 0,129.6 -105.35,0 0,-129.6 z"
+         id="path13629" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath13635">
+      <path
+         d="m 60.025,220.275 105.35,0 0,-129.6 -105.35,0 0,129.6 z"
+         id="path13637" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath13645">
+      <path
+         d="m -0.569,-0.7 5.381,0 0,6.34301 -5.381,0 0,-6.34301 z"
+         id="path13647" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath13653">
+      <path
+         d="M 0,1 1,1 1,0 0,0 0,1 Z"
+         id="path13655" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4564">
+      <path
+         d="m 258.6 128 l 69.7 0 l 0 62.2 l -69.7 0 l 0 -62.2 Z"
+         style="clip-rule: evenodd;"
+         id="path4566" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4348">
+      <path
+         d="m 256.6 638 l 73.4 0 l 0 64.4 l -73.4 0 l 0 -64.4 Z"
+         style="clip-rule: evenodd;"
+         id="path4350" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5530">
+      <path
+         d="m 256.3 512.4 l 74.1 0 l 0 66 l -74.1 0 l 0 -66 Z"
+         style="clip-rule: evenodd;"
+         id="path5532" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4564-0">
+      <path
+         d="m 258.6 128 l 69.7 0 l 0 62.2 l -69.7 0 l 0 -62.2 Z"
+         style="clip-rule: evenodd;"
+         id="path4566-4" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4348-3">
+      <path
+         d="m 256.6 638 l 73.4 0 l 0 64.4 l -73.4 0 l 0 -64.4 Z"
+         style="clip-rule: evenodd;"
+         id="path4350-6" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5530-2">
+      <path
+         d="m 256.3 512.4 l 74.1 0 l 0 66 l -74.1 0 l 0 -66 Z"
+         style="clip-rule: evenodd;"
+         id="path5532-1" />
+    </clipPath>
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     id="rect5622-3"
+     d="M 45.000014,0 555.00001,0 c 24.93,0 45,20.07 45,45 l 0,210 c 0,24.93 -20.07,45 -45,45 L 45.000014,300 C 20.070014,300 1.3893847e-5,279.93 1.3893847e-5,255 l 0,-210 C 1.3893847e-5,20.07 20.070014,0 45.000014,0 Z"
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:100%;font-family:'Transport Heavy';-inkscape-font-specification:'Transport Heavy,';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.54299998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate" />
+  <path
+     id="rect9537-0"
+     d="m 45.000014,10 509.999996,0 c 19.39,0 35,15.61 35,35 l 0,210 c 0,19.39 -15.61,35 -35,35 l -509.999996,0 c -19.39,0 -35,-15.61 -35,-35 l 0,-210 c 0,-19.39 15.61,-35 35,-35 z"
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:100%;font-family:'Transport Heavy';-inkscape-font-specification:'Transport Heavy,';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.54299998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate" />
+  <path
+     id="path5803"
+     style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:medium;line-height:100%;font-family:'Russian Road Sign';-inkscape-font-specification:'Russian Road Sign Medium';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 573.90356,209.48658 -8.28452,0 0,-30.02197 q 0,-3.63473 -0.39661,-6.7974 -0.3966,-3.20992 -1.4542,-5.00366 -1.10166,-1.98258 -3.17279,-2.92664 -2.07113,-0.99132 -5.37613,-0.99132 -3.39313,0 -7.09473,1.79375 -3.70159,1.79379 -7.09472,4.57884 l 0,39.3684 -8.28453,0 0,-73.44991 8.28453,0 0,26.57602 q 3.87786,-3.4459 8.02012,-5.38128 4.14227,-1.93537 8.50486,-1.93537 7.97606,0 12.16239,5.14525 4.18633,5.14529 4.18633,14.82214 l 0,34.22315 z" />
+  <path
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:100%;font-family:'Transport Heavy';-inkscape-font-specification:'Transport Heavy,';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:10.26012993;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 23.317424,153.95224 0,-54.05382 10.226389,0 10.22639,0 0,54.05382 0,54.05386 -10.22639,0 -10.226389,0 z m 36.522871,0 0,-54.05382 10.226389,0 10.226406,0 0,54.05382 0,54.05386 -10.226406,0 -10.226389,0 z m 36.522875,0 0,-54.05382 10.22638,0 10.22639,0 0,54.05382 0,54.05386 -10.22639,0 -10.22638,0 z m 116.41243,52.95817 c -0.94961,-1.64329 -28.75757,-103.58639 -28.75757,-105.42434 0,-1.00056 4.01553,-1.58765 10.85842,-1.58765 9.06913,0 10.98742,0.42129 11.64132,2.55657 0.43058,1.40613 4.79298,17.66723 9.69421,36.1357 4.9012,18.46853 9.08776,33.75559 9.30347,33.97134 0.2157,0.21569 4.54422,-15.55234 9.61894,-35.04005 5.07471,-19.48773 9.68191,-35.95474 10.23822,-36.5934 0.5563,-0.63868 5.91691,-0.96742 11.91247,-0.73048 l 10.901,0.43077 -13.61145,48.21016 c -7.48627,26.51562 -14.28731,50.67551 -15.11339,53.68864 l -1.50199,5.47843 -12.27525,0 c -6.7514,0 -12.56016,-0.49304 -12.9084,-1.09569 z m 69.12374,-52.95817 0,-54.05382 10.22639,0 10.2264,0 0,54.05382 0,54.05386 -10.2264,0 -10.22639,0 z m -149.01334,13.19067 0,-10.26881 19.78912,0 19.78909,0 -0.43197,9.86117 -0.43197,9.86119 -19.3571,0.40759 -19.35717,0.40763 z"
+     id="path5781" />
+  <g
+     id="text4985"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:120.5356369px;line-height:100%;font-family:'Transport Heavy';-inkscape-font-specification:'Transport Heavy,';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     transform="scale(0.91250293,1.0958869)">
+    <path
+       id="path4990"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'Russian Road Sign';-inkscape-font-specification:'Russian Road Sign Medium'"
+       d="m 404.00248,121.70464 c -17.71874,0 -25.31248,17.95981 -25.31248,36.52229 0,21.09374 9.28124,32.90623 23.62498,32.90623 10.96874,0 21.09374,-10.96874 21.09374,-24.46873 0,-16.03124 -12.65624,-19.88838 -17.71874,-19.88838 -5.90625,0 -11.81249,3.85714 -15.9107,7.23214 0,0 0.72321,-22.78124 15.9107,-22.78124 7.59374,0 14.34374,3.49553 14.34374,3.49553 l -1.6875,-10.24552 c 0,0 -7.59374,-2.77232 -14.34374,-2.77232 z m 0,34.8348 c 3.375,0 8.4375,3.37499 8.4375,10.12499 0,5.90624 -4.21875,13.49999 -11.69196,13.49999 -7.71428,0 -10.72767,-15.18749 -10.72767,-15.18749 0,0 8.07588,-8.43749 13.98213,-8.43749 z" />
+    <path
+       id="path4992"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'Russian Road Sign';-inkscape-font-specification:'Russian Road Sign Medium'"
+       d="m 440.37034,172.57067 23.62499,0 0,-10.96874 -23.62499,0 0,10.96874 z" />
+    <path
+       id="path4994"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'Russian Road Sign';-inkscape-font-specification:'Russian Road Sign Medium'"
+       d="m 473.75118,138.45909 3.97767,5.18303 9.04018,-5.66517 0,52.31246 11.81249,0 0,-67.49995 -10.12499,0 -14.70535,15.66963 z" />
+    <path
+       id="path4996"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'Russian Road Sign';-inkscape-font-specification:'Russian Road Sign Medium'"
+       d="m 518.86352,127.0082 4.45982,10.00446 c 4.82142,-4.09821 8.19642,-5.78571 14.94642,-5.78571 4.21875,0 8.43749,3.375 8.43749,7.59375 0,5.06249 -6.74999,10.96874 -15.18749,12.65624 l 0,9.28124 c 1.6875,-0.84375 3.85714,-0.84375 5.90625,-0.84375 10.96874,0 11.93303,6.99107 11.93303,9.88393 -0.12054,7.83481 -6.87053,11.20981 -14.46428,11.20981 -5.54464,0 -12.89731,-0.96429 -16.99552,-3.73661 l 1.44642,11.8125 c 0,0 10.4866,2.89285 17.2366,2.89285 16.03124,0 24.83034,-11.81249 24.83034,-21.93748 0,-10.96875 -12.1741,-16.03124 -16.39285,-16.87499 6.75,-0.84375 13.5,-7.59375 13.5,-16.87499 0,-9.28125 -9.64286,-15.30803 -18.08035,-15.30803 -6.75,0 -17.35713,3.49554 -21.57588,6.02678 z" />
+  </g>
+</svg>

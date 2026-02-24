@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   id="svg4231"
+   viewBox="0 0 786.73139 321.71664"
+   height="90.795586mm"
+   width="222.03308mm">
+  <defs
+     id="defs4233" />
+  <metadata
+     id="metadata4236">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(240.7051,-1101.6176)"
+     id="layer1">
+    <title
+       id="title3004">5.16 Место остановки автобуса и (или) троллейбуса</title>
+    <g
+       id="layer1-9"
+       transform="translate(-147.31429,-119.59979)">
+      <title
+         id="title3006">5.23.2 Начало населенного пункта</title>
+      <g
+         id="layer1-5"
+         transform="translate(-95.725575,826.66961)">
+        <rect
+           id="rect8314"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.54299998;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
+           x="2.5859849"
+           y="394.62912"
+           width="786.22894"
+           height="321.55411"
+           rx="45"
+           ry="45" />
+        <path
+           id="rect8316"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.54299998;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
+           d="m 36.281517,403.81639 c -14.51903,0 -26.20764,14.34132 -26.20764,32.15541 l 0,238.86873 c 0,17.81406 11.68861,32.15546 26.20764,32.15546 l 718.837913,0 c 14.51902,0 26.20763,-14.3414 26.20763,-32.15546 l 0,-238.86873 c 0,-17.81409 -11.68861,-32.15541 -26.20763,-32.15541 l -718.837913,0 z m 0,9.18726 718.837913,0 c 10.37073,0 18.71973,10.2438 18.71973,22.96815 l 0,238.86873 c 0,12.72436 -8.349,22.96816 -18.71973,22.96816 l -718.837913,0 c -10.37074,0 -18.71974,-10.2438 -18.71974,-22.96816 l 0,-238.86873 c 0,-12.72435 8.349,-22.96815 18.71974,-22.96815 z" />
+        <rect
+           id="rect8382"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
+           x="3.3347642"
+           y="395.54782"
+           width="784.73138"
+           height="319.71664"
+           rx="44"
+           ry="44" />
+        <path
+           id="path8308-9"
+           style="fill:#000000;fill-opacity:1;stroke:none"
+           d="m 55.001247,571.48388 0,96.4662 681.398443,0 0,-176.85472 -45.86335,-16.0777 -45.86336,16.0777 0,112.54394 -13.10381,0 0,-32.15542 -65.51908,-40.19426 -65.51909,40.19426 0,32.15542 -13.10381,0 0,-16.07771 -32.75954,-32.1554 -39.31144,0 0,-8.03886 -39.31145,0 0,8.03886 -39.31145,0 -32.75954,32.1554 0,16.07771 -13.10382,0 0,-24.11656 -52.41526,-136.66049 -52.41527,136.66049 0,24.11656 -13.10381,0 0,-32.15542 -58.96718,-24.11655 z" />
+      </g>
+    </g>
+  </g>
+</svg>

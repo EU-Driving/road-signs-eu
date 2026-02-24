@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="960"
+   height="1200"
+   id="svg2764"
+   sodipodi:version="0.32"
+   inkscape:version="0.44"
+   sodipodi:docname="Hinweiszeichen_8b.svg"
+   sodipodi:docbase="F:\Diverses\Wikipedia\AT-StVZVO">
+  <metadata
+     id="metadata14495">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:window-height="480"
+     inkscape:window-width="640"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     inkscape:zoom="0.31416667"
+     inkscape:cx="480"
+     inkscape:cy="600"
+     inkscape:current-layer="svg2764" />
+  <defs
+     id="defs2766" />
+  <path
+     style="fill:black;fill-rule:nonzero;stroke:none"
+     d="M 935.5997,1200 C 942.1202,1200 948.2491,1197.477 952.8573,1192.8784 C 957.4655,1188.2913 960,1182.1789 960,1175.6881 L 960,24.32337 C 960,17.82108 957.4655,11.72016 952.8573,7.12154 C 948.2491,2.53438 942.1202,-2e-005 935.5997,-2e-005 L 24.40034,-2e-005 C 10.94444,-2e-005 0,10.90594 0,24.32337 L 0,1175.6881 C 0,1182.1789 2.5345,1188.2913 7.14269,1192.8784 C 11.75087,1197.477 17.87976,1200 24.40034,1200 L 935.5997,1200 z "
+     id="path14507" />
+  <path
+     style="fill:white;fill-rule:nonzero;stroke:none"
+     d="M 24.40034,1191.9839 C 20.03408,1191.9839 15.9328,1190.2867 12.83379,1187.2133 C 9.74631,1184.1284 8.0528,1180.0344 8.0528,1175.6881 L 8.0528,24.32337 C 8.0528,19.96558 9.74631,15.87154 12.83379,12.79815 C 15.9328,9.71328 20.03408,8.0275 24.40034,8.0275 L 935.5997,8.0275 C 939.9659,8.0275 944.0672,9.71328 947.1662,12.79815 C 950.2537,15.87154 951.9472,19.96558 951.9472,24.32337 L 951.9472,1175.6881 C 951.9472,1184.6674 944.6202,1191.9839 935.5997,1191.9839 L 24.40034,1191.9839"
+     id="path255" />
+  <path
+     id="path257"
+     style="fill:#176fc1;fill-rule:nonzero;stroke:none"
+     d="M 37.57974,1162.328 L 922.3051,1162.328 L 922.3051,37.32796 L 37.57974,37.32796 L 37.57974,1162.328 z " />
+  <path
+     id="path259"
+     style="fill:white;fill-rule:nonzero;stroke:none"
+     d="M 444.4133,424.13989 L 444.4133,97.48851 L 389.77175,97.48851 L 337.35365,424.12842 L 444.4133,424.13989" />
+  <path
+     id="path261"
+     style="fill:white;fill-rule:nonzero;stroke:none"
+     d="M 321.70887,521.58255 L 231.5843,1083.1651 L 444.4133,1083.1651 L 444.4133,521.55961 L 321.70887,521.58255" />
+  <path
+     id="path263"
+     style="fill:white;fill-rule:nonzero;stroke:none"
+     d="M 638.16441,521.58255 L 728.289,1083.1651 L 515.4715,1083.1651 L 515.4715,521.55961 L 638.16441,521.58255" />
+  <path
+     id="path265"
+     style="fill:white;fill-rule:nonzero;stroke:none"
+     d="M 515.4715,424.13989 L 515.4715,97.48851 L 570.11304,97.48851 L 622.53114,424.12842 L 515.4715,424.13989" />
+  <path
+     id="path267"
+     style="fill:white;fill-rule:nonzero;stroke:none"
+     d="M 882.3982,447.0642 L 882.3982,487.17888 L 839.2541,487.17888 L 839.2541,621.84631 L 744.3485,621.84631 L 744.3485,487.17888 L 215.5363,487.17888 L 215.5363,621.84631 L 120.61922,621.84631 L 120.61922,487.17888 L 77.48662,487.17888 L 77.48662,447.0642 L 882.3982,447.0642" />
+  <path
+     id="path269"
+     style="fill:#f03120;fill-rule:nonzero;stroke:none"
+     d="M 37.57974,1062.328 L 37.57974,1162.328 L 115.11244,1162.328 L 922.3051,135.90594 L 922.3051,37.31649 L 843.6664,37.31649 L 37.57974,1062.328" />
+</svg>

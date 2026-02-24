@@ -1,0 +1,37 @@
+# Dependencies
+node_modules/
+
+# Environment and secrets (never commit)
+.env
+.env.*
+.env.local
+.env.development
+.env.production
+*.env
+*.pem
+secrets/
+*.key
+
+# Backups and generated data
+/backup
+/all_pictures_eu
+data_from_wiki
+
+# Scripts / optional tooling
+get_pictures.py
+template.json
+
+# Test / temp
+test-connection.js
+
+# OS and editor
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+/netherlands
+/poland
+/croatia
+

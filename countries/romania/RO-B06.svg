@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="650mm" height="650mm" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 650 650">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil0 {fill:mediumblue}
+    .fil2 {fill:red}
+    .fil1 {fill:white}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect class="fil0" width="650" height="650"/>
+  <polygon class="fil1" points="480.695,292.317 480.695,514.092 430.432,514.092 430.432,292.317 359.784,303.572 455.742,135.91 551.347,303.572 "/>
+  <polygon class="fil2" points="169.302,357.697 169.302,135.91 219.554,135.91 219.554,357.697 290.206,346.431 194.244,514.092 98.6533,346.431 "/>
+ </g>
+</svg>

@@ -1,0 +1,387 @@
+Information signs (lane): No. 401-499
+401-30 Počet jazdných pruhov (2 pruhy)
+401-30 Number of lanes (2 lanes)
+ 
+401-31 Počet jazdných pruhov (3 pruhy)
+401-31 Number of lanes (3 lanes)
+ 
+401-32 Počet jazdných pruhov (4 pruhy)
+401-32 Number of lanes (4 lanes)
+ 
+401-33 Počet jazdných pruhov (5 pruhov)
+401-33 Number of lanes (5 lanes)
+402-30 Počet jazdných pruhov (2 pruhy + regulačná značka)
+402-30 Number of lanes (2 lanes + regulatory sign)
+ 
+402-31 Počet jazdných pruhov (3 pruhy + regulačná značka)
+402-31 Number of lanes (3 lanes + regulatory sign)
+ 
+402-32 Počet jazdných pruhov (4 pruhy + regulačná značka)
+402-32 Number of lanes (4 lanes + regulatory sign)
+403-31 Počet jazdných pruhov (2 pruhy + 1 v protismere)
+403-31 Number of lanes (2 lanes + 1 in the opposite direction)
+ 
+403-32 Počet jazdných pruhov (1 pruh + 2 v protismere)
+403-32 Number of lanes (1 lane + 2 in the opposite direction)
+ 
+403-33 Počet jazdných pruhov (3 pruhy + 1 v protismere)
+403-33 Number of lanes (3 lanes + 1 in the opposite direction)
+ 
+403-34 Počet jazdných pruhov (2 pruhy + 2 v protismere)
+403-34 Number of lanes (2 lanes + 2 in the opposite direction)
+ 
+403-35 Počet jazdných pruhov (1 pruhy + 3 v protismere)
+403-35 Number of lanes (1 lane + 3 in the opposite direction)
+ 
+403-37 Počet jazdných pruhov (3 pruhy + 2 v protismere)
+403-37 Number of lanes (3 lanes + 2 in the opposite direction)
+ 
+403-38 Počet jazdných pruhov (2 pruhy + 3 v protismere)
+403-38 Number of lanes (2 lanes + 3 in the opposite direction)
+404-31 Počet jazdných pruhov (2 pruhy + 1 v protismere + regulačná značka)
+404-31 Number of lanes (2 lanes + 1 in the opposite direction + regulatory mark)
+ 
+404-34 Počet jazdných pruhov (2 pruhy + 2 v protismere + regulačná značka)
+404-34 Number of lanes (2 lanes + 2 in the opposite direction + regulatory mark)
+ 
+404-37 Počet jazdných pruhov (3 pruhy + 2 v protismere + regulačná značka)
+404-37 Number of lanes (3 lanes + 2 in the opposite direction + regulatory mark)
+411-10 Zníženie počtu jazdných pruhov (vľavo, pokračuje 1 pruh)
+411-10 Reduction in the number of lanes (left, 1 lane continues)
+ 
+411-11 Zníženie počtu jazdných pruhov (vľavo, pokračujú 2 pruhy)
+411-11 Reduction in the number of lanes (left, 2 lanes continue)
+ 
+411-12 Zníženie počtu jazdných pruhov (vľavo, pokračujú 3 pruhy)
+411-12 Reduction in the number of lanes (left, 3 lanes continue)
+ 
+411-13 Zníženie počtu jazdných pruhov (vľavo, pokračujú 4 pruhy)
+411-13 Reduction in the number of lanes (left, 4 lanes continue)
+ 
+411-23 Zníženie počtu jazdných pruhov (vpravo, pokračujú 4 pruhy)
+411-23 Reduction in the number of lanes (right, 4 lanes continue)
+ 
+411-22 Zníženie počtu jazdných pruhov (vpravo, pokračujú 3 pruhy)
+411-22 Reduction in the number of lanes (right, 3 lanes continue)
+ 
+411-21 Zníženie počtu jazdných pruhov (vpravo, pokračujú 2 pruhy)
+411-21 Reduction in the number of lanes (right, 2 lanes continue)
+ 
+411-20 Zníženie počtu jazdných pruhov (vpravo, pokračuje 1 pruh)
+411-20 Reduction in the number of lanes (right, 1 lane continues)
+412-11 Zníženie počtu jazdných pruhov (vľavo, pokračujú 2 pruhy + regulačná značka)
+412-11 Reduction in the number of lanes (left, 2 lanes continue + regulatory sign)
+ 
+412-12 Zníženie počtu jazdných pruhov (vľavo, pokračujú 3 pruhy + regulačná značka)
+412-12 Reduction in the number of lanes (left, 3 lanes continue + regulatory sign)
+ 
+412-22 Zníženie počtu jazdných pruhov (vpravo, pokračujú 3 pruhy + regulačná značka)
+412-22 Reduction in the number of lanes (right, 3 lanes continue + regulatory sign)
+ 
+412-21 Zníženie počtu jazdných pruhov (vpravo, pokračujú 2 pruhy + regulačná značka)
+412-21 Reduction in the number of lanes (right, 2 lanes continue + regulatory sign)
+413-10 Zníženie počtu jazdných pruhov (vľavo, pokračuje 1 pruh + 1 v protismere)
+413-10 Reduction in the number of lanes (left, continues 1 lane + 1 in the opposite direction)
+ 
+413-11 Zníženie počtu jazdných pruhov (vľavo, pokračujú 2 pruhy + 1 v protismere)
+413-11 Reduction in the number of lanes (left, 2 lanes continue + 1 in the opposite direction)
+ 
+413-12 Zníženie počtu jazdných pruhov (vľavo, pokračuje 1 pruh + 2 v protismere)
+413-12 Reduction in the number of lanes (left, continues 1 lane + 2 in the opposite direction)
+ 
+413-14 Zníženie počtu jazdných pruhov (vľavo, pokračujú 2 pruhy + 2 v protismere)
+413-14 Reduction in the number of lanes (left, 2 lanes continue + 2 in the opposite direction)
+ 
+413-15 Zníženie počtu jazdných pruhov (vľavo, pokračuje 1 pruh + 3 v protismere)
+413-15 Reduction in the number of lanes (left, continues 1 lane + 3 in the opposite direction)
+ 
+413-25 Zníženie počtu jazdných pruhov (vpravo, pokračuje 1 pruhy + 3 v protismere)
+413-25 Reduction in the number of lanes (right, continues 1 lane + 3 in the opposite direction)
+ 
+413-24 Zníženie počtu jazdných pruhov (vpravo, pokračujú 2 pruhy + 2 v protismere)
+413-24 Reduction in the number of lanes (right, 2 lanes continue + 2 in the opposite direction)
+ 
+413-22 Zníženie počtu jazdných pruhov (vpravo, pokračuje 1 pruh + 2 v protismere)
+413-22 Reduction in the number of lanes (right, continues 1 lane + 2 in the opposite direction)
+ 
+413-21 Zníženie počtu jazdných pruhov (vpravo, pokračujú 2 pruhy + 1 v protismere)
+413-21 Reduction in the number of lanes (right, 2 lanes continue + 1 in the opposite direction)
+ 
+413-20 Zníženie počtu jazdných pruhov (vpravo, pokračuje 1 pruh + 1 v protismere)
+413-20 Reduction in the number of lanes (right, continues 1 lane + 1 in the opposite direction)
+414-11 Zníženie počtu jazdných pruhov (vľavo, pokračujú 2 pruhy + 1 v protismere + regulačná značka)
+414-11 Reduction in the number of lanes (left, continue 2 lanes + 1 in the opposite direction + regulatory mark)
+ 
+414-14 Zníženie počtu jazdných pruhov (vľavo, pokračujú 2 pruhy + 2 v protismere + regulačná značka)
+414-14 Reduction in the number of lanes (left, continue 2 lanes + 2 in the opposite direction + regulatory mark)
+ 
+414-24 Zníženie počtu jazdných pruhov (vpravo, pokračujú 2 pruhy + 2 v protismere + regulačná značka)
+414-24 Reduction in the number of lanes (right, 2 lanes continue + 2 in the opposite direction + regulatory sign)
+ 
+414-21 Zníženie počtu jazdných pruhov (vpravo, pokračujú 2 pruhy + 1 v protismere + regulačná značka)
+414-21 Reduction in the number of lanes (right, 2 lanes continue + 1 in the opposite direction + regulatory sign)
+421-10 Zvýšenie počtu jazdných pruhov (vľavo, pokračujú 2 pruhy)
+421-10 Increase in number of lanes (left, 2 lanes continue)
+ 
+421-11 Zvýšenie počtu jazdných pruhov (vľavo, pokračujú 3 pruhy)
+421-11 Increase in number of lanes (left, 3 lanes continue)
+ 
+421-12 Zvýšenie počtu jazdných pruhov (vľavo, pokračujú 4 pruhy)
+421-12 Increase in number of lanes (left, 4 lanes continue)
+ 
+421-13 Zvýšenie počtu jazdných pruhov (vľavo, pokračuje 5 pruhov)
+421-13 Increase in number of lanes (left, continues 5 lanes)
+ 
+421-23 Zvýšenie počtu jazdných pruhov (vpravo, pokračuje 5 pruhov)
+421-23 Increase in number of lanes (right, continues 5 lanes)
+ 
+421-22 Zvýšenie počtu jazdných pruhov (vpravo, pokračujú 4 pruhy)
+421-22 Increase in number of lanes (right, 4 lanes continue)
+ 
+421-21 Zvýšenie počtu jazdných pruhov (vpravo, pokračujú 3 pruhy)
+421-21 Increase in number of lanes (right, 3 lanes continue)
+ 
+421-20 Zvýšenie počtu jazdných pruhov (vpravo, pokračujú 2 pruhy)
+421-20 Increase in number of lanes (right, 2 lanes continue)
+422-10 Zvýšenie počtu jazdných pruhov (vľavo, pokračujú 2 pruhy + regulačná značka)
+422-10 Increase in number of lanes (left, 2 lanes continue + regulatory sign)
+ 
+422-11 Zvýšenie počtu jazdných pruhov (vľavo, pokračujú 3 pruhy + regulačná značka)
+422-11 Increase in number of lanes (left, 3 lanes continue + regulatory sign)
+ 
+422-12 Zvýšenie počtu jazdných pruhov (vľavo, pokračujú 4 pruhy + regulačná značka)
+422-12 Increase in number of lanes (left, 4 lanes continue + regulatory sign)
+ 
+422-22 Zvýšenie počtu jazdných pruhov (vpravo, pokračujú 4 pruhy + regulačná značka)
+422-22 Increase in number of lanes (right, 4 lanes continue + regulatory sign)
+ 
+422-21 Zvýšenie počtu jazdných pruhov (vpravo, pokračujú 3 pruhy + regulačná značka)
+422-21 Increase in number of lanes (right, 3 lanes continue + regulatory sign)
+ 
+422-20 Zvýšenie počtu jazdných pruhov (vpravo, pokračujú 2 pruhy + regulačná značka)
+422-20 Increase in number of lanes (right, 2 lanes continue + regulatory sign)
+423-10 Zvýšenie počtu jazdných pruhov (vľavo, pokračujú 2 pruhy + 1 v protismere)
+423-10 Increase in the number of lanes (left, continue 2 lanes + 1 in the opposite direction)
+ 
+423-11 Zvýšenie počtu jazdných pruhov (vľavo, pokračujú 3 pruhy + 1 v protismere)
+423-11 Increase in the number of lanes (left, continue 3 lanes + 1 in the opposite direction)
+ 
+423-12 Zvýšenie počtu jazdných pruhov (vľavo, pokračujú 2 pruhy + 2 v protismere)
+423-12 Increase in the number of lanes (left, continue 2 lanes + 2 in the opposite direction)
+ 
+423-14 Zvýšenie počtu jazdných pruhov (vľavo, pokračujú 3 pruhy + 2 v protismere)
+423-14 Increase in the number of lanes (left, continue 3 lanes + 2 in the opposite direction)
+ 
+423-15 Zvýšenie počtu jazdných pruhov (vľavo, pokračujú 2 pruhy + 3 v protismere)
+423-15 Increase in the number of lanes (left, continue 2 lanes + 3 in the opposite direction)
+ 
+423-25 Zvýšenie počtu jazdných pruhov (vpravo, pokračujú 2 pruhy + 3 v protismere)
+423-25 Increase in the number of lanes (right, continue 2 lanes + 3 in the opposite direction)
+ 
+423-24 Zvýšenie počtu jazdných pruhov (vpravo, pokračujú 3 pruhy + 2 v protismere)
+423-24 Increase in the number of lanes (right, continue 3 lanes + 2 in the opposite direction)
+ 
+423-22 Zvýšenie počtu jazdných pruhov (vpravo, pokračujú 2 pruhy + 2 v protismere)
+423-22 Increase in the number of lanes (right, 2 lanes continue + 2 in the opposite direction)
+ 
+423-21 Zvýšenie počtu jazdných pruhov (vpravo, pokračujú 3 pruhy + 1 v protismere)
+423-21 Increase in the number of lanes (right, continue 3 lanes + 1 in the opposite direction)
+ 
+423-20 Zvýšenie počtu jazdných pruhov (vpravo, pokračujú 2 pruhy + 1 v protismere)
+423-20 Increase in the number of lanes (right, continue 2 lanes + 1 in the opposite direction)
+424-10 Zvýšenie počtu jazdných pruhov (vľavo, pokračujú 2 pruhy + 1 v protismere + regulačná značka)
+424-10 Increase in the number of lanes (left, continue 2 lanes + 1 in the opposite direction + regulatory mark)
+ 
+424-11 Zvýšenie počtu jazdných pruhov (vľavo, pokračujú 3 pruhy + 1 v protismere + regulačná značka)
+424-11 Increase in the number of lanes (left, continue 3 lanes + 1 in the opposite direction + regulatory mark)
+ 
+424-12 Zvýšenie počtu jazdných pruhov (vľavo, pokračujú 2 pruhy + 2 v protismere + regulačná značka)
+424-12 Increase in the number of lanes (left, continue 2 lanes + 2 in the opposite direction + regulatory mark)
+ 
+424-22 Zvýšenie počtu jazdných pruhov (vpravo, pokračujú 2 pruhy + 2 v protismere + regulačná značka)
+424-22 Increase in the number of lanes (right, continue 2 lanes + 2 in the opposite direction + regulatory mark)
+ 
+424-21 Zvýšenie počtu jazdných pruhov (vpravo, pokračujú 3 pruhy + 1 v protismere + regulačná značka)
+424-21 Increase in the number of lanes (right, continue 3 lanes + 1 in the opposite direction + regulatory mark)
+ 
+424-20 Zvýšenie počtu jazdných pruhov (vpravo, pokračujú 2 pruhy + 1 v protismere + regulačná značka)
+424-20 Increase in the number of lanes (right, continue 2 lanes + 1 in the opposite direction + regulatory mark)
+431-10 Bezkolízne pripojenie (v hlavnom páse, 1 priebežný + 1 zľava)
+431-10 Collisionless connection (in the main belt, 1 continuous + 1 from the left)
+ 
+431-11 Bezkolízne pripojenie (v hlavnom páse, 2 priebežné + 1 zľava)
+431-11 Collisionless connection (in the main belt, 2 continuous + 1 from the left)
+ 
+431-12 Bezkolízne pripojenie (v hlavnom páse, 1 priebežný + 2 zľava)
+431-12 Collisionless connection (in the main belt, 1 continuous + 2 from the left)
+ 
+431-13 Bezkolízne pripojenie (v hlavnom páse, 3 priebežné + 1 zľava)
+431-13 Collisionless connection (in the main belt, 3 continuous + 1 from the left)
+ 
+431-14 Bezkolízne pripojenie (v hlavnom páse, 2 priebežné + 2 zľava)
+431-14 Collisionless connection (in the main belt, 2 continuous + 2 from the left)
+ 
+431-15 Bezkolízne pripojenie (v hlavnom páse, 1 priebežný + 3 zľava)
+431-15 Collisionless connection (in the main belt, 1 continuous + 3 from the left)
+431-20 Bezkolízne pripojenie (v hlavnom páse, 1 priebežný + 1 sprava)
+431-20 Collisionless connection (in the main belt, 1 continuous + 1 from the right)
+ 
+431-21 Bezkolízne pripojenie (v hlavnom páse, 2 priebežné + 1 sprava)
+431-21 Collisionless connection (in the main belt, 2 continuous + 1 from the right)
+ 
+431-22 Bezkolízne pripojenie (v hlavnom páse, 1 priebežný + 2 sprava)
+431-22 Collisionless connection (in the main belt, 1 continuous + 2 from the right)
+ 
+431-23 Bezkolízne pripojenie (v hlavnom páse, 3 priebežné + 1 sprava)
+431-23 Collisionless connection (in the main belt, 3 continuous + 1 from the right)
+ 
+431-24 Bezkolízne pripojenie (v hlavnom páse, 2 priebežné + 2 sprava)
+431-24 Collisionless connection (in the main belt, 2 continuous + 2 from the right)
+ 
+431-25 Bezkolízne pripojenie (v hlavnom páse, 1 priebežný + 3 sprava)
+431-25 Collisionless connection (in the main belt, 1 continuous + 3 from the right)
+432-10 Bezkolízne pripojenie (zľava, 1 pruh + 1 priebežný)
+432-10 Collisionless connection (from left, 1 lane + 1 continuous)
+ 
+432-11 Bezkolízne pripojenie (zľava, 1 pruh + 2 priebežné)
+432-11 Collisionless connection (left, 1 lane + 2 continuous)
+ 
+432-12 Bezkolízne pripojenie (zľava, 2 pruhy + 1 priebežný)
+432-12 Collisionless connection (discount, 2 lanes + 1 continuous)
+ 
+432-13 Bezkolízne pripojenie (zľava, 1 pruh + 3 priebežné)
+432-13 Collisionless connection (left, 1 lane + 3 continuous)
+ 
+432-14 Bezkolízne pripojenie (zľava, 2 pruhy + 2 priebežné)
+432-14 Collisionless connection (discount, 2 lanes + 2 continuous)
+ 
+432-15 Bezkolízne pripojenie (zľava, 3 pruhy + 1 priebežný)
+432-15 Collisionless connection (discount, 3 lanes + 1 continuous)
+432-20 Bezkolízne pripojenie (sprava, 1 pruh + 1 priebežný)
+432-20 Collisionless connection (right, 1 lane + 1 continuous)
+ 
+432-21 Bezkolízne pripojenie (sprava, 1 pruh + 2 priebežné)
+432-21 Collisionless connection (right, 1 lane + 2 continuous)
+ 
+432-22 Bezkolízne pripojenie (sprava, 2 pruhy + 1 priebežný)
+432-22 Collisionless connection (right, 2 lanes + 1 continuous)
+ 
+432-23 Bezkolízne pripojenie (sprava, 1 pruh + 3 priebežné)
+432-23 Collisionless connection (right, 1 lane + 3 continuous)
+ 
+432-24 Bezkolízne pripojenie (sprava, 2 pruhy + 2 priebežné)
+432-24 Collisionless connection (right, 2 lanes + 2 continuous)
+ 
+432-25 Bezkolízne pripojenie (sprava, 3 pruhy + 1 priebežný)
+432-25 Collisionless connection (right, 3 lanes + 1 continuous)
+441-10 Presmerovanie jazdných pruhov (doľava, 1 pruh)
+441-10 Lane rerouting (left, 1 lane)
+ 
+441-11 Presmerovanie jazdných pruhov (doľava, 2 pruhy)
+441-11 Lane rerouting (left, 2 lanes)
+ 
+441-12 Presmerovanie jazdných pruhov (doľava, 3 pruhy)
+441-12 Lane rerouting (left, 3 lanes)
+ 
+441-13 Presmerovanie jazdných pruhov (doľava, 1 pruh + 1 pokračujúci)
+441-13 Lane rerouting (left, 1 lane + 1 continuing)
+ 
+441-14 Presmerovanie jazdných pruhov (doľava, 1 pruh + 2 pokračujúce)
+441-14 Lane rerouting (left, 1 lane + 2 continued)
+ 
+441-15 Presmerovanie jazdných pruhov (doľava, 2 pruhy + 1 pokračujúci)
+441-15 Lane Redirection (left, 2 lanes + 1 continuing)
+ 
+441-16 Presmerovanie jazdných pruhov (doľava, 1 pruh + 1 pripájajúci sa)
+441-16 Lane rerouting (left, 1 lane + 1 connecting)
+ 
+441-17 Presmerovanie jazdných pruhov (doľava, 1 pruh + 2 v pripájajúce sa)
+441-17 Redirection of lanes (left, 1 lane + 2 v connecting)
+ 
+441-18 Presmerovanie jazdných pruhov (doľava, 2 pruhy + 1 pripájajúci sa)
+441-18 Lane rerouting (left, 2 lanes + 1 connecting)
+441-20 Presmerovanie jazdných pruhov (doprava, 1 pruh)
+441-20 Lane rerouting (transport, 1 lane)
+ 
+441-21 Presmerovanie jazdných pruhov (doprava, 2 pruhy)
+441-21 Lane rerouting (transport, 2 lanes)
+ 
+441-22 Presmerovanie jazdných pruhov (doprava, 3 pruhy)
+441-22 Lane rerouting (transport, 3 lanes)
+ 
+441-23 Presmerovanie jazdných pruhov (doprava, 1 pruh + 1 pokračujúci)
+441-23 Lane rerouting (transport, 1 lane + 1 continuing)
+ 
+441-24 Presmerovanie jazdných pruhov (doprava, 1 pruh + 2 pokračujúce)
+441-24 Lane rerouting (transport, 1 lane + 2 continuing)
+ 
+441-25 Presmerovanie jazdných pruhov (doprava, 2 pruhy + 1 pokračujúci)
+441-25 Lane rerouting (transport, 2 lanes + 1 continuing)
+ 
+441-26 Presmerovanie jazdných pruhov (doprava, 1 pruh + 1 pripájajúci sa)
+441-26 Lane rerouting (transport, 1 lane + 1 connecting)
+ 
+441-27 Presmerovanie jazdných pruhov (doprava, 1 pruh + 2 v pripájajúce sa)
+441-27 Redirection of lanes (transport, 1 lane + 2 v connecting)
+ 
+441-28 Presmerovanie jazdných pruhov (doprava, 2 pruhy + 1 pripájajúci sa)
+441-28 Lane rerouting (transport, 2 lanes + 1 connecting)
+442-11 Presmerovanie jazdných pruhov (doľava, 2 pruhy, s vloženou regulačnou značkou)
+442-11 Lane rerouting (left, 2 lanes, with a regulatory sign inserted)
+ 
+442-12 Presmerovanie jazdných pruhov (doľava, 3 pruhy, s vloženou regulačnou značkou)
+442-12 Lane rerouting (left, 3 lanes, with a regulatory sign inserted)
+ 
+442-21 Presmerovanie jazdných pruhov (doprava, 2 pruhy, s vloženou regulačnou značkou)
+442-21 Lane rerouting (transport, 2 lanes, with regulation mark inserted)
+ 
+442-22 Presmerovanie jazdných pruhov (doprava, 3 pruhy, s vloženou regulačnou značkou)
+442-22 Rerouting of lanes (transport, 3 lanes, with a regulatory sign inserted)
+ 
+443-10 Presmerovanie jazdných pruhov do protismeru (doľava, 1 pruh)
+443-10 Redirection of lanes to the opposite direction (left, 1 lane)
+ 
+443-11 Presmerovanie jazdných pruhov do protismeru (doľava, 2 pruhy)
+443-11 Redirection of lanes to the opposite direction (left, 2 lanes)
+ 
+443-12 Presmerovanie jazdných pruhov do protismeru (doľava, 3 pruhy)
+443-12 Redirection of lanes to the opposite direction (left, 3 lanes)
+ 
+443-16 Presmerovanie jazdných pruhov do protismeru (doľava, 1 pruh + 1 priamo)
+443-16 Redirection of lanes to the opposite direction (left, 1 lane + 1 directly)
+ 
+443-17 Presmerovanie jazdných pruhov do protismeru (doľava, 1 pruh + 2 priamo)
+443-17 Redirection of lanes to the opposite direction (left, 1 lane + 2 directly)
+ 
+443-18 Presmerovanie jazdných pruhov do protismeru (doľava, 2 pruhy + 1 priamo)
+443-18 Redirection of lanes to the opposite direction (left, 2 lanes + 1 directly)
+ 
+443-20 Presmerovanie jazdných pruhov do protismeru (doprava, 1 pruh)
+443-20 Redirection of lanes to the opposite direction (right, 1 lane)
+ 
+443-21 Presmerovanie jazdných pruhov do protismeru (doprava, 2 pruhy)
+443-21 Redirection of lanes to the opposite direction (transport, 2 lanes)
+ 
+443-22 Presmerovanie jazdných pruhov do protismeru (doprava, 3 pruhy)
+443-22 Redirection of lanes to the opposite direction (transport, 3 lanes)
+ 
+444-11 Presmerovanie jazdných pruhov do protismeru (doľava, 2 pruhy, s vloženou regulačnou značkou)
+444-11 Redirection of lanes to the opposite direction (left, 2 lanes, with an inserted regulatory mark)
+ 
+444-12 Presmerovanie jazdných pruhov do protismeru (doľava, 3 pruhy, s vloženou regulačnou značkou)
+444-12 Redirection of lanes to the opposite direction (left, 3 lanes, with an inserted regulatory mark)
+ 
+444-16 Presmerovanie jazdných pruhov do protismeru (doľava, 1 pruh + 1 priamo, s vloženou regulačnou značkou)
+444-16 Redirection of lanes to the opposite direction (left, 1 lane + 1 directly, with a regulatory mark inserted)
+ 
+444-17 Presmerovanie jazdných pruhov do protismeru (doľava, 1 pruh + 2 priamo, s vloženou regulačnou značkou)
+444-17 Redirection of lanes to the opposite direction (left, 1 lane + 2 directly, with a regulatory mark inserted)
+ 
+444-18 Presmerovanie jazdných pruhov do protismeru (doľava, 2 pruhy + 1 priamo, s vloženou regulačnou značkou)
+444-18 Redirection of lanes to the opposite direction (left, 2 lanes + 1 directly, with a regulatory mark inserted)
+ 
+444-21 Presmerovanie jazdných pruhov do protismeru (doprava, 2 pruhy, s vloženou regulačnou značkou)
+444-21 Redirection of lanes to the opposite direction (transport, 2 lanes, with a regulatory sign inserted)
+ 
+444-22 Presmerovanie jazdných pruhov do protismeru (doprava, 3 pruhy, s vloženou regulačnou značkou)
+444-22 Redirection of lanes to the opposite direction (transport, 3 lanes, with a regulatory sign inserted)

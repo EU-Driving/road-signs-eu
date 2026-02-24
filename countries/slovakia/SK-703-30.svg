@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="150.000000mm" height="275.000000mm" viewBox="0 0 15000 27500" version="1.1">
+<g id="surface201">
+<path style="fill:none;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(16.470588%,16.078431%,16.470588%);stroke-opacity:1;stroke-miterlimit:3;" d="M 0 -137.5 L -75 -137.5 L -30 137.5 L 30 137.5 L 75 -137.5 L 0 -137.5 " transform="matrix(100,0,0,-100,7500,13750)"/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(94.509804%,94.117647%,91.764706%);fill-opacity:1;" d="M 7500 27500 L 0 27500 L 4500 0 L 10500 0 L 15000 27500 L 7500 27500 "/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(73.333333%,11.764706%,6.27451%);fill-opacity:1;" d="M 0 27500 L 900 22000 L 14100 22000 L 15000 27500 L 0 27500 "/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(73.333333%,11.764706%,6.27451%);fill-opacity:1;" d="M 2700 16500 L 1800 16500 L 2700 11000 L 12300 11000 L 13200 16500 L 2700 16500 "/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(73.333333%,11.764706%,6.27451%);fill-opacity:1;" d="M 3600 5500 L 4500 0 L 10500 0 L 11400 5500 L 3600 5500 "/>
+</g>
+</svg>

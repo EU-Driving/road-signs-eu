@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="400"
+   height="400"
+   viewBox="0 0 105.83333 105.83334"
+   version="1.1"
+   id="svg8042"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="Denmark road sign E26.2.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview8044"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="px"
+     inkscape:zoom="1.0179639"
+     inkscape:cx="181.24414"
+     inkscape:cy="221.52062"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8042"
+     inkscape:snap-intersection-paths="false"
+     inkscape:snap-smooth-nodes="false"
+     inkscape:snap-bbox="false"
+     inkscape:snap-bbox-edge-midpoints="false"
+     inkscape:bbox-nodes="false"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <defs
+     id="defs8039" />
+  <rect
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect3475"
+     width="105.5687"
+     height="105.56875"
+     x="0.1322915"
+     y="0.1322915"
+     ry="5.1494894"
+     inkscape:label="rect3535" />
+  <rect
+     style="fill:#0071bb;fill-opacity:1;stroke:none;stroke-width:0.34395;stroke-linecap:round;stroke-miterlimit:10;stroke-dasharray:none"
+     id="rect5426"
+     width="98.579262"
+     height="98.579338"
+     x="3.6269968"
+     y="3.626991"
+     ry="1.6547908"
+     inkscape:label="rect3540" />
+  <path
+     d="m 79.529466,85.450781 v -7.349562 h -15.85963 v -7.438827 h -15.77031 v -7.349563 h -15.95213 v -7.974423 h -17.47625 v 6.003956 h 11.46896 v 7.888467 h 15.8629 v 7.346253 h 15.86291 v 7.438828 h 15.85954 v 7.167721 h 17.56556 v -5.73285 z"
+     style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.30615"
+     id="path960"
+     sodipodi:nodetypes="ccccccccccccccccccccc"
+     inkscape:label="path3545" />
+  <path
+     d="m 76.929416,47.985979 -4.12024,-6.450973 v 31.185447 c 0,1.703197 -1.25815,3.137411 -2.95818,3.137411 -1.70319,0 -3.13741,-1.434214 -3.13741,-3.137411 v -9.767701 l -6.18198,4.302824 c -1.61354,0.985998 -3.4064,0.716924 -4.3924,-0.716927 -0.89661,-1.434213 -0.62798,-3.316643 0.986,-4.392394 l 8.96093,-6.092324 c 0.986,-0.806767 0.80677,-2.509965 0.0908,-3.406393 l -2.15131,-3.047752 c -0.35575,-0.538148 -1.70321,-2.151407 -1.70321,-3.764947 V 30.778401 c 0,-2.865341 2.33382,-5.195987 5.19917,-5.195987 2.95817,0 5.28882,2.330646 5.28882,5.195987 v 1.70311 l 8.15407,12.815458 c 0.80677,1.165311 0.44831,2.689279 -0.71691,3.406385 -1.07567,0.716929 -2.59636,0.358471 -3.31674,-0.716918"
+     style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.20146"
+     id="path352"
+     sodipodi:nodetypes="ccssscccccccsssscccc"
+     inkscape:label="path3550" />
+  <ellipse
+     style="fill:#ffffff;fill-opacity:1;stroke-width:1.0633;stroke-linecap:round"
+     id="path2788"
+     cx="67.521935"
+     cy="18.412449"
+     rx="5.2872348"
+     ry="5.287169"
+     inkscape:label="circle3555" />
+</svg>

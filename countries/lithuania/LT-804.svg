@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   id="svg2"
+   viewBox="0 0 700 699.99998"
+   height="197.55556mm"
+   width="197.55556mm">
+  <defs
+     id="defs4">
+    <clipPath
+       id="clipPath13619"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path13621"
+         d="m 60.025,220.275 105.35,0 0,-129.6 -105.35,0 0,129.6 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath13627"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path13629"
+         d="m 60.025,90.675 105.35,0 0,129.6 -105.35,0 0,-129.6 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath13635"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path13637"
+         d="m 60.025,220.275 105.35,0 0,-129.6 -105.35,0 0,129.6 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath13645"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path13647"
+         d="m -0.569,-0.7 5.381,0 0,6.34301 -5.381,0 0,-6.34301 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath13653"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path13655"
+         d="M 0,1 1,1 1,0 0,0 0,1 Z" />
+    </clipPath>
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(6530.6736,1985.1888)"
+     id="layer1">
+    <title
+       id="title3002">6.17 Схема объезда</title>
+    <g
+       id="layer1-0"
+       transform="translate(-603.23571,356.76449)">
+      <title
+         id="title3006">6.8.2 Тупик</title>
+      <g
+         id="layer1-5"
+         transform="matrix(0.33107699,0,0,0.33107699,-64.237582,-1276.186)" />
+      <title
+         id="title3002-4">7.3 Автозаправочная станция</title>
+      <g
+         id="layer1-2"
+         transform="translate(-5453.8586,-3424.0205)">
+        <title
+           id="title3002-8">7.4 Техническое обслуживание автомобилей</title>
+        <g
+           id="layer1-02"
+           transform="translate(-706.96832,947.61775)" />
+        <g
+           id="text4182"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:302.53543091px;line-height:100%;font-family:'Transport Heavy';-inkscape-font-specification:'Transport Heavy,';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           transform="scale(0.96186318,1.0396489)" />
+        <title
+           id="title3006-3">8.1.1 Расстояние до объекта</title>
+        <g
+           id="layer1-4"
+           transform="translate(-182.24836,597.04167)" />
+        <title
+           id="title3006-5">8.1.3 Расстояние до объекта</title>
+        <g
+           id="layer1-3"
+           transform="translate(-748.94887,529.57822)" />
+        <g
+           id="text4575"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:151.27168274px;line-height:100%;font-family:'Transport Heavy';-inkscape-font-specification:'Transport Heavy,';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:10.26012993;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           transform="matrix(0.65650617,0,0,0.70900871,-860.08528,399.10943)">
+          <title
+             id="title3006-7">8.1.2 Расстояние до объекта</title>
+          <g
+             id="layer1-20"
+             transform="matrix(1.5232149,0,0,1.4104199,588.73168,466.2789)">
+            <rect
+               id="rect5622"
+               style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.54299998;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
+               x="0"
+               y="352.362"
+               width="700"
+               height="700"
+               rx="45"
+               ry="45" />
+            <rect
+               id="rect9537"
+               style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.54299998;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
+               x="10"
+               y="362.362"
+               width="680"
+               height="680"
+               rx="35"
+               ry="35" />
+            <path
+               d="m 55.5005,770.175 17.5,19.6875 c 5.42313,-5.73554 10.983,-10.9048 16.6797,-15.5078 5.69656,-4.60271 11.8033,-7.03761 18.3203,-7.30468 7.75382,0.26708 13.8866,2.70197 18.3984,7.30469 4.51162,4.603 6.81631,9.77227 6.91407,15.5078 -0.10427,8.48971 -1.84906,15.573 -5.23438,21.25 -3.3855,5.67719 -7.78654,11.5105 -13.2031,17.5 -9.7657,11.6472 -19.8438,22.8842 -30.2344,33.7109 -10.3907,10.8269 -21.5625,21.6732 -33.5156,32.5391 l 0,26.25 105,0 c 2.18738,-5.55989 3.828,-10.8463 4.92188,-15.8594 1.09362,-5.013 1.64049,-9.2057 1.64062,-12.5781 l -72.1875,0 c 11.3541,-11.8098 21.927,-22.6432 31.7188,-32.5 9.79156,-9.8567 18.177,-19.1275 25.1563,-27.8125 5.55978,-6.41918 9.51811,-12.4869 11.875,-18.2031 2.35664,-5.71603 3.50247,-13.815 3.4375,-24.2969 -0.59257,-13.3983 -5.97017,-24.3358 -16.1328,-32.8125 -10.1629,-8.47639 -21.5561,-12.8514 -34.1797,-13.125 -13.0339,0.15643 -24.1537,2.65643 -33.3594,7.5 -9.20577,4.84391 -17.0443,11.0939 -23.5156,18.75 z"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:125%;font-family:'Russian Road Sign';-inkscape-font-specification:'Russian Road Sign';letter-spacing:-13.01000023px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+               id="path10833" />
+            <path
+               d="m 289.748,774.55 8.75,-28.4375 -100.625,0 0,85.3125 19.6875,10.9375 c 2.18745,-1.50383 5.4687,-3.96477 9.84375,-7.38282 4.37495,-3.41788 9.84369,-5.33193 16.4063,-5.74218 9.88925,0.41025 17.4543,3.96494 22.6953,10.6641 5.24079,6.69929 7.88402,14.0821 7.9297,22.1484 -0.54698,10.9375 -4.92197,19.1407 -13.125,24.6094 -8.20321,5.46878 -16.9532,8.20315 -26.25,8.20312 -7.35682,0.0847 -14.7527,-0.47523 -22.1875,-1.67969 -7.43492,-1.2044 -13.8933,-3.56116 -19.375,-7.07031 l 4.375,28.4375 c 0.50129,0.3646 4.96743,1.82293 13.3984,4.375 8.43095,2.55208 17.819,4.01041 28.1641,4.375 21.009,-0.45573 37.5064,-6.65364 49.4922,-18.5938 11.9855,-11.9401 18.0923,-26.888 18.3203,-44.8438 -0.68373,-17.5911 -6.42591,-31.0806 -17.2266,-40.4688 -10.8009,-9.38792 -22.5587,-14.1275 -35.2734,-14.2188 -5.14982,-0.091 -10.3191,0.63814 -15.5078,2.1875 -5.18886,1.54959 -9.49875,4.46626 -12.9297,8.75 l 0,-41.5625 z"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:125%;font-family:'Russian Road Sign';-inkscape-font-specification:'Russian Road Sign';letter-spacing:-13.01000023px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+               id="path10835" />
+            <path
+               d="m 393.355,743.925 c -17.7735,0.4559 -31.9922,8.84131 -42.6563,25.1563 -10.6641,16.3152 -16.1328,37.8256 -16.4063,64.5313 0.27342,26.7058 5.74216,48.2162 16.4063,64.5313 10.664,16.3151 24.8827,24.7005 42.6563,25.1563 17.7733,-0.45573 31.9921,-8.84114 42.6563,-25.1563 10.6639,-16.3151 16.1327,-37.8255 16.4063,-64.5313 -0.27357,-25.4751 -5.74232,-46.634 -16.4063,-63.4766 -10.6642,-16.8423 -24.8829,-25.5793 -42.6563,-26.2109 z m 0,27.1875 c 8.56762,-0.13006 15.4166,4.81785 20.5469,14.8438 5.1301,10.0262 7.76031,25.9116 7.89062,47.6563 -0.13032,21.7449 -2.76052,37.6303 -7.89063,47.6563 -5.1303,10.0261 -11.9792,14.974 -20.5469,14.8438 -8.56778,0.13023 -15.4167,-4.81768 -20.5469,-14.8438 -5.13026,-10.026 -7.76046,-25.9114 -7.89062,-47.6563 0.13016,-21.7447 2.76036,-37.6301 7.89063,-47.6563 5.13014,-10.0259 11.9791,-14.9738 20.5469,-14.8438 z"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:125%;font-family:'Russian Road Sign';-inkscape-font-specification:'Russian Road Sign';letter-spacing:-13.01000023px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+               id="path10837" />
+            <g
+               id="text10725"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:312.5px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:-19.68000031px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none">
+              <path
+                 id="path10824"
+                 style="font-family:'Russian Road Sign';-inkscape-font-specification:'Russian Road Sign';fill:#000000"
+                 d="m 56.5483,632.362 c 0.119568,0.37811 3.14425,3.02472 9.07407,7.93982 5.92974,4.91513 14.047,9.83025 24.3519,14.7454 10.3047,4.91512 22.0794,7.56172 35.3241,7.93982 21.966,-0.91146 38.7369,-7.29167 50.3125,-19.1406 11.5754,-11.8489 17.4087,-23.6979 17.5,-35.5469 -0.18245,-13.1705 -4.73974,-24.0168 -13.6719,-32.5391 -8.93243,-8.52205 -21.146,-14.4465 -36.6406,-17.7734 -12.4415,-2.23297 -23.1056,-4.95433 -31.9922,-8.16407 -8.8868,-3.20953 -13.5352,-8.509 -13.9453,-15.8984 -0.273501,-4.92175 1.914,-10.3905 6.5625,-16.4063 4.64836,-6.01548 13.3983,-9.29673 26.25,-9.84374 13.1249,0.72931 22.9686,3.64598 29.5313,8.75 6.56236,5.1043 9.84361,8.02096 9.84375,8.75 l 19.6875,-21.875 c -0.54703,-1.00245 -6.56265,-5.01287 -18.0469,-12.0313 -11.4845,-7.01805 -25.1564,-11.0285 -41.0156,-12.0312 -18.9128,0.36476 -34.1342,5.65122 -45.6641,15.8594 -11.53,10.2085 -17.4545,23.1512 -17.7734,38.8281 -0.865922,8.15766 1.9596,16.9988 8.47657,26.5234 6.51688,9.52483 21.9205,16.7253 46.2109,21.6016 14.3575,2.59074 24.2881,5.6733 29.7917,9.24768 5.50335,3.57452 8.5589,7.0969 9.16667,10.5671 0.6075,3.47035 0.74639,6.34458 0.41667,8.62269 0.31888,3.87374 -1.95976,8.70446 -6.83593,14.4922 -4.87643,5.78779 -14.2644,8.97789 -28.1641,9.57032 -15.3647,-0.83331 -27.0574,-4.16664 -35.0781,-10 -8.02089,-5.8333 -12.0573,-9.16663 -12.1094,-10 z" />
+              <path
+                 id="path10826"
+                 style="font-family:'Russian Road Sign';-inkscape-font-specification:'Russian Road Sign';fill:#000000"
+                 d="m 212.767,483.612 0,26.25 48.125,0 0,148.75 30.625,0 0,-148.75 48.125,0 0,-26.25 z" />
+              <path
+                 id="path10828"
+                 style="font-family:'Russian Road Sign';-inkscape-font-specification:'Russian Road Sign';fill:#000000"
+                 d="m 431.284,479.237 c -24.0235,0.66423 -41.9141,9.6486 -53.6719,26.9531 -11.7578,17.3048 -17.6172,38.9454 -17.5781,64.9219 -0.0391,25.9766 5.82029,47.6172 17.5781,64.9219 11.7578,17.3047 29.6484,26.2891 53.6719,26.9531 24.0233,-0.66407 41.9139,-9.64844 53.6719,-26.9531 11.7577,-17.3046 17.617,-38.9453 17.5781,-64.9219 0.0389,-25.9765 -5.82047,-47.6171 -17.5781,-64.9219 C 473.198,488.8856 455.3073,479.9012 431.284,479.237 Z m 0,28.4375 c 12.259,0.18244 22.1939,5.83348 29.8047,16.9531 7.61055,11.1199 11.5298,26.6147 11.7578,46.4844 -0.228,19.8699 -4.14726,35.3646 -11.7578,46.4844 -7.61079,11.1198 -17.5457,16.7709 -29.8047,16.9531 -12.2592,-0.18227 -22.1941,-5.83331 -29.8047,-16.9531 -7.61073,-11.1197 -11.53,-26.6145 -11.7578,-46.4844 0.22782,-19.8697 4.14709,-35.3645 11.7578,-46.4844 7.61061,-11.1196 17.5455,-16.7707 29.8047,-16.9531 z" />
+              <path
+                 id="path10830"
+                 style="font-family:'Russian Road Sign';-inkscape-font-specification:'Russian Road Sign';fill:#000000"
+                 d="m 531.877,483.612 0,175 30.625,0 0,-61.25 28.4375,0 c 17.7733,-1.00254 31.9921,-7.74733 42.6563,-20.2344 10.6639,-12.4869 16.1327,-24.7004 16.4063,-36.6406 0.2733,-11.94 -4.1017,-24.1535 -13.125,-36.6406 -9.02356,-12.4868 -24.3361,-19.2316 -45.9375,-20.2344 z m 30.625,26.25 19.6875,0 c 9.1145,-0.091 17.1353,2.2788 24.0625,7.10938 6.92697,4.83086 10.5728,12.6694 10.9375,23.5156 -0.36469,10.8465 -4.01052,18.685 -10.9375,23.5156 -6.92718,4.83081 -14.948,7.2006 -24.0625,7.10938 l -19.6875,0 z" />
+            </g>
+          </g>
+          <path
+             id="path4582"
+             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'Russian Road Sign';-inkscape-font-specification:'Russian Road Sign Medium';stroke:#000000;stroke-width:10.26012993;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 1582.8073,1754.4189 -24.6303,0 0,-84.2286 q 0,-9.5353 -0.9172,-18.4083 -0.7859,-8.8733 -3.5373,-14.1706 -3.0132,-5.6947 -8.6468,-8.6083 -5.6336,-2.9135 -16.2456,-2.9135 -10.3501,0 -20.6999,5.2973 -10.35,5.165 -20.7001,13.2436 0.3932,3.0459 0.6551,7.1515 0.262,3.973 0.262,7.946 l 0,94.6909 -24.6303,0 0,-84.2286 q 0,-9.8001 -0.9172,-18.5409 -0.786,-8.873 -3.5373,-14.1705 -3.0132,-5.6947 -8.6469,-8.4758 -5.6335,-2.9135 -16.2455,-2.9135 -10.0879,0 -20.307,5.0324 -10.0878,5.0326 -20.1759,12.8462 l 0,110.4507 -24.6304,0 0,-147.9296 24.6304,0 0,16.4218 q 11.5292,-9.6677 22.9273,-15.0976 11.5291,-5.4298 24.4993,-5.4298 14.9355,0 25.2853,6.357 10.4812,6.3568 15.5907,17.6137 14.9355,-12.7137 27.2506,-18.276 12.3151,-5.6947 26.3335,-5.6947 24.1063,0 35.5044,14.8328 11.5291,14.7002 11.5291,41.1871 l 0,96.0153 z" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

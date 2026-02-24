@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 47.813985 74.6503"
+   height="74.650299mm"
+   width="47.813984mm">
+  <title
+     id="title4842">Autostrada</title>
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Autostrada</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-12.284225,-11.627975)"
+     id="layer1">
+    <rect
+       y="11.627975"
+       x="12.284225"
+       height="74.650299"
+       width="47.813984"
+       id="rect4496"
+       style="opacity:1;fill:#3d5384;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       transform="scale(0.26458333)"
+       id="path4631"
+       d="M 124.43945,179.66211 H 105.6582 L 91.166016,301.26562 h 31.123044 z"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       transform="scale(0.26458333)"
+       id="path4615"
+       d="m 120.20898,57.566406 -11.33789,95.132814 h 16.04493 l 1.68359,-95.132814 z"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       transform="scale(0.26458333)"
+       id="path4637"
+       d="m 159.63086,179.66211 h -19.82617 l 2.15039,121.60351 h 30.78125 z"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       transform="scale(0.26458333)"
+       id="path4568"
+       d="m 137.64453,57.566406 1.68359,95.132814 h 17.39649 L 146.47266,57.566406 Z"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       id="path4642"
+       d="m 15.30118,42.130133 h 41.179076 l 0.0036,1.035231 H 47.47375 l 0.5362,3.733202 -3.392643,0.0057 0.05011,-3.738907 H 25.418899 l 0.586619,3.741773 -3.610429,-0.005 0.165365,-3.736814 H 15.30118 Z"
+       style="opacity:1;fill:#ffffff;stroke:#ffffff;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  </g>
+</svg>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="Latvia_road_sign_735.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   id="svg3845"
+   version="1.1"
+   viewBox="0 0 194.99998 286.7586"
+   height="286.75861mm"
+   width="194.99998mm">
+  <defs
+     id="defs3839" />
+  <sodipodi:namedview
+     inkscape:document-rotation="0"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-9"
+     inkscape:window-x="-9"
+     inkscape:window-height="1001"
+     inkscape:window-width="1920"
+     showgrid="false"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="313.37402"
+     inkscape:cx="45.725306"
+     inkscape:zoom="0.26129288"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata3842">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-1284.7957,517.82074)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <path
+       id="path871"
+       style="fill:#ffdd2e;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.863981;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:22.926;stroke-dasharray:none;stroke-opacity:1"
+       d="m 1297.9399,-517.38875 h 168.7131 c 6.9911,0 12.7107,5.79217 12.7107,12.87333 v 260.148 c 0,7.08117 -5.7196,12.87329 -12.7107,12.87329 h -168.7131 c -6.9912,0 -12.7122,-5.79212 -12.7122,-12.87329 v -260.148 c 0,-7.08116 5.721,-12.87333 12.7122,-12.87333 z" />
+    <path
+       id="path873"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.72796"
+       d="m 1299.9187,-506.81878 h 164.1892 c 2.0249,0 3.6702,1.645 3.6702,3.66843 v 256.92364 c 0,2.03381 -1.6453,3.67881 -3.6702,3.67881 h -164.1892 c -2.0253,0 -3.6701,-1.645 -3.6701,-3.67881 v -256.92364 c 0,-2.02343 1.6448,-3.66843 3.6701,-3.66843 z m 0.1127,-5.36534 h 164.5173 c 4.8208,0 8.7472,3.93631 8.7472,8.7677 v 257.95 c 0,4.8314 -3.9264,8.76765 -8.7472,8.76765 h -164.5173 c -4.811,0 -8.7383,-3.93625 -8.7383,-8.76765 v -257.95 c 0,-4.83139 3.9273,-8.7677 8.7383,-8.7677" />
+    <path
+       id="path875"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.72796"
+       d="m 1333.1924,-251.23954 v -64.73635 c 0.8743,-10.95526 3.0878,-21.09318 10.3709,-29.95071 l 40.1771,-40.46716 -13.1981,-7.28331 41.5452,-11.85726 -11.0713,41.54533 -7.838,-13.75285 -36.4457,36.59306 c -7.1386,7.3127 -8.7403,15.23714 -9.5284,25.1729 v 64.73635 h -14.0117" />
+    <path
+       id="path877"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.72796"
+       d="m 1370.2793,-414.74091 -0.059,-82.15939 h 24.6187 v 82.15939 h -24.5599" />
+    <path
+       id="path879"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.72796"
+       d="m 1370.2347,-251.22744 v -82.18873 h 24.6182 v 82.15934 l -24.6182,0.0294" />
+    <path
+       id="path881"
+       style="fill:#ed1a3a;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.72796"
+       d="m 1332.2074,-462.45514 c 12.9977,0 23.5934,10.59589 23.5934,23.59188 0,12.99251 -10.5957,23.59359 -23.5934,23.59359 -12.9963,0 -23.592,-10.60108 -23.592,-23.59359 0,-12.99599 10.5957,-23.59188 23.592,-23.59188" />
+    <path
+       id="path883"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.72796"
+       d="m 1312.1872,-433.7727 c -1.5675,-3.31076 -1.4876,-6.94985 -0.049,-10.01526 l 40.0645,-0.0245 c 1.4513,3.34015 1.3651,7.21768 -0.049,10.02216 l -39.9989,0.0196" />
+  </g>
+</svg>

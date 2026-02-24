@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1001"
+   height="667.66711"
+   viewBox="0 0 938.4375 625.9379"
+   id="svg4203"
+   version="1.1"
+   sodipodi:docname="Estonia_road_sign_611.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview24409"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="0.75532894"
+     inkscape:cx="172.77241"
+     inkscape:cy="317.0804"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4203" />
+  <defs
+     id="defs4205" />
+  <metadata
+     id="metadata4208">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="g25677"
+     transform="matrix(2.6666667,0,0,2.6666667,187.84426,32.721793)">
+    <g
+       id="g23645"
+       transform="matrix(0,3.7761247,-3.7761247,0,60.058824,-1859.7933)">
+      <path
+         id="rect18002-1-9"
+         style="opacity:1;fill:#00a7d1;fill-opacity:1;stroke:none;stroke-width:0.0931014;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+         d="m 551.37839,-58.588599 h -62.06761 l -3e-5,93.1014 h 62.0676 z"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         id="rect18004-1-00"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:0.679658"
+         d="m 489.65507,30.915941 c 0,1.80171 1.45056,3.25273 3.25225,3.25273 h 54.87406 c 1.8017,0 3.25273,-1.45102 3.25273,-3.25273 v -85.90787 c 0,-1.8017 -1.45103,-3.25273 -3.25273,-3.25273 H 492.9078 c -1.80169,0 -3.25272,1.45103 -3.25273,3.25273 z m 1.48235,0.11686 v -86.14304 c 0,-0.91573 0.7373,-1.65158 1.65304,-1.65158 h 55.10827 c 0.91574,0 1.65303,0.73585 1.65303,1.65158 v 86.14304 c 0,0.91575 -0.73729,1.65352 -1.65303,1.65352 h -55.10827 c -0.91574,0 -1.65304,-0.73777 -1.65304,-1.65352 z" />
+    </g>
+    <path
+       id="rect23697"
+       style="fill:#ffffff;fill-rule:evenodd;stroke-width:6.60122;stroke-linecap:square;paint-order:stroke fill markers"
+       d="M 15.870099,-5.7948912 V 137.14348 h -79.766305 v 46.52344 h 79.766305 v 32.13752 h 46.52341 V 183.66692 H 171.49693 v 32.13752 h 46.52341 v -32.13752 h 56.72989 V 137.14348 H 218.02034 V 65.543728 h 56.72989 V 19.020283 H 218.02034 V -5.7948912 H 171.49693 V 19.020283 H 62.393509 V -5.7948912 Z M 62.393509,65.543728 H 171.49693 V 137.14348 H 62.393509 Z"
+       sodipodi:nodetypes="cccccccccccccccccccccccccccccc" />
+    <g
+       id="rect23758"
+       transform="matrix(3.5433071,0,0,3.5433071,-1421.0369,842.34298)">
+      <path
+         id="path24368"
+         style="color:#000000;opacity:1;fill:#000000;fill-rule:evenodd;stroke:none;stroke-linecap:square;-inkscape-stroke:none;paint-order:stroke fill markers"
+         d="m 416.52073,-228.04497 c -3.83246,0 -7.0621,3.23018 -7.0621,7.06261 v 6.00016 17.53484 2.43138 h -13.05295 v -3.81734 l -10.45363,6.13244 10.45363,6.13244 v -3.81733 h 13.05295 v 13.44362 h 4.63021 v -13.44362 h 16.51785 v -0.001 h 20.6897 c 3.83242,0 7.06261,-3.22809 7.06261,-7.06055 v -23.535 c 0,-3.83243 -3.23019,-7.06261 -7.06261,-7.06261 z m 0,4.62969 h 34.77566 c 1.34738,0 2.4324,1.08447 2.4324,2.43189 v 23.53552 c 0,1.34738 -1.08502,2.43189 -2.4324,2.43189 h -20.6897 -16.51785 v -11.33678 -8.62944 -6.00119 c 0,-1.34742 1.08448,-2.43189 2.43189,-2.43189 z" />
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 11.0, SVG Export Plug-In  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN"    "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+	<!ENTITY ns_svg "http://www.w3.org/2000/svg">
+	<!ENTITY ns_xlink "http://www.w3.org/1999/xlink">
+]>
+<svg  xmlns="&ns_svg;" xmlns:xlink="&ns_xlink;" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 width="455" height="494" viewBox="-0.791 -0.61 455 494" xml:space="preserve">
+	<defs>
+	</defs>
+	<g>
+		
+			<rect x="0.088" y="0.088" fill="#62483A" stroke="#62483A" stroke-width="0.1764" stroke-linecap="round" stroke-linejoin="round" width="453.543" height="493.171"/> 
+		<path fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.1764" stroke-linecap="round" stroke-linejoin="round" d="M0.088,28.435
+			v436.479c0,15.654,12.691,28.346,28.347,28.346h396.85c15.655,0,28.347-12.691,28.347-28.346V28.435
+			c0-15.655-12.691-28.347-28.347-28.347H28.435C12.779,0.088,0.088,12.78,0.088,28.435z"/>
+		<path fill="#62483A" stroke="#62483A" stroke-width="0.1764" stroke-linecap="round" stroke-linejoin="round" d="M14.262,28.435
+			v436.479c0,3.758,1.493,7.363,4.151,10.021c2.658,2.658,6.263,4.15,10.022,4.15h396.85c3.759,0,7.364-1.492,10.021-4.15
+			c2.658-2.658,4.152-6.264,4.152-10.021V28.435c0-3.759-1.494-7.364-4.152-10.022c-2.657-2.657-6.263-4.151-10.021-4.151H28.435
+			c-3.759,0-7.364,1.494-10.022,4.151C15.755,21.071,14.262,24.676,14.262,28.435z"/>
+		
+			<rect x="85.128" y="85.127" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.1764" stroke-linecap="round" stroke-linejoin="round" width="283.464" height="283.464"/> 
+		<polygon fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.1764" stroke-linecap="round" stroke-linejoin="round" points="
+			51.914,414.182 51.914,433.223 66.815,433.223 66.815,441.777 43.359,441.777 43.359,414.182 43.359,394.863 51.914,394.863 "/>
+		<path fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.1764" stroke-linecap="round" stroke-linejoin="round" d="M109.407,407.559
+			h-8.555v2.482c-1.229-0.99-2.633-1.738-4.14-2.207c2.553-1.211,4.169-3.797,4.14-6.623c0-4.039-3.274-7.313-7.313-7.313
+			c-4.039,0-7.313,3.273-7.313,7.313c0.016,2.594,1.373,4.996,3.587,6.348c-0.851,0.061-1.687,0.246-2.483,0.551
+			c-3.636,1.58-6.576,4.424-8.279,8.004c-2.099,5.604-2.099,11.779,0,17.385c1.861,4.092,5.372,7.201,9.658,8.555
+			c2.177,0.521,4.446,0.521,6.623,0c2-0.412,3.884-1.26,5.52-2.484v2.209h8.555V407.559z"/>
+		<path fill="#62483A" stroke="#62483A" stroke-width="0.1764" stroke-linecap="round" stroke-linejoin="round" d="M100.852,428.531
+			c-0.771,2.764-2.996,4.883-5.795,5.52c-1.737,0.379-3.554-0.025-4.967-1.105c-1.953-1.588-3.234-3.854-3.587-6.346
+			c-0.183-1.281-0.183-2.582,0-3.863c0.354-2.492,1.635-4.76,3.587-6.348c1.413-1.08,3.23-1.484,4.967-1.104
+			c2.799,0.635,5.024,2.754,5.795,5.52V428.531z"/>
+		
+			<circle fill="#62483A" stroke="#62483A" stroke-width="0.1764" stroke-linecap="round" stroke-linejoin="round" cx="93.539" cy="401.211" r="2.897"/> 
+		<path fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.1764" stroke-linecap="round" stroke-linejoin="round" d="M124.858,441.777
+			h8.555V421.08c0-2.973,2.409-5.381,5.381-5.381s5.381,2.408,5.381,5.381v20.697h8.555v-22.49
+			c-0.076-4.543-2.632-8.682-6.662-10.783s-8.886-1.83-12.656,0.709v-1.654h-8.555V441.777z"/>
+		<path fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.1764" stroke-linecap="round" stroke-linejoin="round" d="M189.153,442.328
+			v-3.586c-1.45,1.131-3.156,1.889-4.967,2.207c-2.083,0.521-4.263,0.521-6.347,0c-4.286-1.354-7.797-4.463-9.658-8.555
+			c-2.099-5.225-2.099-11.059,0-16.281c1.703-3.58,4.644-6.424,8.279-8.004c2.466-0.936,5.152-1.127,7.727-0.551
+			c1.852,0.357,3.57,1.217,4.967,2.482v-2.482h8.555v34.77c0.279,4.557-2.388,8.781-6.623,10.486
+			c-3.083,1.197-6.352,1.852-9.658,1.932c-4.549,0.227-9.088-0.623-13.246-2.482l3.587-7.176c3.164,1.582,6.675,2.342,10.21,2.209
+			c1.417-0.035,2.818-0.316,4.139-0.828C187.813,445.75,188.979,444.162,189.153,442.328z"/>
+		<path fill="#62483A" stroke="#62483A" stroke-width="0.1764" stroke-linecap="round" stroke-linejoin="round" d="M189.153,428.807
+			c-0.553,2.633-2.61,4.689-5.243,5.242c-1.737,0.381-3.554-0.023-4.967-1.104c-1.877-1.611-3.063-3.885-3.312-6.346
+			c-0.183-0.912-0.183-1.85,0-2.76c0.249-2.463,1.434-4.734,3.312-6.348c1.413-1.08,3.23-1.484,4.967-1.104
+			c2.667,0.672,4.708,2.82,5.243,5.52V428.807z"/>
+		<path fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.1764" stroke-linecap="round" stroke-linejoin="round" d="M216.169,424.834
+			c-0.131,5.754,2.545,11.209,7.175,14.627c2.797,2.049,6.193,3.115,9.659,3.035c4.543,0.096,8.982-1.363,12.581-4.139l-4.968-6.9
+			c-2.538,2.219-5.962,3.137-9.269,2.484c-3.413-0.822-5.948-3.688-6.348-7.176h24.008v-2.736
+			c-0.123-5.469-2.773-10.572-7.174-13.82c-2.684-1.965-5.92-3.029-9.245-3.039c-3.325,0.01-6.562,1.074-9.245,3.039
+			C218.715,413.627,216.039,419.082,216.169,424.834z"/>
+		<path fill="#62483A" stroke="#62483A" stroke-width="0.1764" stroke-linecap="round" stroke-linejoin="round" d="M239.902,421.248
+			c-0.584-3.586-3.681-6.221-7.313-6.221c-3.632,0-6.729,2.635-7.313,6.221H239.902z"/>
+		<polygon fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.1764" stroke-linecap="round" stroke-linejoin="round" points="
+			284.076,394.863 309.741,394.863 309.741,403.418 292.632,403.418 292.632,412.801 306.981,412.801 306.981,421.355 
+			292.632,421.355 292.632,433.223 309.741,433.223 309.741,441.777 284.076,441.777 284.076,414.182 "/>
+		<path fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.1764" stroke-linecap="round" stroke-linejoin="round" d="M324.088,441.777
+			h8.555v-17.109c0.436-3.111,2.264-5.854,4.968-7.451c1.481-0.945,3.211-1.426,4.968-1.381c1.04-0.041,2.076,0.148,3.035,0.553
+			v-8.83c-4.482-0.836-9.113,0.051-12.971,2.482v-2.482h-8.555V441.777z"/>
+		
+			<circle fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.1764" stroke-linecap="round" stroke-linejoin="round" cx="361.754" cy="398.727" r="5.381"/> 
+		
+			<rect x="357.477" y="407.559" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.1764" stroke-linecap="round" stroke-linejoin="round" width="8.555" height="34.219"/> 
+		<polygon fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.1764" stroke-linecap="round" stroke-linejoin="round" points="
+			390.036,419.398 390.036,394.863 381.481,394.863 381.481,441.777 390.036,441.777 390.036,431.566 393.369,428.195 
+			402.802,441.777 413.217,441.777 399.486,422.006 413.769,407.559 401.74,407.559 "/>
+		
+			<rect x="156.23" y="145.703" fill="#62483A" stroke="#62483A" stroke-width="0.1764" stroke-linecap="round" stroke-linejoin="round" width="51.305" height="1.418"/> 
+		
+			<rect x="152.776" y="134.124" fill="#62483A" stroke="#62483A" stroke-width="0.1764" stroke-linecap="round" stroke-linejoin="round" width="54.544" height="1.417"/> 
+		
+			<rect x="151.356" y="120.954" fill="#62483A" stroke="#62483A" stroke-width="0.1764" stroke-linecap="round" stroke-linejoin="round" width="56.799" height="1.416"/> 
+		
+			<rect x="249.117" y="145.703" fill="#62483A" stroke="#62483A" stroke-width="0.1764" stroke-linecap="round" stroke-linejoin="round" width="51.306" height="1.418"/> 
+		
+			<rect x="249.332" y="134.124" fill="#62483A" stroke="#62483A" stroke-width="0.1764" stroke-linecap="round" stroke-linejoin="round" width="54.544" height="1.417"/> 
+		
+			<rect x="248.497" y="120.954" fill="#62483A" stroke="#62483A" stroke-width="0.1764" stroke-linecap="round" stroke-linejoin="round" width="56.8" height="1.416"/> 
+		<path fill="#62483A" stroke="#62483A" stroke-width="0.1764" stroke-linecap="round" stroke-linejoin="round" d="M261.299,283.842
+			c-1.745,0.264-3.492,0.506-5.242,0.727l-8.628-132.285c-2.594,0.57-5.212,1.023-7.846,1.359l-2.303-35.308l-2.356-3.829
+			l-6.598-2.308l-6.598,2.308l-2.356,3.829l-2.303,35.308c-2.634-0.336-5.252-0.789-7.846-1.359l-8.627,132.285
+			c-1.75-0.221-3.498-0.463-5.242-0.727l-2.088,32.016l-24.321,1.336l-30.614-3.43h-12.14v4.252h11.903l30.73,3.443l24.164-1.328
+			l-1.079,16.535c24.17,3.244,48.665,3.244,72.834,0l-1.147-17.584l35.553,3.475l21.334-5.744l-1.105-4.105l-20.586,5.543
+			l-35.475-3.469L261.299,283.842z"/>
+	</g>
+</svg>

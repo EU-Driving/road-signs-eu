@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Road signs – Vienna Convention</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="header">
+    <div class="header-inner">
+      <img src="EU.svg" alt="European Union flag" class="header-flag" width="48" height="32">
+      <div class="header-text">
+        <h1>Road signs</h1>
+        <p class="subtitle" id="categorySubtitle">Vienna Convention</p>
+      </div>
+    </div>
+  </header>
+
+  <main class="main">
+    <div class="main-inner">
+      <section class="controls">
+        <div class="control-group category-select">
+          <label for="categorySelect">Category</label>
+          <select id="categorySelect" aria-label="Choose sign category">
+            <option value="">Loading…</option>
+          </select>
+        </div>
+        <div class="control-group">
+          <label class="toggle-label">
+            <input type="checkbox" id="mergeVersions" checked>
+            <span class="toggle-text">Merge versions</span>
+          </label>
+          <p class="control-hint">One row per sign (otherwise one row per declination)</p>
+        </div>
+        <div class="control-group">
+          <label class="toggle-label">
+            <input type="checkbox" id="onePerCell" checked>
+            <span class="toggle-text">One sign per cell</span>
+          </label>
+          <p class="control-hint">Single image per cell (otherwise all variants in the same cell)</p>
+        </div>
+        <div class="control-group api-url" style="display:none;">
+          <label for="apiBase">API URL</label>
+          <input type="text" id="apiBase" value="" placeholder="empty = this site">
+        </div>
+      </section>
+
+      <section class="status" id="status" aria-live="polite"></section>
+
+      <section class="table-section">
+        <div class="table-wrap" id="tableWrap" aria-label="Table with horizontal scroll">
+          <table class="signs-table" id="signsTable">
+            <thead id="tableHead"></thead>
+            <tbody id="tableBody"></tbody>
+          </table>
+        </div>
+        <div class="scroll-hint" id="scrollHint" aria-hidden="true"></div>
+      </section>
+    </div>
+  </main>
+
+  <footer class="footer">
+    <p>Data and images via API – Vienna Convention on Road Signs and Signals</p>
+  </footer>
+
+  <div id="signModal" class="modal" role="dialog" aria-modal="true" aria-labelledby="signModalTitle" hidden>
+    <div class="modal-backdrop"></div>
+    <div class="modal-content modal-content--wide">
+      <div class="modal-header">
+        <h2 id="signModalTitle" class="modal-title">Sign details</h2>
+        <button type="button" class="modal-close" aria-label="Close">&times;</button>
+      </div>
+      <div class="modal-body" id="signModalBody">
+        <p class="modal-loading">Loading…</p>
+      </div>
+      <div class="modal-footer" id="signModalFooter" style="display:none;"></div>
+    </div>
+  </div>
+
+  <script src="js/config.js"></script>
+  <script src="js/utils.js"></script>
+  <script src="js/api.js"></script>
+  <script src="js/composite.js"></script>
+  <script src="js/table.js"></script>
+  <script src="js/modal.js"></script>
+  <script src="js/main.js"></script>
+</body>
+</html>

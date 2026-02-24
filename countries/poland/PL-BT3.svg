@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="262"
+   height="262"
+   id="svg4930">
+  <title
+     id="title5016">Znak BT-3</title>
+  <defs
+     id="defs4932" />
+  <g
+     transform="translate(-58.89291,-305.10052)"
+     id="layer1">
+    <rect
+       width="262"
+       height="261.10483"
+       rx="2.1834012e-07"
+       ry="0"
+       x="58.89291"
+       y="305.9957"
+       id="rect4994"
+       style="fill:#d40000;fill-opacity:1;stroke:none" />
+    <rect
+       width="209.66887"
+       height="208.91141"
+       rx="2.1834012e-07"
+       ry="0"
+       x="85.058517"
+       y="332.5744"
+       id="rect4996"
+       style="fill:#ffffff;fill-opacity:1;stroke:none" />
+    <g
+       transform="matrix(0.54531775,0,0,0.54531775,-34.41145,310.83445)"
+       id="g4998"
+       style="font-size:281.88085938px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;opacity:0.5;fill:#000000;fill-opacity:1;stroke:none;font-family:Drogowskaz;-inkscape-font-specification:Drogowskaz Bold" />
+    <g
+       transform="matrix(0.49502993,0,0,0.49502993,29.739157,286.36879)"
+       id="text5009"
+       style="font-size:377.03036499px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Drogowskaz;-inkscape-font-specification:Drogowskaz Bold">
+      <path
+         d="m 355.39426,277.0062 -73.67556,0 0,-70.69347 73.67556,0 c 4.23872,4.72922 7.54112,10.0961 9.90723,16.10066 2.36578,6.00499 3.56771,12.42035 3.60582,19.24608 -0.0382,6.82586 -1.24025,13.24114 -3.60625,19.24585 -2.36634,6.00507 -5.6686,11.37202 -9.9068,16.10088 z m 29.05973,164.96522 c 13.26485,-9.20488 23.76603,-20.93646 31.50357,-35.19478 7.73711,-14.25825 11.69076,-30.02315 11.86097,-47.29474 -0.0726,-12.93342 -2.35651,-25.08633 -6.85182,-36.45875 -4.49576,-11.37219 -10.76887,-21.52992 -18.81933,-30.47323 4.43835,-7.48552 7.85598,-15.51003 10.2529,-24.07357 2.39649,-8.56319 3.60849,-17.50214 3.636,-26.81688 -0.17005,-17.26687 -4.12176,-33.02816 -11.85514,-47.28392 -7.7338,-14.25527 -18.23024,-25.98586 -31.48937,-35.19179 l -138.10204,0 0,282.78766 149.86426,0 z M 281.7187,324.13517 l 85.45956,0 c 4.23812,4.72914 7.54009,10.0961 9.90592,16.10088 2.36547,6.00499 3.56726,12.42027 3.60537,19.24585 -0.0381,6.82546 -1.23989,13.2406 -3.60537,19.24543 -2.36582,6.00496 -5.66779,11.37205 -9.90592,16.10131 l -85.45956,0 0,-70.69347 z"
+         id="path5014" />
+    </g>
+  </g>
+</svg>

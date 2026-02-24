@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   id="svg2"
+   viewBox="0 0 599.99998 299.99998"
+   height="84.666664mm"
+   width="169.33333mm">
+  <defs
+     id="defs4">
+    <clipPath
+       id="clipPath13619"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path13621"
+         d="m 60.025,220.275 105.35,0 0,-129.6 -105.35,0 0,129.6 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath13627"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path13629"
+         d="m 60.025,90.675 105.35,0 0,129.6 -105.35,0 0,-129.6 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath13635"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path13637"
+         d="m 60.025,220.275 105.35,0 0,-129.6 -105.35,0 0,129.6 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath13645"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path13647"
+         d="m -0.569,-0.7 5.381,0 0,6.34301 -5.381,0 0,-6.34301 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath13653"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path13655"
+         d="M 0,1 1,1 1,0 0,0 0,1 Z" />
+    </clipPath>
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(6239.3427,1717.8523)"
+     id="layer1">
+    <title
+       id="title3002">6.17 Схема объезда</title>
+    <g
+       id="layer1-0"
+       transform="translate(-603.23571,356.76449)">
+      <title
+         id="title3006">6.8.2 Тупик</title>
+      <g
+         id="layer1-5"
+         transform="matrix(0.33107699,0,0,0.33107699,-64.237582,-1276.186)" />
+      <title
+         id="title3002-4">7.3 Автозаправочная станция</title>
+      <g
+         id="layer1-2"
+         transform="translate(-5453.8586,-3424.0205)">
+        <title
+           id="title3002-8">7.4 Техническое обслуживание автомобилей</title>
+        <g
+           id="layer1-02"
+           transform="translate(-706.96832,947.61775)" />
+        <g
+           id="text4182"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:302.53543091px;line-height:100%;font-family:'Transport Heavy';-inkscape-font-specification:'Transport Heavy,';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           transform="scale(0.96186318,1.0396489)" />
+        <title
+           id="title3006-3">8.1.1 Расстояние до объекта</title>
+        <g
+           id="layer1-4"
+           transform="translate(-182.24836,597.04167)">
+          <path
+             id="rect5622"
+             d="m 45,752.362 510,0 c 24.93,0 45,20.07 45,45 l 0,210 c 0,24.93 -20.07,45 -45,45 l -510,0 c -24.93,0 -45,-20.07 -45,-45 l 0,-210 c 0,-24.93 20.07,-45 45,-45 z"
+             style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.54299998;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate" />
+          <path
+             id="rect9537"
+             d="m 45,762.362 510,0 c 19.39,0 35,15.61 35,35 l 0,210 c 0,19.39 -15.61,35 -35,35 l -510,0 c -19.39,0 -35,-15.61 -35,-35 l 0,-210 c 0,-19.39 15.61,-35 35,-35 z"
+             style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.54299998;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate" />
+        </g>
+        <g
+           id="text4569"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:232.63241577px;line-height:100%;font-family:'Transport Heavy';-inkscape-font-specification:'Transport Heavy,';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1">
+          <path
+             id="path4585"
+             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'Russian Road Sign';-inkscape-font-specification:'Russian Road Sign Medium'"
+             d="m -64.760431,1437.2818 -63.508649,84.6782 0,19.5411 61.880222,0 0,26.0548 22.797976,0 0,-26.0548 8.840032,0 7.444238,-19.5411 -17.912696,0 0,-84.6782 -19.541123,0 z m -1.628427,34.1969 0,50.4813 -37.453822,0 37.453822,-50.4813 z" />
+          <path
+             id="path4587"
+             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'Russian Road Sign';-inkscape-font-specification:'Russian Road Sign Medium'"
+             d="m 39.171732,1435.6533 c -26.054831,0 -43.9675271,27.6833 -43.9675271,66.7655 0,39.0823 17.9126961,66.7655 43.9675271,66.7655 26.05483,0 43.967526,-27.6832 43.967526,-66.7655 0,-36.9885 -17.912696,-66.7655 -43.967526,-66.7655 z m 0,20.239 c 12.56215,0 21.169549,13.958 21.169549,46.5265 0,32.5686 -8.607399,46.5265 -21.169549,46.5265 -12.562151,0 -21.16955,-13.9579 -21.16955,-46.5265 0,-32.5685 8.607399,-46.5265 21.16955,-46.5265 z" />
+          <path
+             id="path4589"
+             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'Russian Road Sign';-inkscape-font-specification:'Russian Road Sign Medium'"
+             d="m 156.39665,1435.6533 c -26.05483,0 -43.96752,27.6833 -43.96752,66.7655 0,39.0823 17.91269,66.7655 43.96752,66.7655 26.05483,0 43.96753,-27.6832 43.96753,-66.7655 0,-36.9885 -17.9127,-66.7655 -43.96753,-66.7655 z m 0,20.239 c 12.56215,0 21.16955,13.958 21.16955,46.5265 0,32.5686 -8.6074,46.5265 -21.16955,46.5265 -12.56215,0 -21.16955,-13.9579 -21.16955,-46.5265 0,-32.5685 8.6074,-46.5265 21.16955,-46.5265 z" />
+        </g>
+        <g
+           id="text4575"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:151.27168274px;line-height:100%;font-family:'Transport Heavy';-inkscape-font-specification:'Transport Heavy,';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:7;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           transform="scale(0.95849093,1.0433067)">
+          <path
+             id="path4582"
+             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'Russian Road Sign';-inkscape-font-specification:'Russian Road Sign Medium';stroke:#000000;stroke-width:7;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 383.57322,1500.5713 -13.88627,0 0,-46.977 q 0,-5.3181 -0.51704,-10.2669 -0.44318,-4.9489 -1.99431,-7.9034 -1.69885,-3.1761 -4.87496,-4.8011 -3.17612,-1.625 -9.15903,-1.625 -5.83519,0 -11.67038,2.9545 -5.83518,2.8807 -11.67037,7.3864 0.22159,1.6988 0.36932,3.9886 0.14772,2.2159 0.14772,4.4318 l 0,52.8121 -13.88627,0 0,-46.977 q 0,-5.4658 -0.51704,-10.3408 -0.44318,-4.9488 -1.9943,-7.9034 -1.69885,-3.1761 -4.87497,-4.7272 -3.17611,-1.625 -9.15903,-1.625 -5.68746,0 -11.44878,2.8068 -5.68746,2.8068 -11.37492,7.1647 l 0,61.6019 -13.88627,0 0,-82.5051 13.88627,0 0,9.159 q 6.49995,-5.392 12.92605,-8.4204 6.49995,-3.0284 13.8124,-3.0284 8.4204,0 14.25558,3.5455 5.90905,3.5454 8.78972,9.8237 8.42039,-7.0908 15.36353,-10.1931 6.94313,-3.1761 14.84648,-3.1761 13.59082,0 20.01691,8.2727 6.49996,8.1988 6.49996,22.9714 l 0,53.5508 z" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

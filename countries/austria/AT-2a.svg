@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="1000.0001"
+   height="874.92786"
+   id="svg2389"
+   sodipodi:version="0.32"
+   inkscape:version="0.44"
+   sodipodi:docname="Gefahrenzeichen_2a.svg"
+   sodipodi:docbase="C:\Dokumente und Einstellungen\cfaerber\Desktop\AT-StVZO">
+  <metadata
+     id="metadata11">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:window-height="480"
+     inkscape:window-width="640"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     inkscape:zoom="0.43089267"
+     inkscape:cx="500.00006"
+     inkscape:cy="437.46393"
+     inkscape:current-layer="svg2389" />
+  <defs
+     id="defs2391">
+    <clipPath
+       id="id24">
+      <path
+         d="M 166.82,699.28 L 248.72,699.28 L 248.72,627.28 L 166.82,627.28 L 166.82,699.28 z "
+         id="path12" />
+    </clipPath>
+  </defs>
+  <path
+     style="fill:#ee1c23;fill-rule:nonzero;stroke:none"
+     d="M 474.44951,18.263384 C 488.48287,-6.0882505 511.46449,-6.0882505 525.51019,18.263384 L 994.00453,830.63044 C 1008.0502,854.98208 996.55941,874.91512 968.48036,874.91512 L 31.528713,874.92746 C 3.4496618,874.92746 -8.0534922,855.00676 5.9922045,830.65513 L 474.44951,18.263384 z "
+     id="path1881" />
+  <path
+     style="fill:white;fill-rule:nonzero;stroke:none"
+     d="M 160.84046,770.74492 L 839.15627,770.73258 L 499.98602,182.59063 L 160.84046,770.74492"
+     id="path231" />
+  <path
+     id="path233"
+     style="fill:black;fill-rule:nonzero;stroke:none"
+     d="M 614.37649,473.73741 L 580.99019,435.16729 L 566.73468,435.16729 C 463.23098,435.16729 379.32709,519.18227 379.32709,622.80939 L 379.32709,735.03919 L 417.84784,703.80047 L 456.44264,735.03919 L 456.44264,622.80939 C 456.44264,561.81306 505.82474,512.38159 566.73468,512.38159 L 580.99019,512.38159 L 614.37649,473.73741" />
+</svg>

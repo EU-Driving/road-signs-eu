@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 11.0, SVG Export Plug-In  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="512"
+   height="332"
+   viewBox="-0.556 -0.748 512 332"
+   xml:space="preserve"
+   id="svg2854"
+   version="1.1"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="11_13_5.svg"><metadata
+   id="metadata2876"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1440"
+   inkscape:window-height="853"
+   id="namedview2874"
+   showgrid="false"
+   inkscape:snap-grids="true"
+   inkscape:snap-to-guides="false"
+   inkscape:zoom="1.4216867"
+   inkscape:cx="178.90352"
+   inkscape:cy="132.0129"
+   inkscape:window-x="-4"
+   inkscape:window-y="-4"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="g2858" />
+	<defs
+   id="defs2856"><linearGradient
+   id="linearGradient3656"><stop
+     style="stop-color:#ffffff;stop-opacity:1"
+     offset="0"
+     id="stop3658" /><stop
+     style="stop-color:#000000;stop-opacity:0;"
+     offset="1"
+     id="stop3660" /></linearGradient><inkscape:perspective
+   sodipodi:type="inkscape:persp3d"
+   inkscape:vp_x="0 : 166 : 1"
+   inkscape:vp_y="0 : 1000 : 0"
+   inkscape:vp_z="512 : 166 : 1"
+   inkscape:persp3d-origin="256 : 110.66667 : 1"
+   id="perspective2878" />
+	<radialGradient
+   inkscape:collect="always"
+   xlink:href="#linearGradient3656"
+   id="radialGradient3662"
+   cx="217.34746"
+   cy="202.57628"
+   fx="217.34746"
+   fy="202.57628"
+   r="108.32204"
+   gradientTransform="matrix(1,0,0,0.9935064,0,1.3154487)"
+   gradientUnits="userSpaceOnUse" /></defs>
+	<g
+   id="g2858">
+		<rect
+   x="0.108"
+   y="0.108"
+   fill="#0C479D"
+   stroke="#000000"
+   stroke-width="0.216"
+   width="511.128"
+   height="330.048"
+   id="rect2860"
+   style="fill:#ffffff" /> 
+		<path
+   fill="#FFFFFF"
+   stroke="#000000"
+   stroke-width="0.216"
+   d="M37.404,0.108H473.94c20.664,0,37.296,16.704,37.296,37.152    v255.672c0,20.592-16.632,37.224-37.296,37.224H37.404c-20.376,0-37.224-16.632-37.224-37.224c0,0,0,0,0-0.144V37.26    C0.18,16.812,16.812,0.108,37.404,0.108c0,0,0,0,0.216,0H37.404z"
+   id="path2862"
+   style="fill:#000000" />
+		<path
+   fill="#0C479D"
+   d="M37.404,16.092H473.94c11.88,0,21.384,9.504,21.384,21.168v255.672c0,11.664-9.504,21.384-21.384,21.384    H37.404c-11.592,0-21.312-9.504-21.312-21.384l0,0V37.26C16.092,25.596,25.596,16.092,37.404,16.092L37.404,16.092z"
+   id="path2864"
+   style="fill:#ffffff" />
+		
+		
+		
+		
+	<path
+   sodipodi:type="arc"
+   style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:url(#radialGradient3662)"
+   id="path2882"
+   sodipodi:cx="217.34746"
+   sodipodi:cy="202.57628"
+   sodipodi:rx="108.32204"
+   sodipodi:ry="107.61864"
+   d="m 325.66949,202.57628 a 108.32204,107.61864 0 1 1 -216.64407,0 108.32204,107.61864 0 1 1 216.64407,0 z"
+   transform="matrix(1.2392278,0,0,1.2081116,-10.348155,-79.482748)" /><path
+   sodipodi:type="arc"
+   style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero"
+   id="path5246"
+   sodipodi:cx="267.99152"
+   sodipodi:cy="187.1017"
+   sodipodi:rx="90.033897"
+   sodipodi:ry="91.440681"
+   d="m 358.02541,187.1017 a 90.033897,91.440681 0 1 1 -180.06779,0 90.033897,91.440681 0 1 1 180.06779,0 z"
+   transform="translate(-8.2932881,-19.036136)" /></g>
+</svg>

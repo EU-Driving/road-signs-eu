@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="806.87" height="716.5" fill-rule="evenodd">
+<path d="M66.019,715.461 9.727,617.961 347.143,33.539 459.727,33.539 797.143,617.961 740.851,715.461" fill="#e42b38" stroke="none"/>
+<circle cx="66.019" cy="650.461" r="65" fill="#e42b38" stroke="none"/>
+<circle cx="403.435" cy="66.039" r="65" fill="#e42b38" stroke="none"/>
+<circle cx="740.851" cy="650.461" r="65" fill="#e42b38" stroke="none"/>
+<path d="M83.339,640.461 403.435,86.039 723.531,640.461" fill="#fed300" stroke="none"/>
+<circle cx="403.435" cy="250.461" r="70" fill="#000" stroke="none"/>
+<circle cx="403.435" cy="400.461" r="70" fill="#000" stroke="none"/>
+<circle cx="403.435" cy="550.461" r="70" fill="#000" stroke="none"/>
+<circle cx="403.435" cy="250.461" r="50" fill="#e42b38" stroke="none"/>
+<circle cx="403.435" cy="400.461" r="50" fill="#fed300" stroke="none"/>
+<circle cx="403.435" cy="550.461" r="50" fill="#00755c" stroke="none"/>
+</svg>

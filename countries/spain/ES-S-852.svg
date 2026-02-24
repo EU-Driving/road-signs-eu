@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="53.163574mm"
+   height="53.163582mm"
+   viewBox="0 0 53.163573 53.163582"
+   version="1.1"
+   id="svg1690"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="Spain_traffic_signal_s860b.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1692"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     showguides="false"
+     inkscape:zoom="1.193832"
+     inkscape:cx="49.839509"
+     inkscape:cy="-1.2564582"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1687" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-167.89763,-73.109021)">
+    <path
+       id="rect7757"
+       style="opacity:1;fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 170.97843,73.241313 h 47.00198 c 1.63347,0 2.9485,1.315032 2.9485,2.948503 V 123.1918 c 0,1.63347 -1.31503,2.94851 -2.9485,2.94851 h -47.00198 c -1.63347,0 -2.94851,-1.31504 -2.94851,-2.94851 V 76.189816 c 0,-1.633471 1.31504,-2.948503 2.94851,-2.948503 z" />
+    <path
+       id="rect7685"
+       style="opacity:1;fill:#ffffff;fill-rule:evenodd;stroke-width:1.55333;stroke-linecap:round;paint-order:stroke fill markers"
+       d="m 170.9404,74.576505 h 47.07774 c 0.8728,0 1.57545,0.702651 1.57545,1.57545 V 123.2297 c 0,0.8728 -0.70265,1.57545 -1.57545,1.57545 H 170.9404 c -0.8728,0 -1.57545,-0.70265 -1.57545,-1.57545 V 76.151955 c 0,-0.872799 0.70265,-1.57545 1.57545,-1.57545 z" />
+    <g
+       id="g2946"
+       transform="matrix(0.48907098,0,0,0.48907098,53.664951,53.205202)">
+      <path
+         fill-rule="evenodd"
+         fill="#010101"
+         fill-opacity="1"
+         d="m 297.55347,133.50158 h -18.0275 V 113.0763 c 0,-2.5411 -1.0225,-5.01055 -2.82222,-6.80889 -1.79972,-1.79972 -4.23333,-2.78777 -6.77306,-2.78777 H 249.46958 V 85.417695 h 20.46111 c 1.62196,0 3.31556,0.176389 5.00917,0.494718 1.72806,0.316946 3.4575,0.775832 5.15111,1.44556 1.69223,0.705555 3.35139,1.553051 4.93889,2.575553 1.5875,1.058333 3.06889,2.257227 4.44417,3.598058 1.34083,1.34083 2.53973,2.822222 3.56361,4.409722 1.05833,1.5875 1.90445,3.245284 2.57555,4.974714 0.66973,1.69361 1.16307,3.42167 1.48139,5.11528 0.31695,1.72806 0.45889,3.42167 0.45889,5.045 v 20.42528"
+         id="path1865"
+         style="stroke-width:0.352778" />
+      <path
+         fill-rule="evenodd"
+         fill="#010101"
+         fill-opacity="1"
+         d="M 292.15569,77.021309 V 54.196862 h 5.39778 v 22.824447 h -5.39778"
+         id="path1867"
+         style="stroke-width:0.352778" />
+      <path
+         fill-rule="evenodd"
+         fill="#010101"
+         fill-opacity="1"
+         d="m 305.98431,96.848524 v -5.397779 h 22.82444 v 5.397779 h -22.82444"
+         id="path1869"
+         style="stroke-width:0.352778" />
+    </g>
+  </g>
+</svg>

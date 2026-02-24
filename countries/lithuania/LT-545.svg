@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   id="svg4304"
+   viewBox="0 0 599.99998 900"
+   height="254mm"
+   width="169.33333mm">
+  <defs
+     id="defs4306" />
+  <metadata
+     id="metadata4309">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-228.11428,-176.81935)"
+     id="layer1">
+    <title
+       id="title3004">5.27 Зона с ограничениями стоянки</title>
+    <g
+       id="layer1-2"
+       transform="translate(-267.08571,-153.42837)" />
+    <title
+       id="title3004-1">5.29 Зона регулируемой стоянки</title>
+    <g
+       id="layer1-3"
+       transform="translate(332.57143,-61.82837)" />
+    <title
+       id="title3004-4">5.31 Зона с ограничением максимальной скорости</title>
+    <g
+       id="layer1-0"
+       transform="translate(-578.17143,-98.228369)" />
+    <g
+       transform="translate(-311.02857,56.171428)"
+       id="text4921"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:156.12754822px;line-height:100%;font-family:'Russian Road Sign';-inkscape-font-specification:'Russian Road Sign Medium';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1">
+      <title
+         id="title3004-9">5.32 Конец зоны с ограничением максимальной скорости</title>
+      <g
+         id="layer1-1"
+         transform="translate(539.14285,-31.714082)">
+        <path
+           id="rect3256-1"
+           d="m 45,152.362 510,0 c 24.93,0 45,20.07 45,45 l 0,810 c 0,24.93 -20.07,45 -45,45 l -510,0 c -24.93,0 -45,-20.07 -45,-45 l 0,-810 c 0,-24.93 20.07,-45 45,-45 z"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate" />
+        <path
+           id="rect3041-1"
+           d="m 45,153.362 510,0 c 24.376,0 44,19.624 44,44 l 0,810 c 0,24.376 -19.624,44 -44,44 l -510,0 c -24.376,0 -44,-19.624 -44,-44 l 0,-810 c 0,-24.376 19.624,-44 44,-44 z"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate" />
+        <path
+           id="path4775-9-2"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#7f7f7f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
+           d="m 300,403.612 c -120.122,0 -217.5,97.3781 -217.5,217.5 0,120.122 97.3781,217.5 217.5,217.5 120.122,0 217.5,-97.3781 217.5,-217.5 0,-120.122 -97.378,-217.5 -217.5,-217.5 z m 0,36.7734 c 99.8121,0 180.727,80.9145 180.727,180.727 0,99.8121 -80.9145,180.727 -180.727,180.727 -99.8121,0 -180.727,-80.9145 -180.727,-180.727 0,-99.8121 80.9145,-180.727 180.727,-180.727 z" />
+        <g
+           id="text5072"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:277.61798096px;line-height:100%;font-family:'Transport Heavy';-inkscape-font-specification:'Transport Heavy,';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#7f7f7f;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1">
+          <path
+             id="path5087"
+             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'Russian Road Sign';-inkscape-font-specification:'Russian Road Sign Medium';fill:#7f7f7f;fill-opacity:1"
+             d="m 246.97145,544.08398 -75.78971,101.05294 0,23.31991 73.84639,0 0,31.09322 27.20656,0 0,-31.09322 10.54948,0 8.88378,-23.31991 -21.37659,0 0,-101.05294 -23.31991,0 z m -1.94332,40.80984 0,60.2431 -44.6965,0 44.6965,-60.2431 z" />
+          <path
+             id="path5089"
+             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'Russian Road Sign';-inkscape-font-specification:'Russian Road Sign Medium';fill:#7f7f7f;fill-opacity:1"
+             d="m 371.00163,542.14065 c -31.09321,0 -52.4698,33.03654 -52.4698,79.67636 0,46.63982 21.37659,79.67636 52.4698,79.67636 31.09322,0 52.4698,-33.03654 52.4698,-79.67636 0,-44.14125 -21.37658,-79.67636 -52.4698,-79.67636 z m 0,24.15277 c 14.99137,0 25.26324,16.65708 25.26324,55.52359 0,38.86652 -10.27187,55.5236 -25.26324,55.5236 -14.99137,0 -25.26323,-16.65708 -25.26323,-55.5236 0,-38.86651 10.27186,-55.52359 25.26323,-55.52359 z" />
+        </g>
+        <path
+           id="rect8666-4"
+           style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.54299998;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
+           transform="translate(0,152.362)"
+           d="M 45,20 C 31.15,20 20,31.15 20,45 l 0,810 c 0,13.85 11.15,25 25,25 l 510,0 c 13.85,0 25,-11.15 25,-25 L 580,45 C 580,31.15 568.85,20 555,20 L 45,20 Z m 0,10 510,0 c 7.78,0 14.158,5.8701 14.938,13.4375 L 30,647.594 30,45 C 30,36.69 36.69,30 45,30 Z M 570,64.9063 570,90.2188 30,694.469 30,669.156 570,64.9063 Z m 0,46.8747 0,25.313 -540,604.25 0,-25.313 540,-604.25 z m 0,46.875 0,25.313 -540,604.25 0,-25.313 540,-604.25 z m 0,46.875 0,25.313 -540,604.25 0,-25.313 540,-604.25 z m 0,46.875 0,602.594 c 0,8.31 -6.69,15 -15,15 l -510,0 c -7.7801,0 -14.158,-5.87 -14.9375,-13.437 L 570,252.406 Z" />
+      </g>
+      <g
+         transform="translate(806.4,122.68571)"
+         id="g5066">
+        <path
+           d="m -137.82236,156.52019 0,-14.20761 39.344141,-60.109106 -38.251251,0 0,-13.114714 56.830429,0 0,14.207607 -39.344139,60.109103 40.437032,0 0,13.11472 -59.016212,0 z"
+           id="path4946" />
+        <path
+           d="m -18.611662,66.902975 c -24.043642,0 -35.597081,20.608836 -35.597081,45.901495 0,25.29267 11.553439,45.9015 35.597081,45.9015 24.0436429,0 35.597081,-20.60883 35.597081,-45.9015 0,-25.292659 -11.5534381,-45.901495 -35.597081,-45.901495 z m 0,14.207607 c 12.0218217,0 20.7649644,12.021821 20.7649644,31.693888 0,19.67207 -8.7431427,31.6939 -20.7649644,31.6939 -12.021821,0 -20.764963,-12.02183 -20.764963,-31.6939 0,-19.672067 8.743142,-31.693888 20.764963,-31.693888 z"
+           id="path4948" />
+        <path
+           d="m 40.38748,156.52019 15.3005,0 0,-63.387787 32.786785,63.387787 17.486285,0 0,-87.43143 -15.300499,0 0,62.29489 -32.786785,-62.29489 -17.486286,0 0,87.43143 z"
+           id="path4950" />
+        <path
+           d="m 156.21704,125.91919 10.92893,-37.158359 10.92893,37.158359 -21.85786,0 z m 2.18579,-56.83043 -28.41522,87.43143 16.3934,0 5.46446,-17.48629 30.601,0 5.46446,17.48629 16.3934,0 -28.41522,-87.43143 -17.48628,0 z"
+           id="path4952" />
+      </g>
+    </g>
+  </g>
+</svg>

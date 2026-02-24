@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="Estonia road sign 231.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   id="svg32457"
+   version="1.1"
+   viewBox="0 0 67.46875 67.46875"
+   height="67.46875mm"
+   width="67.46875mm">
+  <defs
+     id="defs32451" />
+  <sodipodi:namedview
+     inkscape:window-maximized="0"
+     inkscape:window-y="0"
+     inkscape:window-x="192"
+     inkscape:window-height="1030"
+     inkscape:window-width="1424"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="16.141639"
+     inkscape:cx="110.46605"
+     inkscape:zoom="3.254902"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata32454">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(7.3902423,-79.871496)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <g
+       id="g18030"
+       transform="matrix(1.1952284,0,0,1.1952284,-211.95648,-434.54543)">
+      <circle
+         r="28.224209"
+         cy="458.61636"
+         cx="199.37663"
+         id="path18019"
+         style="opacity:1;fill:#ef2b2f;fill-opacity:1;stroke-width:0.55054" />
+      <circle
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:0.445426"
+         id="circle18021"
+         cx="199.37663"
+         cy="458.61636"
+         r="22.835415" />
+      <g
+         style="opacity:1"
+         transform="translate(-60.429312,-0.62760413)"
+         id="g17982">
+        <path
+           id="rect17968"
+           style="opacity:1;fill:#000000;fill-opacity:1;stroke-width:0.760823"
+           d="m 251.72454,440.01604 v 16.16385 h -5.29395 l 8.09912,13.31396 8.09912,-13.31396 h -5.29394 v -16.16385 z"
+           sodipodi:nodetypes="cccccccc" />
+        <path
+           sodipodi:nodetypes="cccccccc"
+           d="m 260.53681,479.95691 v -7.16385 h -5.29395 l 8.09912,-13.31396 8.09912,13.31396 h -5.29394 v 7.16385 z"
+           style="opacity:1;fill:#ef2b2f;fill-opacity:1;stroke-width:0.760823"
+           id="path17978" />
+      </g>
+    </g>
+  </g>
+</svg>

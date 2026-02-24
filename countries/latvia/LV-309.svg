@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="195mm"
+   height="195.00308mm"
+   viewBox="0 0 195 195.00308"
+   version="1.1"
+   id="svg3845"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="Latvia_road_sign_309.svg">
+  <defs
+     id="defs3839" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="-481.1293"
+     inkscape:cy="47.895694"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3842">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(2.0141994,248.60998)">
+    <path
+       d="m 95.493549,-247.83347 c 53.262331,0 96.715741,43.44725 96.715741,96.72508 0,53.271576 -43.45341,96.724985 -96.715741,96.724985 -53.277742,0 -96.7312399,-43.453409 -96.7312399,-96.724985 0,-53.27783 43.4534979,-96.72508 96.7312399,-96.72508 z"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.55301702;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:22.9260006;stroke-dasharray:none;stroke-opacity:1"
+       id="path4324"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 95.493549,-242.66496 c 50.417161,0 91.550401,41.12383 91.550401,91.55657 0,50.42332 -41.13324,91.556564 -91.550401,91.556564 -50.432654,0 -91.5659001,-41.133244 -91.5659001,-91.556564 0,-50.43274 41.1332461,-91.55657 91.5659001,-91.55657 z m -0.05283,24.28292 c 37.117071,0 67.376051,30.25897 67.376051,67.37613 0,37.10774 -30.25898,67.372966 -67.376051,67.372966 -37.107825,0 -67.372964,-30.265226 -67.372964,-67.372966 0,-37.11716 30.265139,-67.37613 67.372964,-67.37613"
+       style="fill:#ed1a3a;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.10603404"
+       id="path4320"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 113.30982,-105.80384 -14.526996,-36.39025 7.631566,-8.89573 16.58003,41.72958 c 0.73958,2.66187 -0.15231,5.37656 -2.89483,6.52889 -1.57477,0.7299 -5.4418,0.66122 -6.78977,-2.97249 z m -46.357576,2.97249 c -2.466231,-1.3418 -3.348354,-3.57507 -2.540717,-6.54439 l 10.895929,-25.50058 17.490065,-20.47496 -3.571901,-19.54935 -16.924815,19.8693 c -1.882227,1.86981 -4.249054,1.73933 -6.059877,0.27294 -1.41013,-1.09951 -1.835652,-3.80179 -0.577576,-5.5287 l 23.24557,-27.32998 12.933558,-2.20844 21.38509,14.16355 0.009,17.33167 c -0.21747,2.17736 -1.9848,3.72413 -3.91985,3.83287 -2.36058,0.0176 -3.90735,-1.36673 -4.23664,-3.7428 V -170.77 l -7.4576,-4.87955 -2.26733,22.09016 -21.739209,25.6278 -9.653525,22.49702 c -0.978357,2.17119 -3.655807,4.04408 -7.013406,2.60287 z m 28.156195,-88.52817 c -4.277053,0.18666 -7.945274,-3.19612 -8.333465,-7.38301 -0.158481,-4.07825 3.18054,-8.66901 8.367627,-8.24032 5.078349,0.26062 7.485499,4.6 7.308449,8.27448 -0.0616,3.67438 -3.394846,7.1563 -7.342611,7.34885"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.10603404"
+       id="path4322"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 11.0, SVG Export Plug-In  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="512"
+   height="332"
+   viewBox="-0.556 -0.748 512 332"
+   xml:space="preserve"
+   id="svg2854"
+   version="1.1"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="lokal slinga.svg"><metadata
+   id="metadata2876"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1440"
+   inkscape:window-height="853"
+   id="namedview2874"
+   showgrid="true"
+   inkscape:snap-grids="true"
+   inkscape:snap-to-guides="false"
+   inkscape:zoom="1.0052843"
+   inkscape:cx="208.4206"
+   inkscape:cy="110.02693"
+   inkscape:window-x="-4"
+   inkscape:window-y="-4"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg2854"
+   inkscape:showpageshadow="false"><inkscape:grid
+     type="xygrid"
+     id="grid5250"
+     empspacing="5"
+     visible="true"
+     enabled="true"
+     snapvisiblegridlinesonly="true" /></sodipodi:namedview>
+	<defs
+   id="defs2856"><linearGradient
+   id="linearGradient3656"><stop
+     style="stop-color:#ffffff;stop-opacity:1"
+     offset="0"
+     id="stop3658" /><stop
+     style="stop-color:#000000;stop-opacity:0;"
+     offset="1"
+     id="stop3660" /></linearGradient><inkscape:perspective
+   sodipodi:type="inkscape:persp3d"
+   inkscape:vp_x="0 : 166 : 1"
+   inkscape:vp_y="0 : 1000 : 0"
+   inkscape:vp_z="512 : 166 : 1"
+   inkscape:persp3d-origin="256 : 110.66667 : 1"
+   id="perspective2878" />
+	</defs>
+	<g
+   id="g2858">
+		<rect
+   x="0.108"
+   y="81.251999"
+   width="499.336"
+   height="180.00002"
+   id="rect2860"
+   style="fill:#ffffff;stroke:#000000;stroke-width:0.15766419" /> 
+		
+		<path
+   d="M37.404,16.092H473.94c11.88,0,21.384,9.504,21.384,21.168v255.672c0,11.664-9.504,21.384-21.384,21.384    H37.404c-11.592,0-21.312-9.504-21.312-21.384l0,0V37.26C16.092,25.596,25.596,16.092,37.404,16.092L37.404,16.092z"
+   id="path2864"
+   style="fill:#ffffff"
+   fill="#0C479D" />
+		
+		
+		
+		
+	<path
+   sodipodi:type="arc"
+   style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero"
+   id="path5246"
+   sodipodi:cx="267.99152"
+   sodipodi:cy="187.1017"
+   sodipodi:rx="90.033897"
+   sodipodi:ry="91.440681"
+   d="m 358.02541,187.1017 c 0,50.50129 -40.30955,91.44068 -90.03389,91.44068 -49.72435,0 -90.0339,-40.93939 -90.0339,-91.44068 0,-50.50129 40.30955,-91.440682 90.0339,-91.440682 49.72434,0 90.03389,40.939392 90.03389,91.440682 z"
+   transform="translate(-8.2932881,-19.036136)" /><path
+   style="fill:#e98000;fill-opacity:1;stroke:#000000;stroke-width:15.16949654000000100;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker-start:none"
+   d="m 19.444,131.252 c 0,-9.42809 10.588179,-19.44636 20,-20 l 340,-20 100,65 c 11.17925,7.26651 11.17925,22.73349 0,30 l -100,65 -340,-20 c -9.411821,-0.55364 -20,-10.57191 -20,-20 l 0,-80 z"
+   id="path5248"
+   sodipodi:nodetypes="cscsscsss" /></g>
+</svg>

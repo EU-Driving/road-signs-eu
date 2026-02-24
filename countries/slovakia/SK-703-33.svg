@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="450.000000mm" height="900.000000mm" viewBox="0 0 4500 9000" version="1.1">
+<g id="surface216">
+<path style="fill:none;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke:rgb(16.470588%,16.078431%,16.470588%);stroke-opacity:1;stroke-miterlimit:3;" d="M 0 -450 L -225 -450 L -40 450 L 40 450 L 225 -450 L 0 -450 " transform="matrix(10,0,0,-10,2250,4500)"/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(94.509804%,94.117647%,91.764706%);fill-opacity:1;" d="M 2250 9000 L 0 9000 L 1850 0 L 2650 0 L 4500 9000 L 2250 9000 "/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(73.333333%,11.764706%,6.27451%);fill-opacity:1;" d="M 0 9000 L 370 7200 L 4130 7200 L 4500 9000 L 0 9000 "/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(73.333333%,11.764706%,6.27451%);fill-opacity:1;" d="M 740 5400 L 1110 3600 L 3390 3600 L 3760 5400 L 740 5400 "/>
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(73.333333%,11.764706%,6.27451%);fill-opacity:1;" d="M 1480 1800 L 1850 0 L 2650 0 L 3020 1800 L 1480 1800 "/>
+</g>
+</svg>

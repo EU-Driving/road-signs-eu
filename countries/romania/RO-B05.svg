@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="600mm" height="600mm" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 600 600">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil2 {fill:black}
+    .fil0 {fill:red}
+    .fil1 {fill:white}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <ellipse class="fil0" cx="300" cy="300" rx="300" ry="300"/>
+  <ellipse class="fil1" cx="300" cy="300" rx="240" ry="240"/>
+  <g id="_307761024">
+   <polygon id="_307759800" class="fil0" points="410.517,265.375 410.517,458.348 370.757,458.348 370.757,265.375 314.871,274.278 390.778,141.652 466.404,274.278 "/>
+   <polygon id="_307759488" class="fil2" points="229.241,334.625 229.241,141.652 189.481,141.652 189.481,334.625 133.596,325.722 209.502,458.348 285.129,325.722 "/>
+  </g>
+ </g>
+</svg>

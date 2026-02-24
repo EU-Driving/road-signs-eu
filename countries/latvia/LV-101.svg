@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="196.04282mm"
+   height="168.36055mm"
+   viewBox="0 0 196.04282 168.36055"
+   version="1.1"
+   id="svg3845"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="Latvia_road_sign_101.svg">
+  <defs
+     id="defs3839" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="817.01375"
+     inkscape:cy="111.54376"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="658"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="387.02321,290.52496"
+       orientation="0,1"
+       id="guide3329"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata3842">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(714.37367,653.8254)">
+    <path
+       d="m -607.8212,-648.57418 87.31679,147.55998 c 4.17844,6.17428 -0.73339,14.63092 -6.75378,14.67724 l -176.83113,0.26612 c 4.00793,-0.0415 -13.50514,0.70712 -8.90512,-13.50195 l 87.32645,-148.27201 c 3.78375,-6.99352 14.00703,-7.08622 17.84679,-0.7291 z"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.21200001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:22.9260006;stroke-dasharray:none;stroke-opacity:1"
+       id="path2646-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccc" />
+    <path
+       d="m -554.10037,-510.32679 h -124.51852 l 62.26289,-107.35176 z m -57.46804,-134.7189 85.81347,144.91909 c 0.5456,0.68776 0.93803,1.90695 0.93803,3.09447 0,3.10905 -2.53148,5.64508 -5.63791,5.64508 -0.0691,0 -0.15816,0 -0.2217,0 h -171.45876 c 0.0276,0 -0.0622,0 -0.12915,0 -3.10402,0 -5.63791,-2.53603 -5.63791,-5.64508 0,-1.18752 0.39504,-2.40677 0.93802,-3.09447 l 85.58445,-144.62649 c 2.04658,-4.0259 7.47253,-4.26976 9.81146,-0.29239"
+       style="fill:#ed1a3a;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.35277772"
+       id="path2642"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m -633.98842,-519.78072 -7.8867,-7.94949 17.45457,-17.56199 -17.54719,-17.65704 7.81364,-7.87145 17.8615,17.98627 17.92234,-17.98627 7.84285,7.94216 -17.51307,17.58633 17.49118,17.56199 -7.93788,7.9714 -17.81033,-17.89848 -17.69091,17.87657"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.35277772"
+       id="path2644"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

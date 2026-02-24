@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="600"
+   height="900"
+   id="svg2"
+   version="1.1"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="RU_road_sign_5.27.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title3004">557 Iškili saugumo salelė</title>
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="94.045202"
+     inkscape:cy="335.87572"
+     inkscape:document-units="px"
+     inkscape:current-layer="g10391"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>557 Iškili saugumo salelė</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+        <dc:description>ГОСТ Р 52290-2004
+Размеры и пропорции по типоразмеру I</dc:description>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-152.36218)">
+    <rect
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:1"
+       id="rect3256"
+       width="600"
+       height="900"
+       x="0"
+       y="152.36218"
+       rx="45"
+       ry="45" />
+    <rect
+       ry="44"
+       rx="44"
+       y="153.36218"
+       x="1"
+       height="898"
+       width="598"
+       id="rect3041"
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:1" />
+    <path
+       style="opacity:1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.54299997999999980;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="M 45 20 C 31.15 20 20 31.15 20 45 L 20 855 C 20 868.85 31.15 880 45 880 L 555 880 C 568.85 880 580 868.85 580 855 L 580 45 C 580 31.15 568.85 20 555 20 L 45 20 z M 45 30 L 555 30 C 563.31 30 570 36.69 570 45 L 570 855 C 570 863.31 563.31 870 555 870 L 45 870 C 36.69 870 30 863.31 30 855 L 30 45 C 30 36.69 36.69 30 45 30 z "
+       transform="translate(0,152.36218)"
+       id="rect8666" />
+    <g
+       id="g10391"
+       style="fill:#de8787"
+       transform="translate(-798.20712,-603.19931)">
+      <path
+         fill-rule="nonzero"
+         fill="#1d1c1b"
+         fill-opacity="1"
+         d="M 948.68049,1456.7558 V 815.43143 H 898.864 v 641.32437 h -47.53984 l 70.84674,119.3511 71.001,-119.3511 z m 0,0"
+         id="path8542-3"
+         style="fill:#000000;stroke-width:9.87838" />
+      <path
+         fill-rule="nonzero"
+         fill="#1d1c1b"
+         fill-opacity="1"
+         d="m 1345.1285,934.82109 -71.001,-119.38966 -70.8466,119.38966 h 44.0669 c 0.037,76.55761 0.079,190.93111 -0.037,204.35941 0.9256,43.6425 -75.7858,89.909 -80.0691,163.8427 v 273.7012 h 49.8165 v -273.7012 c -0.2312,-42.2148 80.2234,-90.2947 80.1462,-163.8427 0.037,-18.0588 0.037,-129.3838 0,-204.35941 z m 0,0"
+         id="path8544-1"
+         style="fill:#000000;stroke-width:9.87838" />
+      <path
+         fill-rule="nonzero"
+         fill="#1d1c1b"
+         fill-opacity="1"
+         d="m 1073.4339,1511.087 h 18.4063 v -206.5975 h -18.4063 z m 0,0"
+         id="path8546-8"
+         style="fill:#000000;stroke-width:9.87838" />
+      <path
+         fill-rule="nonzero"
+         fill="#1d1c1b"
+         fill-opacity="1"
+         d="m 1073.4339,1577.3418 h 18.4063 v -49.7007 h -18.4063 z m 0,0"
+         id="path8548-4"
+         style="fill:#000000;stroke-width:9.87838" />
+      <path
+         fill-rule="nonzero"
+         fill="#1d1c1b"
+         fill-opacity="1"
+         d="M 1161.452,1021.4501 V 815.43143 h -157.5913 v 206.01867 h 0.463 c -0.079,0.2312 -0.2312,0.4246 -0.2697,0.6172 11.885,14.2002 35.1918,30.677 78.5642,30.677 43.4495,0 64.0553,-18.0202 78.6413,-30.677 -0.079,-0.1926 -0.2311,-0.386 -0.3089,-0.6172 z m 0,0"
+         id="path8550"
+         style="fill:#000000;stroke-width:9.87838" />
+      <path
+         fill-rule="nonzero"
+         fill="#1d1c1b"
+         fill-opacity="1"
+         d="m 1162.8026,1047.1108 c -86.7061,56.7237 -160.3312,-0.037 -160.3312,-0.037 l 72.0044,272.5049 h 17.7888 c 0,0 42.099,-163.5724 70.538,-272.4664 m -115.8011,109.7815 82.5772,-75.6701 c 2.624,-1.0033 5.2479,-2.0066 7.8719,-3.2413 l -13.6986,54.0611 -0.2696,-0.3089 -67.0265,61.4313 z m 56.878,53.7524 -34.613,31.6804 -9.2611,-35.5006 58.3444,-53.4437 z m -21.1461,83.3877 -9.9169,-38.0473 25.4677,-23.3069 z m -42.0217,-209.7618 -10.2643,9.3382 -3.3956,-13.1969 c 0,0 5.1706,1.8522 13.6599,3.8587 m 63.3607,3.3957 -60.6596,55.566 -9.3767,-35.9635 21.9177,-20.0655 c 13.4671,2.0452 30.4069,3.0484 48.1186,0.4631"
+         id="path8552"
+         style="fill:#000000;stroke-width:9.87838" />
+    </g>
+  </g>
+</svg>

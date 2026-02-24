@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="435" height="549" viewBox="0 0 435 549">
+  <defs>
+    <style>
+      .a {
+        fill: #fff;
+      }
+
+      .b {
+        fill: #ee1c25;
+      }
+
+      .c {
+        fill: #1d1d1b;
+      }
+    </style>
+  </defs>
+  <g>
+    <rect class="a" width="138" height="549"/>
+    <polygon class="b" points="138 414 0 276 0 135 138 273 138 414"/>
+    <polygon class="b" points="138 549 0 411 0 549 138 549"/>
+    <polygon class="b" points="138 0 138 138 0 0 138 0"/>
+    <path class="c" d="M135,3V546H3V3H135m3-3H0V549H138V0Z"/>
+  </g>
+  <g>
+    <rect class="a" x="297" width="138" height="549" transform="translate(732 549) rotate(-180)"/>
+    <polygon class="b" points="297 414 435 276 435 135 297 273 297 414"/>
+    <polygon class="b" points="297 549 435 411 435 549 297 549"/>
+    <polygon class="b" points="297 0 297 138 435 0 297 0"/>
+    <path class="c" d="M300,3H432V546H300V3m-3-3V549H435V0Z"/>
+  </g>
+</svg>

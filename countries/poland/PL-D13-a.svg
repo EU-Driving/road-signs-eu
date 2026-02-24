@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="D-13a" xmlns="http://www.w3.org/2000/svg" width="902" height="752" viewBox="0 0 902 752">
+  <rect x="1" y="1" width="900" height="750" rx="30" ry="30" fill="#fff"/>
+  <rect x=".5" y=".5" width="901" height="751" rx="30.5" ry="30.5" fill="none" stroke="#000"/>
+  <rect x="7" y="7" width="888" height="738" rx="24" ry="24" fill="#039"/>
+  <path d="M91,143.5h37.5v97.5c0,37.36,13.87,73.18,39.06,100.87l233.66,256.03c17.58,19.34,27.28,44.42,27.28,70.6v37.5h45V143.5h37.5l-60-97.5-60,97.5h37.5v417.54l-227.68-249.48c-17.61-19.36-27.32-44.43-27.32-70.56v-97.5h37.5l-60-97.5-60,97.5h0Z" fill="#fff"/>
+  <g fill="#fff">
+    <rect x="293.5" y="46" width="15" height="60"/>
+    <rect x="293.5" y="166" width="15" height="60"/>
+  </g>
+  <g fill="#fff">
+    <rect x="593.5" y="46" width="15" height="60"/>
+    <rect x="593.5" y="166" width="15" height="60"/>
+    <rect x="593.5" y="286" width="15" height="60"/>
+    <rect x="593.5" y="406" width="15" height="60"/>
+    <rect x="593.5" y="526" width="15" height="60"/>
+    <rect x="593.5" y="646" width="15" height="60"/>
+  </g>
+  <polygon points="728.5 706 773.5 706 773.5 143.5 811 143.5 751 46 691 143.5 728.5 143.5 728.5 706" fill="#fff"/>
+</svg>

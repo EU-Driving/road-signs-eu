@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="400"
+   height="400"
+   viewBox="0 0 105.83333 105.83334"
+   version="1.1"
+   id="svg2255"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="Denmark road sign M112.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview2257"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:snap-intersection-paths="false"
+     inkscape:snap-smooth-nodes="false"
+     inkscape:snap-bbox="false"
+     inkscape:snap-bbox-edge-midpoints="false"
+     inkscape:bbox-nodes="false"
+     inkscape:zoom="1"
+     inkscape:cx="243.5"
+     inkscape:cy="236.5"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2255"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:object-paths="false"
+     units="px"
+     inkscape:snap-global="true" />
+  <defs
+     id="defs2252" />
+  <rect
+     style="fill:#ffffff;fill-opacity:1;stroke:#000007;stroke-width:0.264583;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect22364"
+     width="105.56875"
+     height="105.56875"
+     x="0.13229166"
+     y="0.13228078"
+     ry="6.4362597"
+     inkscape:label="rect2525" />
+  <rect
+     style="fill:#0071bb;fill-opacity:1;stroke:none;stroke-width:0.395999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect19919"
+     width="99.488167"
+     height="99.488197"
+     x="3.1725776"
+     y="3.1725707"
+     ry="3.3959801"
+     inkscape:label="rect2530" />
+  <rect
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.395999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect21520"
+     width="75.892845"
+     height="75.892868"
+     x="14.970235"
+     y="14.970221"
+     ry="3.3959801"
+     inkscape:label="rect2535" />
+  <path
+     d="m 67.629475,78.465956 c 2.05151,0 3.47875,1.42466 3.47875,3.20937 0,1.78471 -1.42724,3.211955 -3.47875,3.211955 h -29.69768 c -1.96083,0 -3.47611,-1.427245 -3.47611,-3.211955 0,-1.78471 1.51528,-3.20937 3.47611,-3.20937 h 5.17283 V 51.086603 h -5.35155 c -2.04886,0 -3.47618,-1.515319 -3.47618,-3.20937 0,-1.78471 1.42732,-3.209363 3.47618,-3.209363 l 23.27633,-0.09068 c 0.71516,0 1.33664,0.624264 1.33664,1.427253 v 5.082147 27.379352 z"
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.59029"
+     id="path838"
+     sodipodi:nodetypes="ssssssccssccsccs"
+     inkscape:label="path2540" />
+  <ellipse
+     style="fill:#000000;stroke-width:1.16927;stroke-linecap:round"
+     id="path1441"
+     cx="52.333839"
+     cy="31.067551"
+     rx="10.657681"
+     ry="10.657743"
+     inkscape:label="circle2545" />
+</svg>

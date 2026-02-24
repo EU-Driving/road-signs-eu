@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="700" version="1.1">
+<title>843 Direction of priority road</title>
+<rect style="fill:#000000;" x="0" y="0" width="700" height="700" rx="45" ry="45"/>
+<g transform="rotate(90 350 350)">
+<path style="fill:#ffffff;" d="m 655 690 a 35 35 0 0 0 35 -35 v -295 h -306.13 v -20 h 306.13 v -295 a 35 35 0 0 0 -35 -35 h -295 v 306.13 h -20 v -306.13 h -295 a 35 35 0 0 0 -35 35 v 271.13 h 238.39 a 135.48 135.48 0 0 1 135.48 135.48 v 238.39 z"/>
+<path style="fill:#ffffff;" d="m 10 655 a 35 35 0 0 0 35 35 h 271.13 v -238.39 a 67.74 67.74 0 0 0 -67.74 -67.74 h -238.39 z"/>
+</g>
+</svg>

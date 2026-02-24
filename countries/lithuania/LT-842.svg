@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="700" viewBox="0 0 700 700">
+  <defs>
+    <style>
+      .a {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <rect width="700" height="700" rx="45"/>
+  <path class="a" d="M690,45a35,35,0,0,0-35-35H360V316.13H340V10H45A35,35,0,0,0,10,45V340H316.13v20H10V655a35,35,0,0,0,35,35H316.13V451.61A135.48,135.48,0,0,1,451.61,316.13H690Z" transform="translate(0 0)"/>
+  <path class="a" d="M655,690a35,35,0,0,0,35-35V383.87H451.61a67.74,67.74,0,0,0-67.74,67.74V690Z" transform="translate(0 0)"/>
+</svg>

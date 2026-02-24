@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="F-10" xmlns="http://www.w3.org/2000/svg" width="1787" height="722" viewBox="0 0 1787 722">
+  <rect x="1" y="1" width="1785" height="720" rx="30" ry="30" fill="#fff"/>
+  <rect x=".5" y=".5" width="1786" height="721" rx="30.5" ry="30.5" fill="none" stroke="#000"/>
+  <rect x="11" y="11" width="1765" height="700" rx="20" ry="20" fill="#039"/>
+  <path d="M21,441l200-125v75c25.9426,0,51.5607,5.7679,75,16.8861v-116.8861h-75l125-200,125,200h-75v350h-100v-75c0-41.4214-33.5786-75-75-75v75L21,441Z" fill="#fff"/>
+  <g fill="#fff">
+    <rect x="496" y="71" width="25" height="120"/>
+    <rect x="496" y="311" width="25" height="120"/>
+    <rect x="496" y="551" width="25" height="120"/>
+  </g>
+  <polygon points="836 291 761 291 761 641 661 641 661 291 586 291 711 91 836 291" fill="#fff"/>
+  <g fill="#fff">
+    <rect x="901" y="71" width="25" height="120"/>
+    <rect x="901" y="311" width="25" height="120"/>
+    <rect x="901" y="551" width="25" height="120"/>
+  </g>
+  <polygon points="1241 291 1166 291 1166 641 1066 641 1066 291 991 291 1116 91 1241 291" fill="#fff"/>
+  <g fill="#fff">
+    <rect x="1306" y="71" width="25" height="120"/>
+    <rect x="1306" y="311" width="25" height="120"/>
+    <rect x="1306" y="551" width="25" height="120"/>
+  </g>
+  <path d="M1566,316l200,125-200,125v-75c-41.4214,0-75,33.5786-75,75v75h-100v-75c0-96.6498,78.3502-175,175-175v-75Z" fill="#fff"/>
+</svg>

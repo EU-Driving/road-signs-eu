@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="640"
+   height="480"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="Znak_T-10tw.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.82"
+     inkscape:cx="612.30929"
+     inkscape:cy="170.264"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-global="true"
+     inkscape:snap-grids="true"
+     inkscape:snap-nodes="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="834"
+     inkscape:window-height="730"
+     inkscape:window-x="6"
+     inkscape:window-y="13"
+     inkscape:window-maximized="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2985"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       originx="0px"
+       originy="1.5234375e-005px" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+        <cc:license
+           rdf:resource="" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Tomasz Wciślik</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:description>Znak drogowy T-10</dc:description>
+        <dc:language>Polski</dc:language>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-572.36218)">
+    <g
+       id="g3758">
+      <rect
+         ry="20"
+         y="572.36218"
+         x="0"
+         height="480"
+         width="640"
+         id="rect2989"
+         style="fill:#000000" />
+      <rect
+         ry="10"
+         y="582.36218"
+         x="10"
+         height="460"
+         width="620"
+         id="rect2989-7"
+         style="fill:#fafd4a;fill-opacity:1;opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path1981"
+         style="fill:#000000;fill-rule:evenodd;stroke:none"
+         d="m 301.05129,682.36218 c -25.28388,-15.95227 -52.65455,-1.5096 -62.61313,24.49339 -25.68898,-15.6844 -49.98936,0.15775 -54.68626,28.37005 -24.63819,-3.94528 -35.34465,25.68581 -15.54196,38.94274 l -19.23816,0 0,41.54183 -28.14474,0 0,96.60793 -29.525251,0 0,-8.01761 -11.934791,0 0,37.92951 11.934791,0 0,-8.45815 28.768191,0 c -16.31215,9.53108 -13.87149,29.54791 1.87038,37.92951 l -81.94036,0 0,20.6608 560,0 0,-20.6608 -156.93359,0 c 15.58651,-5.52435 26.7642,-20.26231 26.7642,-37.57708 3e-5,-0.11714 0.001,-0.2355 0,-0.35243 l 49.16422,0 28.67913,0 0,8.45815 11.89025,0 0,-37.92951 -11.89025,0 0,8.01761 -28.67913,0 0,-77.75331 -40.39125,0 0,-38.41408 19.28271,0 0,-21.98237 -100.28788,0 0,41.54183 -36.42784,0 0,-19.55946 -22.31093,0 0,19.55946 -58.69423,0 c 1.11283,-13.31908 -9.1556,-20.57646 -21.01948,-22.46695 -12.30647,0.91971 -21.66332,9.86947 -20.97495,22.46695 l -58.47158,0 0,-39.16297 c 8.37615,-0.58379 15.42969,-5.93133 18.34752,-13.34803 20.19227,13.95848 43.36557,4.07204 53.61749,-16.56388 19.95622,16.11256 45.15835,10.57887 60.6982,-8.37003 52.32181,17.13352 117.59723,-0.0896 154.66244,-40.26433 -15.87593,-27.19803 -17.2738,-29.57294 -31.97455,-54.75771 -48.39997,-7.15669 -98.38012,5.18702 -133.99921,39.11894 z m -100.15426,251.40969 8.68389,0 c -0.001,0.117 0,0.23527 0,0.35243 0,17.31481 11.1777,32.05273 26.7642,37.57708 l -98.99642,0 c 7.83037,-3.04394 13.40438,-10.56579 13.40438,-19.38324 4e-5,-0.18007 -0.0398,-0.34962 -0.0445,-0.52865 l 50.18846,0 0,-18.01762 z m 89.37732,0 9.3519,0 c -0.001,0.117 0,0.23527 0,0.35243 0,17.31274 11.16883,32.05121 26.7642,37.57708 l -62.88032,0 c 15.5865,-5.52435 26.7642,-20.26231 26.76422,-37.57708 0,-0.11714 10e-4,-0.2355 0,-0.35243 z m 90.08986,0 8.77296,0 c -9.9e-4,0.117 0,0.23527 0,0.35243 4e-5,17.31481 11.17772,32.05273 26.76423,37.57708 l -62.3014,0 c 15.58651,-5.52435 26.76422,-20.26231 26.76421,-37.57708 2e-5,-0.11714 10e-4,-0.2355 0,-0.35243 z" />
+    </g>
+  </g>
+</svg>

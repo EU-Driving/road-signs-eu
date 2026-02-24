@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="28.51mm" height="25.02mm" fill-rule="evenodd" stroke-linejoin="round" stroke-width="28.222" preserveAspectRatio="xMidYMid" version="1.2" viewBox="7475 12500 2851 2502">
+  <g class="Page">
+    <g class="com.sun.star.drawing.PolyPolygonShape">
+      <path fill="none" d="M7475 12500h2851v2502H7475z" class="BoundingBox"/>
+      <path fill="red" d="m8792 12561-1301 2254-3 7-4 7-3 8-2 8-2 7-1 8-1 8v17l1 8 1 8 2 8 2 7 3 8 4 7 3 8 5 6 4 7 6 6 5 6 6 6 6 5 7 5 7 4 7 4 7 3 8 3 8 2 8 2 8 1 8 1 8 1h2602l8-1 8-1 8-1 8-2 8-2 8-3 7-3 7-4 7-4 7-5 6-5 6-6 5-6 6-6 4-7 5-6 3-8 4-7 3-8 2-7 2-8 1-8 1-8v-17l-1-8-1-8-2-7-2-8-3-8-4-7-3-7-1302-2254-4-6-5-7-5-6-6-6-6-6-6-5-7-5-6-4-8-4-7-3-8-3-7-2-8-2-8-1-8-1h-17l-8 1-8 1-8 2-7 2-8 3-7 3-8 4-6 4-7 5-6 5-6 6-6 6-5 6-5 7-4 6Z"/>
+    </g>
+    <g class="com.sun.star.drawing.PolyPolygonShape">
+      <path fill="none" d="M7909 12982h1983v1717H7909z" class="BoundingBox"/>
+      <path fill="#FFF" d="m9891 14698-991-1716-991 1716h1982Z"/>
+    </g>
+    <g class="com.sun.star.drawing.PolyPolygonShape">
+      <path fill="none" d="M8463 13744h721v820h-721z" class="BoundingBox"/>
+      <path d="M8464 14429v-28l2-27 3-27 3-27 5-29 7-26 7-27 8-26 9-26 11-25 11-25 13-25 13-24 15-23 15-23 16-22 18-22 18-20 19-20 19-20 21-18 21-17 22-17 22-16 23-15 24-14 24-12 25-12 26-11 25-10 26-9 27-7 131-35 90 80-38 114-130 35-19 5-18 7-19 6-18 8-17 8-17 9-17 10-16 10-16 11-15 12-15 12-14 13-14 14-13 14-13 14-12 15-12 16-10 16-10 16-10 17-9 17-8 18-7 18-6 18-6 18-5 18-5 20-3 19-3 19-2 19-1 20v153l-101-67-100 67v-134Z"/>
+    </g>
+  </g>
+</svg>

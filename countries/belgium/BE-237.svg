@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 14.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 43363)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Calque_1"
+   x="0px"
+   y="0px"
+   width="77.758px"
+   height="77.643px"
+   viewBox="0 0 77.758 77.643"
+   enable-background="new 0 0 77.758 77.643"
+   xml:space="preserve"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="Belgium board S12.svg"><metadata
+   id="metadata15"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs13"><inkscape:perspective
+     sodipodi:type="inkscape:persp3d"
+     inkscape:vp_x="0 : 38.821499 : 1"
+     inkscape:vp_y="0 : 1000 : 0"
+     inkscape:vp_z="77.758003 : 38.821499 : 1"
+     inkscape:persp3d-origin="38.879002 : 25.880999 : 1"
+     id="perspective17" /></defs><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1280"
+   inkscape:window-height="738"
+   id="namedview11"
+   showgrid="false"
+   inkscape:zoom="6.0791058"
+   inkscape:cx="65.091459"
+   inkscape:cy="41.555356"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Calque_1" />
+<path
+   fill-rule="evenodd"
+   clip-rule="evenodd"
+   fill="#120C0E"
+   d="M38.881,77.643c-29.895,0-48.566-32.358-33.618-58.229  c14.947-25.871,52.288-25.898,67.236,0C87.446,45.284,68.748,77.643,38.881,77.643z"
+   id="path3" />
+<path
+   fill="none"
+   stroke="#120C0E"
+   stroke-width="0"
+   stroke-miterlimit="3.863"
+   d="M38.881,77.643  c-29.895,0-48.566-32.358-33.618-58.229c14.947-25.871,52.288-25.898,67.236,0C87.446,45.284,68.748,77.643,38.881,77.643z"
+   id="path5" />
+<polygon
+   fill="#FFFFFF"
+   points="5.728,58.041 72.032,58.041 38.881,0.332 "
+   id="polygon7" />
+<polygon
+   fill="none"
+   stroke="#FFFFFF"
+   stroke-width="0"
+   stroke-miterlimit="3.863"
+   points="5.728,58.041 72.032,58.041   38.881,0.332 "
+   id="polygon9" />
+</svg>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="B-31" xmlns="http://www.w3.org/2000/svg" width="800" height="800" viewBox="0 0 800 800">
+  <circle cx="400" cy="400" r="400" fill="#d40000"/>
+  <circle cx="400" cy="400" r="320" fill="#fff"/>
+  <g>
+    <polygon points="380 480 280 620 180 480 240 480 240 180 320 180 320 480 380 480"/>
+    <polygon points="620 420 560 420 560 620 480 620 480 420 420 420 520 280 620 420" fill="#d40000"/>
+  </g>
+</svg>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg3725"
+   width="99.999992"
+   height="99.999947"
+   viewBox="0 0 99.999994 99.99995"
+   sodipodi:docname="Bulgaria_road_sign_В10.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
+  <sodipodi:namedview
+     inkscape:document-rotation="0"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     id="namedview11686"
+     showgrid="false"
+     inkscape:zoom="2.9981328"
+     inkscape:cx="98.815933"
+     inkscape:cy="94.957596"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g2088" />
+  <metadata
+     id="metadata3731">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3729">
+    <linearGradient
+       id="linearGradient896"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#dc291b;stop-opacity:1;"
+         offset="0"
+         id="stop894" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="matrix(1.069451,0,0,1.069451,110.86438,-493.20714)"
+       xlink:href="#linearGradient896"
+       id="linearGradient898"
+       x1="-101.50877"
+       y1="507.72183"
+       x2="-12.287497"
+       y2="507.72183"
+       gradientUnits="userSpaceOnUse" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath905">
+      <g
+         id="use907"
+         clip-path="none">
+        <path
+           d="m -73.782979,500.73653 h 1.725204 l 2.510422,-6.9763 4.11e-4,6.97546 h 1.59237 l -0.01454,-11.32143 h -1.731067 l -2.498127,6.92377 v -6.92806 h -1.584907 v 11.32317 z"
+           style="fill:#040101;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.552835"
+           id="path49"
+           clip-path="none" />
+        <path
+           d="m 73.993606,39.854548 -0.491236,2.396888 -1.501216,0.0062 2.223869,-10.918039 h 0.888662 L 76,31.339766 78.225458,42.253675 h -1.499567 l -0.486168,-2.398957 h -2.246117 z m 1.118115,-5.487423 -0.876998,4.313552 1.766228,-0.0089 -0.88923,-4.304882 z m 0,-3.026922 h -0.88828"
+           style="display:inline;fill:#040101;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.520442"
+           id="path51" />
+      </g>
+    </clipPath>
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     transform="matrix(1.069451,0,0,1.069451,515.43728,-312.86075)"
+     id="layer1"
+     style="display:inline;opacity:1">
+    <g
+       id="g34172"
+       transform="matrix(0,0.99410495,0.99410495,0,-664.87576,666.35302)">
+      <g
+         transform="matrix(0.99997779,0,0,1,-0.00463162,0)"
+         style="opacity:1"
+         id="g169062" />
+    </g>
+    <g
+       transform="matrix(-1,0,0,1,-627.84573,0)"
+       id="g2088">
+      <path
+         id="circle1979-7-8-3"
+         style="display:inline;opacity:1;fill:#000000;stroke-width:0.827291"
+         d="m -225.71419,306.25745 a 46.752963,46.752958 87.187278 0 0 0.0411,66.11866 46.752963,46.752958 87.187278 0 0 66.11865,-0.0411 46.752963,46.752958 87.187278 0 0 -0.0411,-66.11867 46.752963,46.752958 87.187278 0 0 -66.11863,0.0412" />
+      <path
+         id="path1975-4-1-7"
+         style="display:inline;opacity:1;fill:#ffffff;stroke-width:0.822411"
+         d="m -225.51902,306.45239 a 46.47712,46.47712 0 0 0 0.0409,65.72857 46.47712,46.47712 0 0 0 65.72855,-0.0409 46.47712,46.47712 0 0 0 -0.0409,-65.72856 46.47712,46.47712 0 0 0 -65.72856,0.0409 z" />
+      <path
+         id="circle1977-2-7-0"
+         style="display:inline;opacity:1;fill:#008fde;fill-opacity:1;stroke-width:0.797511"
+         d="m -224.52327,307.44683 a 45.069854,45.06985 87.187332 0 0 0.0397,63.73839 45.069854,45.06985 87.187332 0 0 63.73837,-0.0397 45.069854,45.06985 87.187332 0 0 -0.0395,-63.73838 45.069854,45.06985 87.187332 0 0 -63.73839,0.0396" />
+      <path
+         id="path2561"
+         style="opacity:1;fill:#ffffff;stroke-width:1.34442"
+         d="m -192.9588,306.23476 a 32.938296,32.9383 45.815981 0 1 18.89809,6.02088 l 2.35294,-3.80775 c 0.12587,-0.23006 0.3204,-0.30485 0.50583,-0.27876 0.18543,0.0261 0.36214,0.15347 0.4533,0.32791 l 4.41102,20.67316 -19.40222,-6.49282 c -0.36815,-0.30666 -0.36121,-0.61855 -0.003,-0.88712 l 4.86349,-2.92741 a 23.675594,23.675597 39.322785 0 0 -12.16631,-3.36546 23.675594,23.675597 39.322785 0 0 -17.87286,8.1476 l -6.99188,-6.07427 a 32.938296,32.9383 45.815981 0 1 23.05745,-11.28682 32.938296,32.9383 45.815981 0 1 1.89371,-0.0491 z m -21.98817,14.74548 4.00687,20.06566 c -0.0284,0.37945 -0.43343,0.72143 -0.83289,0.40924 l -4.83807,-2.75456 -0.10336,-0.028 a 23.675594,23.675597 39.322785 0 0 -0.006,0.49991 23.675594,23.675597 39.322785 0 0 19.14464,23.23792 l -1.77254,9.09148 a 32.938296,32.9383 45.815981 0 1 -21.14765,-14.12526 32.938296,32.9383 45.815981 0 1 -5.35152,-21.19595 l -0.0187,-0.005 -4.32205,-0.21944 c -0.42113,-0.10127 -0.54762,-0.37581 -0.33807,-0.78884 z m 53.16357,7.818 a 32.938296,32.9383 45.815981 0 1 -17.3738,40.24145 l 0.0135,0.0525 2.11908,4.09752 c 0.26481,0.43233 -0.12222,0.79605 -0.50244,0.78121 l -20.05041,-6.54452 15.39113,-13.48725 c 0.43414,-0.16129 0.69282,-0.005 0.74562,0.42535 l 0.0534,5.41422 a 23.675594,23.675597 39.322785 0 0 12.01804,-20.60624 23.675594,23.675597 39.322785 0 0 -1.2057,-7.45704 z" />
+    </g>
+  </g>
+</svg>

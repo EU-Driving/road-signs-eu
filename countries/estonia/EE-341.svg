@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg10"
+   width="189.55312"
+   height="189.55304"
+   viewBox="0 0 189.55311 189.55304"
+   sodipodi:docname="Estonia road sign 3021.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
+  <metadata
+     id="metadata16">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs14" />
+  <sodipodi:namedview
+     inkscape:document-rotation="0"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     id="namedview12"
+     showgrid="false"
+     inkscape:zoom="2.9880425"
+     inkscape:cx="63.553375"
+     inkscape:cy="75.474098"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="text7308" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g18"
+     transform="translate(-3.5265645,-11.73198)">
+    <path
+       d="M 192.92968,106.5085 A 94.626514,94.626514 0 0 1 98.303088,201.13502 94.626514,94.626514 0 0 1 3.6765645,106.5085 94.626514,94.626514 0 0 1 98.303088,11.88198 94.626514,94.626514 0 0 1 192.92968,106.5085"
+       style="opacity:1;fill:#ef2b2f;fill-opacity:1;stroke:none;stroke-width:0.3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path18019" />
+    <path
+       d="M 174.86284,106.5085 A 76.559651,76.559651 0 0 1 98.303088,183.06817 76.559651,76.559651 0 0 1 21.743449,106.5085 76.559651,76.559651 0 0 1 98.303088,29.948858 76.559651,76.559651 0 0 1 174.86284,106.5085"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:1.49337"
+       id="circle18021" />
+    <g
+       style="font-style:normal;font-weight:normal;font-size:12.0062px;line-height:1.25;font-family:sans-serif;letter-spacing:0.87px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.300155"
+       id="text7308"
+       aria-label="8t"
+       transform="matrix(8.478977,0,0,8.478977,-2273.7085,-2709.4868)">
+      <g
+         transform="matrix(0.39406697,0,0,0.39406697,268.45044,320.95485)"
+         aria-label="7t"
+         id="text888"
+         style="font-style:normal;font-weight:normal;font-size:33.5284px;line-height:1.25;font-family:sans-serif;letter-spacing:0.7575px;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.838213">
+        <path
+           d="m 17.35125,21.533513 v -4.272907 h 12.900576 v 3.339743 q -1.588015,1.915441 -3.225144,5.45164 -1.620758,3.519827 -2.521179,7.563535 -0.884049,4.027338 -0.884049,7.317967 h -3.634426 q 0.13097,-5.107842 1.702614,-10.199313 1.571644,-5.091471 4.240164,-9.200665 z"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-family:Arial;-inkscape-font-specification:'Arial Bold Condensed';fill:#000000;stroke-width:0.838213"
+           id="path1189" />
+        <path
+           style="fill:#000000"
+           d="m 40.766614,23.547182 v 3.667168 h -2.570293 v 7.006912 q 0,2.275609 0.114599,2.635778 0.229198,0.654851 0.933164,0.654851 0.523881,0 1.506158,-0.442025 l 0.327426,3.568942 q -1.309703,0.687594 -2.963203,0.687594 -1.440674,0 -2.308352,-0.687594 -0.867678,-0.687595 -1.162361,-1.980926 -0.229198,-0.949535 -0.229198,-3.863625 V 27.21435 h -1.735357 v -3.667168 h 1.735357 V 20.09284 l 3.781767,-2.684892 v 6.139234 z"
+           id="path1191" />
+      </g>
+    </g>
+  </g>
+</svg>

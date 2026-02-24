@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="4330.3999"
+   height="1999.9606"
+   id="svg2">
+  <title
+     id="title3781">Znak F-13</title>
+  <defs
+     id="defs4">
+    <pattern
+       id="pattern5932"
+       patternTransform="translate(18.50938,18)"
+       height="476"
+       width="370"
+       patternUnits="userSpaceOnUse">
+      <rect
+         style="fill:#00e5ff;fill-opacity:1"
+         id="rect5934"
+         width="370"
+         height="476"
+         x="0"
+         y="0"
+         rx="20"
+         ry="20" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="370"
+       height="476"
+       patternTransform="translate(18.50938,18)"
+       id="pattern4002">
+      <rect
+         ry="20"
+         rx="20"
+         y="0"
+         x="0"
+         height="476"
+         width="370"
+         id="rect2240"
+         style="fill:#00e5ff;fill-opacity:1" />
+    </pattern>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="Arrow2Lstart"
+       style="overflow:visible">
+      <path
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(1.1,0,0,1.1,1.1,0)"
+         id="path5785"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </marker>
+  </defs>
+  <g
+     transform="translate(6115.4422,655.10313)"
+     id="layer1">
+    <g
+       transform="matrix(6.3420035,0,0,6.3420035,-5344.7047,-1709.6208)"
+       id="g3776">
+      <path
+         d="m 111.32813,90.984408 0,310.351532 518.94531,0 157.76393,-155.18272 -155.85938,-155.168812 -520.84986,0 z"
+         transform="translate(-230.35715,77.790756)"
+         id="path3770"
+         style="fill:#ffffff;stroke:#003399;stroke-width:4.99999714;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         d="m 127.74878,108.15025 -0.40503,277.56069 495.72505,0 101.99187,-139.592 -101.6466,-138.533 -495.66529,0.56431 z"
+         transform="translate(-230.35715,77.790756)"
+         id="path3772"
+         style="fill:#003399;fill-opacity:1;stroke:none" />
+      <path
+         d="m 213.96875,150.0625 -15.90625,15.90625 0,150 61.5,0 c 0,30.76188 31.34375,30.78125 31.34375,30.78125 32.91015,0 30.875,-30.78125 30.875,-30.78125 l 153.625,0 c 0,30.80649 30.46875,30.78125 30.46875,30.78125 34.27734,0 29.95928,-30.68359 30.25,-30.78125 l 31.0625,0 0,-11.03125 7.75,0 0,-8.40625 -7.75,0 0,-57.875 L 547.46875,223 534.375,180.4375 l -42.09375,0 0,-14.9375 -15.4375,-15.4375 -262.875,0 z m 315.625,45.3125 8,27.625 -45.3125,0 0.1875,-27.4375 37.125,-0.1875 z"
+         transform="translate(-230.35715,77.790756)"
+         id="path3774"
+         style="fill:#ffffff;stroke:none" />
+    </g>
+  </g>
+</svg>

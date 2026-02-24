@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1200"
+   height="2000"
+   viewBox="0 0 1200 2000.0001"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="drawing.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#111111"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     inkscape:showpageshadow="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.295"
+     inkscape:cx="1203.3898"
+     inkscape:cy="861.01695"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Lager 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,2400)">
+    <rect
+       style="fill:#005092;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.59484;stroke-linecap:round"
+       id="rect1120"
+       width="1200"
+       height="2000"
+       x="0"
+       y="-2400" />
+    <path
+       id="rect1602"
+       style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1.64317;stroke-linecap:round"
+       d="m 0,-800 600,-600 600,600 v 400 L 600,-1000 0,-400 Z"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       id="path1605"
+       style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1.64317;stroke-linecap:round"
+       d="m 0,-1800 600,-600 600,600 v 400 L 600,-2000 0,-1400 Z"
+       sodipodi:nodetypes="ccccccc" />
+  </g>
+</svg>

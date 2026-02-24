@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="D-9" xmlns="http://www.w3.org/2000/svg" width="602" height="752" viewBox="0 0 602 752">
+  <rect x="1" y="1" width="600" height="750" rx="30" ry="30" fill="#fff"/>
+  <rect x=".5" y=".5" width="601" height="751" rx="30.5" ry="30.5" fill="none" stroke="#000" stroke-miterlimit="1"/>
+  <rect x="7" y="7" width="588" height="738" rx="24" ry="24" fill="#039"/>
+  <g>
+    <path d="M171.33,391h91.86l-7.19,348H121l50.33-348ZM226,13l-39.48,273h78.84l5.64-273h-45ZM376,13h-45l5.64,273h78.84L376,13ZM430.67,391h-91.86l7.19,348h135l-50.33-348Z" fill="#fff"/>
+    <polygon points="13 301 589 301 589 316 511 316 526 391 466 391 481 316 121 316 136 391 76 391 91 316 13 316 13 301" fill="#fff"/>
+  </g>
+</svg>
