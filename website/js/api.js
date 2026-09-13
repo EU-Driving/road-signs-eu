@@ -13,8 +13,8 @@
   function flagUrl(cc) {
     const code = (cc || '').toLowerCase();
     if (RoadSigns.COUNTRY_FLAGS && RoadSigns.COUNTRY_FLAGS[code]) return RoadSigns.COUNTRY_FLAGS[code];
-    const base = getApiBase();
-    return base ? base + '/flags/' + code + '.png' : '';
+    // Use online flag service (flagcdn.com)
+    return 'https://flagcdn.com/w160/' + code + '.png';
   }
 
   function setStatus(msg, type) {
@@ -51,10 +51,11 @@
           });
         }
         setStatus('');
-        const first = json.data[0];
-        if (first && categorySelect) {
-          categorySelect.value = first.category;
-          RoadSigns.loadCategory(first.category);
+        // Default to VIENNA-A if available, otherwise use the first category
+        let defaultCategory = json.data.find(function (cat) { return cat.category === 'VIENNA-A'; }) || json.data[0];
+        if (defaultCategory && categorySelect) {
+          categorySelect.value = defaultCategory.category;
+          RoadSigns.loadCategory(defaultCategory.category);
         }
       })
       .catch(function (err) {

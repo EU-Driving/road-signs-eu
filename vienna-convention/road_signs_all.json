@@ -53,11 +53,6 @@
                     "center": "ES-P-13b"
                   }
                 },
-                "fr": {
-                  "position": {
-                    "center": "FR-A1b"
-                  }
-                },
                 "lt": {
                   "position": {
                     "center": "LT-114"
@@ -76,6 +71,11 @@
                 "sk": {
                   "position": {
                     "center": "SK-110-10"
+                  }
+                },
+                "fr": {
+                  "position": {
+                    "center": "FR-A1b"
                   }
                 }
               }
@@ -223,6 +223,11 @@
                 "fi": {
                   "position": {
                     "center": "FI-A1.1"
+                  }
+                },
+                "se": {
+                  "position": {
+                    "center": "SE-A1-2"
                   }
                 }
               }
@@ -456,6 +461,11 @@
                 "fi": {
                   "position": {
                     "center": "FI-A2.1"
+                  }
+                },
+                "se": {
+                  "position": {
+                    "center": "SE-A2-2"
                   }
                 }
               }
@@ -3164,11 +3174,6 @@
                     "center": "ES-P-21-A"
                   }
                 },
-                "fr": {
-                  "position": {
-                    "center": "FR-auou"
-                  }
-                },
                 "lt": {
                   "position": {
                     "center": "LT-105"
@@ -3192,6 +3197,11 @@
                 "sk": {
                   "position": {
                     "center": "SK-141-10"
+                  }
+                },
+                "fr": {
+                  "position": {
+                    "center": "FR-A13a"
                   }
                 }
               }
@@ -8374,6 +8384,11 @@
                 "fi": {
                   "position": {
                     "center": "FI-E30_2"
+                  }
+                },
+                "se": {
+                  "position": {
+                    "center": "SE-E15"
                   }
                 }
               }

@@ -9,8 +9,18 @@ node_modules/
 .env.production
 *.env
 *.pem
+*.p12
+*.pfx
+*.crt
+*.cer
 secrets/
 *.key
+id_rsa*
+id_ed25519*
+.npmrc
+.netrc
+*credentials*.json
+serviceAccount*.json
 
 # Backups and generated data
 /backup

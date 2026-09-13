@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Road Signs Mapper</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="header">
+        <h1>🛣️ Road Signs Mapper - Vienna Convention</h1>
+        <div class="country-selector">
+            <label for="countrySelect">Sélectionner un pays:</label>
+            <select id="countrySelect">
+                <option value="">-- Choisir un pays --</option>
+            </select>
+        </div>
+    </div>
+
+    <div class="mapping-area" id="mappingArea">
+        <div class="no-country-message">Sélectionnez un pays pour commencer le mapping</div>
+    </div>
+
+    <div class="bottom-section">
+        <div id="statusMessage"></div>
+        <div class="mappings-list" id="mappingsList">
+            <div class="mappings-title">Mappings du pays sélectionné</div>
+            <p style="color: #999; text-align: center; padding: 20px;">Sélectionnez un pays pour voir les mappings</p>
+        </div>
+        <div class="export-section">
+            <button class="export-btn" id="exportBtn">📥 Exporter les mappings</button>
+            <button class="import-btn" id="importBtn">📤 Importer un fichier</button>
+            <input type="file" id="fileInput" accept=".json">
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
