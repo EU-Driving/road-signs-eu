@@ -1,0 +1,30 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+Copyright (c) 2026 Paul TESSON (alias tes_maker)
+
+This license applies to the non-software content of this repository:
+  - the sign database (vienna-convention/road_signs_all.json and
+    vienna-convention/road_signs_vienna/)
+  - the country image sets (countries/)
+  - website/countries.json and website/EU.svg
+
+You are free to:
+  - Share: copy and redistribute the material in any medium or format
+  - Adapt: remix, transform, and build upon the material
+  for any purpose, even commercially.
+
+Under the following terms:
+  - Attribution: you must give appropriate credit to the original author,
+    Paul TESSON (alias tes_maker), provide a link to the license, and
+    indicate if changes were made. Suggested credit:
+    "Road sign data by Paul TESSON (tes_maker) - CC BY 4.0"
+
+No additional restrictions: you may not apply legal terms or technological
+measures that legally restrict others from doing anything the license permits.
+
+Full license text: https://creativecommons.org/licenses/by/4.0/legalcode
+
+Note: the road sign designs themselves originate from the Vienna Convention on
+Road Signs and Signals and the national regulations of each country; this
+license covers the compilation, organisation and derived files produced by the
+author, not any rights the respective governments may hold.

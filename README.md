@@ -38,3 +38,12 @@ Open `website/index.html` in a browser (or serve the folder via the API). If the
 ## API documentation
 
 See [api/README.md](api/README.md) for endpoints and response format.
+
+## License
+
+Free to use, modify and redistribute, including commercially — the only requirement is to **credit the author, Paul TESSON (alias tes_maker)**.
+
+- Code (`api/`, `website/`, `mapper/`, `scripts/`): [MIT](LICENSE)
+- Data and images (`vienna-convention/`, `countries/`): [CC BY 4.0](LICENSE-DATA)
+
+Suggested credit: `Based on road-signs-eu by Paul TESSON (tes_maker)`.

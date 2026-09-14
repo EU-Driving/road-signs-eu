@@ -2,6 +2,8 @@
   "name": "road-signs-api",
   "version": "1.0.0",
   "description": "API REST Items & Signaux routiers",
+  "license": "MIT",
+  "author": "Paul TESSON (tes_maker)",
   "main": "main.js",
   "scripts": {
     "start": "node main.js",

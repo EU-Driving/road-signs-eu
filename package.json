@@ -2,6 +2,8 @@
   "name": "road-signs-eu",
   "version": "1.0.0",
   "description": "Vienna Convention road signs – web app and API",
+  "license": "MIT",
+  "author": "Paul TESSON (tes_maker)",
   "private": true,
   "scripts": {
     "start": "node api/main.js",
